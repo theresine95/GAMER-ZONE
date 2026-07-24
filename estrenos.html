@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Estrenos | Gamer Zone</title>
+
+    <!-- Favicons -->
+    <link rel="icon" href="images/favicon/favicon.ico">
+
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="images/favicon/favicon-48x48.png">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+
+    <link rel="manifest" href="images/favicon/site.webmanifest">
+
+    <meta name="msapplication-config" content="images/favicon/browserconfig.xml">
+
+    <meta name="theme-color" content="#9bce21">
+
+    <meta name="application-name" content="Gamer Zone">
+    <meta name="apple-mobile-web-app-title" content="Gamer Zone">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+
+    <link rel="icon" type="image/png" sizes="192x192" href="images/favicon/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="images/favicon/android-chrome-512x512.png">
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<header class="header header-estrenos">
+
+    <div class="menu-wrapper menu-wrapper-estrenos">
+
+        <div class="menu menu-estrenos container">
+
+            <!-- ================= LOGO ================= -->
+
+            <a href="index.html" class="logo logo-estrenos">
+
+                <img
+                    src="images/otras/logo.png"
+                    alt="Gamer Zone">
+
+            </a>
+
+            <!-- ================= TÍTULO ================= -->
+
+            <h2 class="header-page-title">
+
+                ESTRENOS!!!
+
+            </h2>
+
+            <!-- ================= CARRITO ================= -->
+
+            <div class="submenu">
+
+                <img
+                    id="img-carrito"
+                    class="img-cart"
+                    src="images/otras/carrito-de-compras.svg"
+                    alt="Carrito">
+
+                <span id="contador-carrito">
+
+                    0
+
+                </span>
+
+                <div id="carrito">
+
+                    <!-- Encabezado -->
+
+                    <table class="carrito-head">
+
+                        <thead>
+
+                            <tr>
+
+                                <th>Imagen</th>
+                                <th>Juego</th>
+                                <th>Tamaño</th>
+                                <th>Precio</th>
+                                <th></th>
+
+                            </tr>
+
+                        </thead>
+
+                    </table>
+
+                    <!-- Lista -->
+
+                    <div class="carrito-lista">
+
+                        <table id="lista-carrito">
+
+                            <tbody id="tabla-carrito"></tbody>
+
+                        </table>
+
+                    </div>
+
+                    <!-- Footer -->
+
+                    <table class="carrito-footer">
+
+                        <tbody>
+
+                            <tr>
+
+                                <td>
+
+                                    <a
+                                        href="#"
+                                        id="vaciar-carrito"
+                                        class="btn-4">
+
+                                        Vaciar
+
+                                    </a>
+
+                                </td>
+
+                                <td class="footer-total">
+
+                                    TOTAL:
+
+                                </td>
+
+                                <td class="footer-tamano">
+
+                                    📦
+                                    <span id="total-tamano">
+
+                                        0 GB
+
+                                    </span>
+
+                                </td>
+
+                                <td class="footer-precio">
+
+                                    💰
+                                    <span id="total-precio">
+
+                                        0 Cup
+
+                                    </span>
+
+                                </td>
+
+                                <td></td>
+
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- ================= HERO ================= -->
+
+    <section class="estrenos-hero container">
+
+        <div class="estrenos-content">
+
+            <span class="estrenos-badge">
+
+                ÚLTIMOS LANZAMIENTOS
+
+            </span>
+
+            <h1 class="estrenos-title">
+
+                TODO LO NUEVO!!!
+
+            </h1>
+
+            <p class="estrenos-subtitle">
+
+                Los videojuegos más recientes<br>
+                incorporados al catálogo.
+
+            </p>
+
+            <div class="estrenos-line"></div>
+
+        </div>
+
+    </section>
+
+</header>
+
+
+<main class="juegos container">
+
+    <div class="box-container" id="lista-juegos">
+
+    </div>
+
+</main>
+
+<button id="btnTop" title="Ir arriba">
+
+    <svg width="24" height="24" viewBox="0 0 24 24">
+
+        <path
+            d="M12 5L5 12H9V19H15V12H19L12 5Z"
+            fill="white"/>
+
+    </svg>
+
+</button>
+
+<script src="js/utils.js"></script>
+<script src="js/data.js"></script>
+<script src="js/catalogo.js"></script>
+<script src="js/carrito.js"></script>
+<script src="js/menu.js"></script>
+<script src="js/trailer.js"></script>
+<script src="js/infinita.js"></script>
+<script src="js/estrenos.js"></script>
+
+</body>
+
+</html>

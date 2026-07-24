@@ -1,0 +1,3940 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+img{
+    max-width: 100%;
+}
+
+.container{
+
+    max-width:1200px;
+
+    margin:0 auto;
+
+    padding:0 20px;
+
+    width:100%;
+
+}
+
+
+/* Header */
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 130px 0 0 0;
+}
+
+
+
+.menu-wrapper{
+
+    position:fixed;
+
+    top:0;
+    left:0;
+
+    width:100%;
+
+    background:#fff;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+
+    z-index:1000;
+
+}
+
+.menu{
+
+    height:72px;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    gap:20px;
+
+}
+
+.header-top{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:20px;
+
+    flex-shrink:0;
+
+}
+
+.header-search{
+
+    flex:1;
+
+    display:flex;
+
+    justify-content:center;
+
+}
+
+.header-actions{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:14px;
+
+    flex-shrink:0;
+
+}
+
+.navbar{
+
+    display:flex;
+
+    align-items:center;
+
+    flex-shrink:0;
+
+}
+
+#menu{
+    display: none;
+}
+
+.menu-text{
+
+    display:inline;
+
+}
+
+.menu label{
+    display: none;
+}
+
+.menu-icono{
+    display: none;
+}
+
+
+
+/* ============================
+   LOGO
+============================ */
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-right: 20px;
+    position:relative;
+    overflow:hidden;
+}
+
+.logo::after{
+
+    content:"";
+
+    position:absolute;
+
+    inset:0;
+
+    background:linear-gradient(
+        110deg,
+        transparent 35%,
+        rgba(255,255,255,.25) 50%,
+        transparent 65%
+    );
+
+    background-size:220% 100%;
+
+    animation:shine 10s ease-in-out infinite;
+    animation-delay:3s;
+
+    pointer-events:none;
+
+}
+
+.logo img{
+    display: block;
+    height: 68px;
+    width: auto;
+
+    transition:
+        transform .25s ease,
+        filter .25s ease;
+}
+
+.logo:hover img{
+    transform: scale(1.05);
+    filter:
+        brightness(1.05)
+        contrast(1.03);
+}
+
+
+/* ============================
+   NAVBAR
+============================ */
+
+.menu{
+
+    position:fixed;
+
+    top:0;
+    left:0;
+    right:0;
+
+    z-index:1000;
+
+    display:flex;
+
+    align-items:center;
+
+    gap:25px;
+
+    background:#ffffff;
+
+    padding:0 20px;
+
+    box-shadow:
+        0 8px 20px rgba(0,0,0,.08);
+
+}
+
+
+
+/* ============================
+   BOTÓN INFORMACIÓN
+============================ */
+
+.info-trigger{
+
+    display:flex;
+    align-items:center;
+    gap:8px;
+
+    color:#111419;
+
+    transition:.3s;
+}
+
+.menu-icon-info{
+
+    width:22px;
+    height:22px;
+
+    flex-shrink:0;
+
+    transition:.3s;
+}
+
+.menu-arrow{
+
+    font-size:11px;
+
+    color:#9bce21;
+
+    margin-left:5px;
+
+    opacity:0;
+
+    transform:translateY(-3px);
+
+    transition:.25s;
+}
+
+.info-menu:hover .menu-icon-info{
+
+    transform:rotate(90deg);
+}
+
+
+.menu-text{
+
+    font-size:16px;
+
+    font-weight:600;
+
+    letter-spacing:.5px;
+
+    text-transform:uppercase;
+}
+
+.info-menu{
+
+    position:relative;
+
+    flex-shrink:0;
+
+}
+
+.info-menu>p{
+
+    position:relative;
+
+    display:flex;
+
+    align-items:center;
+
+    gap:8px;
+
+    cursor:pointer;
+
+    padding:20px 0;
+
+    color:#111419;
+
+    font-size:18px;
+
+    font-weight:500;
+
+    white-space:nowrap;
+
+    transition:.25s;
+
+}
+
+.info-menu>p:hover{
+
+    color:#9bce21;
+
+}
+
+/* Línea animada */
+
+.info-menu>p::after{
+
+    content:"";
+
+    position:absolute;
+
+    left:0;
+
+    bottom:12px;
+
+    width:100%;
+
+    height:2px;
+
+    background:#9bce21;
+
+    transform:scaleX(0);
+
+    transform-origin:left;
+
+    transition:.25s;
+
+}
+
+
+
+/* ============================
+   PRIMER MENÚ
+============================ */
+
+.info-dropdown{
+
+    position:absolute;
+
+    top:100%;
+
+    left:0;
+
+    min-width:220px;
+
+    list-style:none;
+
+    background:rgba(81,85,87,.95);
+
+    border-top:3px solid #9bce21;
+
+    border-radius:10px;
+
+    overflow:visible;
+
+    opacity:0;
+
+    visibility:hidden;
+
+    transform:translateY(12px);
+
+    transition:.25s;
+
+    z-index:1000;
+
+}
+
+
+
+
+/* ============================
+   OPCIONES DEL MENÚ
+============================ */
+
+.submenu-item{
+
+    position:relative;
+
+}
+
+.submenu-item>p{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:14px 18px;
+
+    color:#ffffff;
+
+    cursor:pointer;
+
+    white-space:nowrap;
+
+    transition:.25s;
+
+}
+
+.submenu-item>p:hover{
+
+    background:#9bce21;
+
+}
+
+
+
+/* Flecha */
+
+.submenu-item>p::after{
+
+    content:"▶";
+
+    font-size:10px;
+
+    opacity:.7;
+
+}
+
+
+
+/* ============================
+   SEGUNDO MENÚ
+============================ */
+
+.sub-dropdown{
+
+    position:absolute;
+
+    top:0;
+
+    left:100%;
+
+    min-width:420px;
+
+    list-style:none;
+
+    background:rgba(81,85,87,.96);
+
+    border-top:3px solid #9bce21;
+
+    border-radius:10px;
+
+    overflow:hidden;
+
+    opacity:0;
+
+    visibility:hidden;
+
+    transform:translateX(15px);
+
+    transition:.25s;
+
+    z-index:1100;
+
+}
+
+
+
+
+/* ============================
+   ITEMS INTERNOS
+============================ */
+
+.menu-item{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:14px 18px;
+
+    color:#ffffff;
+
+    font-size:15px;
+
+    transition:.25s;
+
+}
+
+.menu-item:hover{
+
+    background:#9bce21;
+    cursor: pointer;
+
+}
+
+.direccion-item{
+
+    padding:18px;
+
+    color:#ffffff;
+
+    line-height:1.6;
+
+}
+
+
+
+/* busqueda */
+
+.search-container{
+    display: inline-block;
+    background-color: #ffffff;
+    margin-right: 5px;
+    text-transform: capitalize;
+}
+
+#search-input{
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid #101010;
+    font-weight: 600;
+}
+
+#search-input::placeholder{
+    color: #515557;
+}
+
+
+
+/* Selector de Plataforma */
+
+#platformSelect {
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid #101010;
+    color: #515557;
+    font-weight: 600;
+}
+
+#platformSelect:hover{
+    cursor: pointer;
+}
+
+
+/* estrenos */
+
+.buttons{
+    display: flex;
+}
+
+.btn-1{
+    display: inline-block;
+    padding: 13px 25px;
+    background-color: #9bce21;
+    margin-right: 20px;
+    color: #ffffff;
+    text-transform: capitalize;
+    
+}
+
+
+
+
+/* ============================
+   CARRITO
+============================ */
+
+.submenu{
+    position: relative;
+    width: 44px;
+    height: 44px;
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+    margin-left:auto;
+}
+
+.submenu #carrito{
+
+    display:block;
+
+    position:absolute;
+
+    right:0;
+
+    top:100%;
+
+    z-index:100;
+
+    min-width:470px;
+
+    padding:10px;
+
+    border-radius:5px;
+
+    backdrop-filter:blur(10px);
+
+    background:rgba(78,75,32,.46);
+
+    opacity:0;
+
+    visibility:hidden;
+
+    pointer-events:none;
+
+    transform:translateY(15px) scale(.97);
+
+    box-shadow:
+
+        0 15px 35px rgba(0,0,0,.35),
+
+        0 0 25px rgba(155,206,33,.15);
+
+    transition:
+
+        opacity .30s ease,
+
+        transform .30s cubic-bezier(.22,1,.36,1),
+
+        visibility 0s linear .30s;
+
+}
+
+.submenu.activo #carrito{
+
+    opacity:1;
+
+    visibility:visible;
+
+    pointer-events:auto;
+
+    transform:translateY(0) scale(1);
+
+    transition-delay:0s;
+
+}
+
+.img-cart{
+
+    width: 48px;
+
+    height: 48px;
+
+    cursor: pointer;
+
+    transition:
+        transform .25s ease,
+        filter .25s ease;
+
+}
+
+.img-cart:hover{
+
+    transform: scale(1.08);
+
+    filter: drop-shadow(0 0 8px rgba(155,206,33,.5));
+
+}
+
+
+#contador-carrito{
+
+    position: absolute;
+
+    top: -14px;
+
+    right: -12px;
+
+    width: 25px;
+
+    height: 25px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    background: #e53935;
+
+    color: #fff;
+
+    border: 2px solid #fff;
+
+    border-radius: 50%;
+
+    font-size: 15px;
+
+    font-weight: 700;
+
+    z-index: 999;
+
+    pointer-events: none;
+
+}
+
+.contador-pop{
+
+    animation:pop .35s ease;
+
+}
+
+@keyframes pop{
+
+    0%{
+
+        transform:scale(1);
+
+    }
+
+    40%{
+
+        transform:scale(1.35);
+
+    }
+
+    100%{
+
+        transform:scale(1);
+
+    }
+
+}
+
+.img-cart.carrito-activo{
+
+    transform: scale(1.12);
+
+    border: 2px solid #e53935;
+
+    border-radius: 8px;
+
+}
+
+@keyframes carritoPop{
+
+    0%{
+
+        transform: scale(1);
+
+    }
+
+    50%{
+
+        transform: scale(1.18);
+
+    }
+
+    100%{
+
+        transform: scale(1.12);
+
+    }
+
+}
+
+.img-cart.pop{
+
+    animation: carritoPop .35s ease;
+
+}
+
+/* ==========================
+   TEMBLOR DEL CARRITO
+========================== */
+
+@keyframes carritoShake {
+
+    0%   { transform: translateX(0); }
+
+    20%  { transform: translateX(-2px); }
+
+    40%  { transform: translateX(2px); }
+
+    60%  { transform: translateX(-2px); }
+
+    80%  { transform: translateX(2px); }
+
+    100% { transform: translateX(0); }
+
+}
+
+.img-cart.shake{
+
+    animation: carritoShake .35s ease;
+
+}
+
+/* ============================
+   TABLAS DEL CARRITO
+============================ */
+
+.carrito-head,
+#lista-carrito,
+.carrito-footer{
+
+    width:100%;
+    table-layout:fixed;
+    border-collapse:collapse;
+
+}
+
+.carrito-head{
+
+    border-radius:5px 5px 0 0;
+    margin-bottom:4px;
+
+}
+
+/* ============================
+   ANCHO DE COLUMNAS
+============================ */
+
+/* Imagen */
+
+.carrito-head th:nth-child(1),
+#lista-carrito td:nth-child(1),
+.carrito-footer td:nth-child(1){
+
+    width:55px;
+
+}
+
+/* Juego */
+
+.carrito-head th:nth-child(2),
+#lista-carrito td:nth-child(2),
+.carrito-footer td:nth-child(2){
+
+    width:125px;
+
+}
+
+/* Tamaño */
+
+.carrito-head th:nth-child(3),
+#lista-carrito td:nth-child(3),
+.carrito-footer td:nth-child(3){
+
+    width:80px;
+
+}
+
+/* Precio */
+
+.carrito-head th:nth-child(4),
+#lista-carrito td:nth-child(4),
+.carrito-footer td:nth-child(4){
+
+    width:80px;
+
+}
+
+/* Eliminar */
+
+.carrito-head th:nth-child(5),
+#lista-carrito td:nth-child(5),
+.carrito-footer td:nth-child(5){
+
+    width:40px;
+
+}
+
+/* ============================
+   ENCABEZADOS
+============================ */
+
+.carrito-head th{
+
+    padding:10px 0;
+    color:#fff;
+    font-weight:600;
+    text-align:center;
+
+}
+
+/* ============================
+   CELDAS
+============================ */
+
+#lista-carrito td{
+
+    color:#fff;
+    font-size:15px;
+    font-weight:600;
+    padding:6px 0;
+    text-align:center;
+
+}
+
+/* Juego */
+
+#lista-carrito td:nth-child(2){
+
+    text-align:center;
+    padding-left: 5px;
+
+}
+
+/* Tamaño */
+
+#lista-carrito td:nth-child(3){
+
+    text-align:left;
+    padding-left:8px;
+    padding-right:8px;
+    white-space:nowrap;
+
+}
+
+/* Precio */
+
+#lista-carrito td:nth-child(4){
+
+    text-align:left;
+    padding-left:8px;
+    padding-right:8px;
+    white-space:nowrap;
+
+}
+
+/* Eliminar */
+
+#lista-carrito td:nth-child(5){
+
+    text-align:center;
+
+}
+
+/* ============================
+   SCROLL
+============================ */
+
+.carrito-lista{
+
+    max-height:380px;
+    overflow-y:auto;
+    overflow-x:hidden;
+
+}
+
+.carrito-lista::-webkit-scrollbar{
+
+    width:8px;
+
+}
+
+.carrito-lista::-webkit-scrollbar-thumb{
+
+    background:#9bce21;
+    border-radius:20px;
+
+}
+
+.carrito-lista::-webkit-scrollbar-track{
+
+    background:transparent;
+
+}
+
+/* ============================
+   MINIATURAS
+============================ */
+
+#lista-carrito img{
+
+    width:60px;
+    border-radius:8px;
+    border:1px solid #9bce21;
+    transition:.3s;
+
+}
+
+#lista-carrito img:hover{
+
+    transform:scale(1.08);
+
+}
+
+/* ============================
+   BOTÓN ELIMINAR
+============================ */
+
+.borrar{
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    width:26px;
+    height:26px;
+
+    margin:auto;
+
+    border-radius:50%;
+
+    background:#9bce21;
+    color:#fff;
+
+    transition:.25s;
+
+}
+
+.borrar:hover{
+
+    background:#d32f2f;
+    transform:rotate(360deg) scale(1.1);
+
+}
+
+/* ============================
+   PIE DEL CARRITO
+============================ */
+
+.carrito-footer{
+
+    width:100%;
+
+    table-layout:fixed;
+
+    border-collapse:collapse;
+
+    border-top:1px solid #9bce21;
+
+    margin-top:8px;
+
+}
+
+.carrito-footer td{
+
+    padding:10px 0;
+
+    vertical-align:middle;
+
+}
+
+/*=========================
+COLUMNA 1
+=========================*/
+
+.carrito-footer td:nth-child(1){
+
+    width:55px;
+
+    text-align:left;
+
+}
+
+/*=========================
+COLUMNA 2
+=========================*/
+
+.carrito-footer td:nth-child(2){
+
+    width:125px;
+
+    text-align:center;
+
+}
+
+/*=========================
+COLUMNA 3
+=========================*/
+
+.carrito-footer td:nth-child(3){
+
+    width:80px;
+
+    text-align:left;
+
+}
+
+/*=========================
+COLUMNA 4
+=========================*/
+
+.carrito-footer td:nth-child(4){
+
+    width:80px;
+
+    text-align:left;
+
+}
+
+/*=========================
+COLUMNA 5
+=========================*/
+
+.carrito-footer td:nth-child(5){
+
+    width:30px;
+
+}
+
+/*=========================
+TOTAL
+=========================*/
+
+.footer-total{
+
+    color:#ffffff;
+
+    font-size:18px;
+
+    font-weight:800;
+
+    white-space:nowrap;
+
+}
+
+/*=========================
+TAMAÑO Y PRECIO
+=========================*/
+
+.footer-tamano,
+.footer-precio{
+
+    color:#ffffff;
+
+    font-size:16px;
+
+    font-weight:700;
+
+    white-space:nowrap;
+
+}
+
+.footer-tamano span,
+.footer-precio span{
+
+    font-size:16px;
+
+    font-weight:700;
+
+}
+
+/*=========================
+BOTÓN VACIAR
+=========================*/
+
+.btn-4{
+
+    display:inline-block;
+
+    padding:10px 18px;
+
+    background:#9bce21;
+
+    color:#fff;
+
+    border-radius:5px;
+
+    white-space:nowrap;
+
+    transition:.25s;
+
+}
+
+.btn-4:hover{
+
+    background:#84b31d;
+
+}
+
+/* ==========================
+   ANIMACIÓN DE TOTALES
+========================== */
+
+@keyframes totalPop{
+
+    0%{
+
+        transform: scale(1);
+
+        color: inherit;
+
+        text-shadow: none;
+
+    }
+
+    50%{
+
+        transform: scale(1.12);
+
+        color: #9bce21;
+
+        text-shadow: 0 0 8px rgba(155,206,33,.55);
+
+    }
+
+    100%{
+
+        transform: scale(1);
+
+        color: inherit;
+
+        text-shadow: none;
+
+    }
+
+}
+
+.total-pop{
+
+    animation: totalPop .35s ease;
+
+}
+
+/* ==========================
+   HOVER FILAS DEL CARRITO
+========================== */
+
+#lista-carrito tbody tr{
+
+    transition:
+        background .25s ease,
+        transform .25s ease,
+        box-shadow .25s ease;
+
+}
+
+#lista-carrito tbody tr img{
+
+    transition:
+        transform .25s ease,
+        filter .25s ease;
+
+}
+
+#lista-carrito tbody tr:hover{
+
+    background: rgba(155,206,33,.08);
+
+    transform: translateX(4px);
+
+}
+
+#lista-carrito tbody tr:hover img{
+
+    transform: scale(1.08);
+
+    filter: drop-shadow(0 0 6px rgba(155,206,33,.35));
+
+}
+
+.carrito-detalle{
+
+    position:relative;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    width:44px;
+
+    height:44px;
+
+}
+
+.carrito-detalle img{
+
+    width:34px;
+
+    cursor:pointer;
+
+    transition:.25s;
+
+}
+
+.carrito-detalle img:hover{
+
+    transform:scale(1.08);
+
+}
+
+#contador-carrito-detalle{
+
+    position:absolute;
+
+    top:-4px;
+
+    right:-4px;
+
+    width:20px;
+
+    height:20px;
+
+    border-radius:50%;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    background:#e53935;
+
+    color:#fff;
+
+    font-size:11px;
+
+    font-weight:bold;
+
+    display:none;
+
+}
+
+/* ============================
+   BOTÓN VACIAR
+============================ */
+
+.footer-vaciar{
+
+    display:flex;
+
+    justify-content:flex-start;
+
+}
+
+.btn-4{
+
+    display:inline-block;
+
+    padding:10px 18px;
+
+    background:#9bce21;
+
+    color:#ffffff;
+
+    text-transform:capitalize;
+
+    border-radius:5px;
+
+    margin:0;
+
+    transition:.25s;
+
+    white-space:nowrap;
+
+}
+
+.btn-4:hover{
+
+    background:#84b31d;
+
+}
+
+.btn-3.agregado{
+
+    background:#515557;
+
+    cursor:default;
+
+    pointer-events:none;
+
+}
+
+
+
+
+/* titulo */
+
+.header-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.header-txt{
+
+    position:relative;
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:flex-start;
+
+    gap:14px;
+    
+
+}
+
+
+.header-txt h1{
+
+    display:flex;
+
+    position:relative;
+    overflow:hidden;
+
+    flex-direction:column;
+
+    line-height:.9;
+
+    margin:0;
+
+}
+
+.header-txt h1::after{
+
+    content:"";
+
+    position:absolute;
+
+    inset:0;
+
+    background:linear-gradient(
+        110deg,
+        transparent 35%,
+        rgba(255,255,255,.85) 50%,
+        transparent 65%
+    );
+
+    background-size:220% 100%;
+
+    animation:shine 15s ease-in-out infinite;
+
+    pointer-events:none;
+
+}
+
+.titulo-top{
+
+    font-family:'Orbitron',sans-serif;
+
+    font-size:56px;
+
+    font-weight:900;
+
+    background:linear-gradient(
+        90deg,
+        #4caf50 0%,
+        #84b31d 35%,
+        #9bce21 50%,
+        #84b31d 65%,
+        #4caf50 100%
+    );
+
+    -webkit-background-clip:text;
+    background-clip:text;
+
+    -webkit-text-fill-color:transparent;
+
+}
+
+.titulo-bottom{
+
+    font-family:'Orbitron',sans-serif;
+
+    font-size:68px;
+
+    font-weight:900;
+
+    color:#111419;
+
+    text-shadow:
+
+        0 0 10px rgba(155,206,33,.15);
+
+}
+
+.hero-subtitle{
+
+    color:#6d6d6d;
+
+    font-size:18px;
+
+    line-height:1.7;
+
+}
+
+.hero-subtitle strong{
+
+    color:#9bce21;
+
+}
+
+.hero-line{
+
+    width:1080px;
+
+    height:4px;
+
+    border-radius:20px;
+
+    background:
+
+    linear-gradient(
+
+    90deg,
+
+    #9bce21,
+
+    #4caf50,
+
+    transparent
+
+    );
+
+}
+
+.header-txt{
+
+    animation:heroAppear .8s ease;
+
+}
+
+@keyframes heroAppear{
+
+    from{
+
+        opacity:0;
+
+        transform:
+
+        translateY(25px);
+
+    }
+
+    to{
+
+        opacity:1;
+
+        transform:
+
+        translateY(0);
+
+    }
+
+}
+
+@keyframes watermark{
+
+    0%,100%{
+
+        transform:scale(1);
+
+        opacity:.03;
+
+    }
+
+    50%{
+
+        transform:scale(1.04);
+
+        opacity:.05;
+
+    }
+
+}
+
+
+
+
+
+/* BOX */
+
+.juegos{
+    padding: 0 0 50px 0;
+    text-align: center;
+}
+
+
+
+.box-container{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+ 
+
+/* BOX */
+
+.box{
+    display: flex;
+    border-top: 1px solid #9bce21;
+    border-radius: 15px;
+    box-shadow: 0 8px 10px rgba(0, 0, 0, 0.2);
+    background-color: #ffffff;
+    height: 100%;
+    flex-direction: column;
+    border: #9bce21 solid 1px;
+    overflow: hidden;
+    animation:aparecer .45s ease;
+}
+
+
+.box img{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+    transition: all .5s;
+}
+
+.box{
+    transition:
+        transform .35s ease,
+        box-shadow .35s ease;
+}
+
+.box:hover{
+
+    transform: translateY(-8px);
+
+    box-shadow:
+        0 15px 35px rgba(155,206,33,.35);
+
+}
+
+.box figure{
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.box:hover img{
+    transform: scale(1.2);
+}
+
+.product-txt h2{
+    font-size: 23px;
+    font-weight: 700 !important;
+    color: #111419;
+    padding: 3px;
+    margin-top: 1px;
+    margin-bottom: 3px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+  /* Añade esta línea para quitar el aviso de error */
+    line-clamp: 3;
+    height: 3.4em;
+    line-height: 1.1em;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+/* Ajuste para que Tamaño y Precio no se rompan en 2 columnas */
+
+.game-meta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px; /* Espacio reducido para que quepa todo */
+    margin-bottom: 2px;
+    font-size: 0.75rem; /* Un poco más pequeño para móviles */
+    white-space: nowrap; /* Prohibir que el texto salte de línea */
+}
+
+.precio{
+    font-size: 17px;
+    font-weight: 700;
+    color: #ff9100 !important;
+}
+
+.tamaño{
+    font-size: 17px;
+    font-weight: 700;
+    color: #515557;
+}
+
+/* Botones */
+
+.btn-2, .btn-3 {
+    background-color: #9bce21;
+    margin-top: 1px;
+    margin-bottom: 8px;
+    display: inline-block;
+    width: 95px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    border: none;
+    transition:
+        transform .25s ease,
+        box-shadow .25s ease,
+        background-color .25s ease,
+        color .25s ease;
+}
+
+.btn-1:hover, .btn-2:hover, .btn-3:hover, .btn-4:hover {
+    transform: translateY(-3px);
+
+    background-color: #13462e;
+
+    box-shadow:
+        0 10px 20px rgba(0,0,0,.25),
+        0 0 12px rgba(155,206,33,.35);
+}
+
+.btn-1, .btn-4{
+    border-radius: 5px;
+    transition:
+        transform .25s ease,
+        box-shadow .25s ease,
+        background-color .25s ease,
+        color .25s ease;
+}
+
+.btn-1:active,
+.btn-2:active,
+.btn-3:active,
+.btn-4:active{
+
+    transform: translateY(5px);
+
+    box-shadow:
+        0 4px 8px rgba(0,0,0,.2);
+
+}
+
+
+.filtro{
+    display: none;
+}
+
+
+/* DETALLES */
+
+
+.details-container {
+    max-width: 900px;
+    margin: 40px auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+    padding: 0;
+    border: #4caf50 solid 1px;
+}
+
+.details-header {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.details-cover {
+    width: 350px;
+    height: 100%;
+    object-fit: cover;
+}
+
+.details-info {
+    flex: 1;
+    padding: 20px;
+}
+
+.details-title {
+    font-size: 32px;
+    margin-bottom: 15px;
+    color: #111419;
+}
+
+.details-meta {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.meta-item {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 6px;
+    border: #4caf50 solid 1px;
+}
+
+.meta-label {
+    font-size: 14px;
+    color: #4caf50;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.meta-value {
+    font-size: 18px;
+    font-weight: bold;
+    color: #111419;
+}
+
+.sistem-req{
+    background: #ffffff; 
+    padding: 20px; 
+    border-radius: 8px; 
+    font-family: sans-serif; 
+    color: #111419; 
+    line-height: 1.8; 
+    border: 1px solid #4caf50; 
+    font-size: 0.95rem;
+}
+
+.details-description {
+    padding: 20px;
+    line-height: 1.6;
+    background-color: #ffffff;
+    border-top: #4caf50 solid 1px;
+}
+
+.details-description h2 {
+    margin-bottom: 15px;
+    color: #4caf50;
+}
+
+.req{
+    color: #4caf50;
+}
+
+.req-line {
+  display: flex;          /* coloca h3 y p en la misma fila */
+  align-items: center;    /* centra verticalmente */
+  margin-bottom: 6px;     /* espacio entre filas */
+}
+
+.req-line h3 {
+  margin: 0;
+  margin-right: 8px;      /* espacio entre h3 y p */
+}
+
+.req-line p {
+  margin: 0;
+}
+
+.req-title::after{
+
+    content: ":";
+
+}
+
+.req-value{
+    color: #111419;
+    word-break:break-word;
+    font-weight: 500;
+    margin-left: 5px;
+}
+
+@media (max-width: 768px) {
+
+    #gameDetails{
+        padding: 10px;
+    }
+
+    .details-header {
+        flex-direction: column;
+    }
+
+    .details-cover {
+        width: 100%;
+        height: auto;
+    }
+
+    .details-title {
+        font-size: 24px;
+    }
+
+    .details-meta {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.details-description p {
+    white-space: 5px;
+}
+
+.details-info .btn-group {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+/* ============================
+   GRUPO DE BOTONES
+============================ */
+
+.btn-group{
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    gap:12px;
+
+    margin-top:10px;
+
+    flex-wrap:wrap;
+
+    text-align:center;
+
+}
+
+.btn-group .submenu{
+
+    margin-left:10px;
+
+    flex-shrink:0;
+
+}
+
+.meta-item{
+
+    transition:.3s;
+
+}
+
+.meta-item:hover{
+
+    transform:translateY(-4px);
+
+    box-shadow:
+
+        0 10px 18px rgba(0,0,0,.15);
+
+}
+
+/*==================================================
+                ESTRENOS
+===================================================*/
+
+.estrenos{
+
+    padding-top:90px;
+
+}
+
+.menu-estrenos{
+
+    display:grid;
+
+    grid-template-columns:170px 1fr 170px;
+
+    grid-template-areas:
+        "logo titulo carrito";
+
+}
+
+.estrenos-txt{
+
+    display:block;
+
+    margin-bottom:5px;
+
+    color:#4caf50;
+
+    font-size:60px;
+
+    font-weight:800;
+
+    text-transform:uppercase;
+
+}
+
+/*=========================
+LOGO
+=========================*/
+
+.menu-estrenos .logo{
+
+    grid-area:logo;
+
+    justify-self:start;
+
+}
+
+/*=========================
+TÍTULO
+=========================*/
+
+.menu-estrenos .header-page-title{
+
+    grid-area:titulo;
+
+    justify-self:center;
+
+    margin:0;
+
+}
+
+/*=========================
+CARRITO
+=========================*/
+
+.menu-estrenos .submenu{
+
+    grid-area:carrito;
+
+    justify-self:end;
+
+}
+
+
+.caja{
+
+    overflow:hidden;
+
+    border-radius:10px;
+
+}
+
+.caja img{
+
+    transition:
+
+        transform .35s ease,
+
+        filter .35s ease;
+
+}
+
+.caja:hover img{
+
+    transform:scale(1.08);
+
+    filter:brightness(1.08);
+
+}
+
+
+.galeria{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+}
+
+
+#btnTop {
+    display: none;
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50%;
+    background: #9bce21;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0,0,0,.3);
+    z-index: 9999;
+    transition: all .3s ease;
+     transition:
+
+        transform .25s,
+
+        background .25s;
+}
+
+#btnTop:hover {
+    background: #13462e;
+    transform:translateY(-5px) scale(1.08);
+}
+
+
+#search-input:focus,
+#platformSelect:focus{
+
+    border-color:#4caf50;
+
+    box-shadow:
+
+        0 0 0 4px rgba(76,175,80,.15);
+
+}
+
+/* SCROLL */
+
+#scroll-trigger{
+
+    width:100%;
+
+    display:flex;
+
+    justify-content:center;
+
+    padding:40px 0;
+
+}
+
+#loading-more{
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    color: #4caf50;
+
+    font-size:18px;
+
+    font-weight:600;
+
+}
+
+
+@keyframes aparecer{
+
+    from{
+
+        opacity:0;
+
+        transform:translateY(25px);
+
+    }
+
+    to{
+
+        opacity:1;
+
+        transform:translateY(0);
+
+    }
+
+}
+
+/* ============================
+   PANTALLA DE CARGA
+============================ */
+
+#loader{
+
+    position:fixed;
+
+    inset:0;
+
+    background:#111419;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    z-index:99999;
+
+    transition:
+        opacity .5s ease,
+        visibility .5s ease;
+
+}
+
+.loader-content{
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+}
+
+.loader-logo{
+
+    width:220px;
+
+    margin-bottom:30px;
+
+    animation:logoPulse 1.8s infinite ease-in-out;
+
+}
+
+.loader-spinner{
+
+    width:44px;
+
+    height:44px;
+
+    border:4px solid rgba(255,255,255,.15);
+
+    border-top:4px solid #9bce21;
+
+    border-radius:50%;
+
+    animation:spin .8s linear infinite;
+
+}
+
+.loader-content p{
+
+    margin-top:20px;
+
+    color:#ffffff;
+
+    font-size:15px;
+
+    letter-spacing:2px;
+
+    text-transform:uppercase;
+
+}
+
+#loader.hide{
+
+    opacity:0;
+
+    visibility:hidden;
+
+}
+
+/* Animaciones */
+
+@keyframes spin{
+
+    to{
+
+        transform:rotate(360deg);
+
+    }
+
+}
+
+@keyframes logoPulse{
+
+    0%,100%{
+
+        transform:scale(1);
+
+    }
+
+    50%{
+
+        transform:scale(1.04);
+
+    }
+
+}
+
+@keyframes shine {
+
+    0%{
+        background-position:-250% 0;
+        opacity:0;
+    }
+
+    8%{
+        opacity:0;
+    }
+
+    20%{
+        opacity:.25;
+    }
+
+    50%{
+        background-position:0% 0;
+        opacity:.35;
+    }
+
+    80%{
+        opacity:.25;
+    }
+
+    92%{
+        opacity:0;
+    }
+
+    100%{
+        background-position:250% 0;
+        opacity:0;
+    }
+
+}
+
+
+/*==============================
+        HERO ESTRENOS
+===============================*/
+
+.header-page-title{
+
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+
+    font-family:'Orbitron', sans-serif;
+
+    font-size:42px;
+
+    font-weight:900;
+
+    letter-spacing:3px;
+
+    background:linear-gradient(
+        90deg,
+        #4caf50,
+        #9bce21,
+        #dfff7b,
+        #9bce21,
+        #4caf50
+    );
+
+    background-size:200%;
+
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+
+    text-shadow:
+        0 0 10px rgba(155,206,33,.15);
+
+    text-transform:uppercase;
+
+    pointer-events:none;
+
+}
+
+.header-page-title::after{
+
+    content: "";
+
+    position: absolute;
+
+    top: -20%;
+    left: -40%;
+
+    width: 22%;
+    height: 140%;
+
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255,255,255,.85),
+        transparent
+    );
+
+    transform: skewX(-25deg);
+
+    opacity: 0;
+
+    animation: shineEstrenos 8s ease-in-out infinite;
+
+}
+
+.estrenos-hero{
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    text-align:center;
+
+    padding:15px 0 45px;
+
+}
+
+.estrenos-content{
+
+    position:relative;
+
+}
+
+.estrenos-badge{
+
+    display:inline-block;
+
+    padding:8px 18px;
+
+    border-radius:30px;
+
+    background:#111419;
+
+    color:#9bce21;
+
+    font-size:13px;
+
+    font-weight:700;
+
+    letter-spacing:2px;
+
+    text-transform:uppercase;
+
+    margin-bottom:18px;
+
+}
+
+.estrenos-title{
+
+    font-family:'Orbitron',sans-serif;
+
+    font-size:60px;
+
+    font-weight:900;
+
+    margin-bottom:15px;
+
+    background:linear-gradient(
+        90deg,
+        #4caf50,
+        #9bce21,
+        #dfff7b,
+        #9bce21,
+        #4caf50
+    );
+
+    background-size:200%;
+
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+
+    text-shadow:
+        0 0 10px rgba(155,206,33,.15);
+
+}
+
+.estrenos-subtitle{
+
+    color:#6b6b6b;
+
+    font-size:18px;
+
+    line-height:1.8;
+
+    font-weight:500;
+
+}
+
+.estrenos-line{
+
+    width:780px;
+
+    height:4px;
+
+    margin:28px auto 0;
+
+    border-radius:20px;
+
+    background:linear-gradient(
+        90deg,
+        transparent,
+        #9bce21,
+        #4caf50,
+        transparent
+    );
+
+}
+
+@keyframes shineEstrenos{
+
+    0%{
+
+        left:-40%;
+        opacity:0;
+
+    }
+
+    8%{
+
+        opacity:.9;
+
+    }
+
+    20%{
+
+        left:120%;
+        opacity:.4;
+
+    }
+
+    30%{
+
+        opacity:0;
+
+    }
+
+    100%{
+
+        left:120%;
+        opacity:0;
+
+    }
+
+}
+
+.box figure{
+
+    position:relative;
+
+    overflow:hidden;
+
+}
+
+.badge-new{
+
+    position:absolute;
+
+    top:14px;
+
+    left:-36px;
+
+    width:120px;
+
+    padding:6px 0;
+
+    background:#d62828;
+
+    color:#fff;
+
+    font-size:13px;
+
+    font-weight:800;
+
+    letter-spacing:1px;
+
+    text-align:center;
+
+    transform:rotate(-45deg);
+
+    text-transform:uppercase;
+
+    z-index:20;
+
+    pointer-events:none;
+
+    box-shadow:
+        0 3px 10px rgba(0,0,0,.35);
+
+}
+
+.details-cover-wrapper{
+
+    position:relative;
+
+    overflow:hidden;
+
+    width:350px;
+
+    flex-shrink:0;
+
+}
+
+.details-cover-wrapper .badge-new{
+
+    position:absolute;
+
+    top:15px;
+
+    left:-37px;
+
+    width:125px;
+
+    padding:6px 0;
+
+    background:#d62828;
+
+    color:#fff;
+
+    font-size:13px;
+
+    font-weight:800;
+
+    letter-spacing:1px;
+
+    text-align:center;
+
+    text-transform:uppercase;
+
+    transform:rotate(-45deg);
+
+    z-index:50;
+
+    pointer-events:none;
+
+    user-select:none;
+
+    box-shadow:
+        0 4px 10px rgba(0,0,0,.35);
+
+}
+
+
+
+
+/*=====================================
+    HOVER SOLO PARA ESCRITORIO
+=====================================*/
+
+.info-dropdown{
+
+    opacity:0;
+    visibility:hidden;
+    pointer-events:none;
+
+    transform:translateY(12px);
+
+    transition:.25s;
+
+}
+
+.info-dropdown.activo{
+
+    opacity:1;
+    visibility:visible;
+    pointer-events:auto;
+
+    transform:translateY(0);
+
+}
+
+.sub-dropdown{
+
+    opacity:0;
+    visibility:hidden;
+    pointer-events:none;
+
+    transition:.25s;
+
+}
+
+.submenu-item.activo > .sub-dropdown{
+
+    opacity:1;
+    visibility:visible;
+    pointer-events:auto;
+
+    transform:translateX(0);
+
+}
+
+.info-menu.activo .info-trigger{
+
+    color:#9bce21;
+
+}
+
+.info-menu.activo .menu-icon-info{
+
+    transform:rotate(90deg);
+
+}
+
+.info-menu.activo .menu-arrow{
+
+    opacity:1;
+
+    transform:translateY(0);
+
+}
+
+.info-menu.activo > p::after{
+
+    transform:scaleX(1);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*==================================================
+            HEADER RESPONSIVE
+===================================================*/
+
+@media (max-width:767px){
+
+.header{
+
+    padding-top:160px;
+
+}
+
+/*=========================
+MENU
+=========================*/
+
+/* Primera fila */
+.menu{
+
+    display:grid;
+
+    grid-template-columns:50px 1fr 50px;
+
+    grid-template-areas:
+        "info logo carrito"
+        "buscar buscar buscar"
+        "acciones acciones acciones";
+
+    gap:14px;
+
+    width:100%;
+
+    align-items:center;
+
+}
+
+
+
+
+
+
+
+/*=========================
+INFORMACION
+=========================*/
+
+.navbar{
+
+    grid-area:info;
+
+    justify-self:start;
+
+}
+
+.menu-text,
+.menu-arrow{
+
+    display:none;
+
+}
+
+.menu-icon-info{
+
+    width:40px;
+
+    height:40px;
+
+}
+
+/*=========================
+PRIMER MENÚ
+=========================*/
+
+.info-dropdown{
+
+    left:0;
+    top:100%;
+
+    width:320px;
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    border-radius:10px;
+
+    opacity:0;
+    visibility:hidden;
+    pointer-events:none;
+
+    transform:translateY(10px);
+
+    transition:.25s;
+
+}
+
+/* Se abre al hacer click */
+
+.info-dropdown.activo{
+
+    opacity:1;
+    visibility:visible;
+    pointer-events:auto;
+
+    transform:translateY(0);
+
+}
+
+/*=========================
+TÍTULOS
+=========================*/
+
+.submenu-item > p{
+
+    justify-content:center;
+
+    text-align:center;
+
+    padding:14px 8px;
+
+    font-size:14px;
+
+}
+
+.submenu-item > p::after{
+
+    display:none;
+
+}
+
+/*=========================
+SUBMENÚS
+=========================*/
+
+.sub-dropdown{
+
+    left:0;
+
+    top:100%;
+
+    min-width:320px;
+
+    width:100%;
+
+    transform:translateY(10px);
+
+    opacity:0;
+    visibility:hidden;
+    pointer-events:none;
+
+    transition:.25s;
+
+}
+
+/* Se abre al hacer click */
+
+.submenu-item.activo > .sub-dropdown{
+
+    opacity:1;
+    visibility:visible;
+    pointer-events:auto;
+
+    transform:translateY(0);
+
+}
+
+/*=========================
+ITEMS
+=========================*/
+
+.menu-item{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:12px 16px;
+
+    font-size:13px;
+
+}
+
+.direccion-item{
+
+    padding:16px;
+
+    line-height:1.6;
+
+    font-size:13px;
+
+}
+
+/*=========================
+POSICIÓN DE LOS SUBMENÚS
+=========================*/
+
+/* Horarios */
+
+.submenu-item:nth-child(2) .sub-dropdown{
+
+    left:-100px;
+
+}
+
+/* Dirección */
+
+.submenu-item:nth-child(3) .sub-dropdown{
+
+    left:-210px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*=========================
+LOGO
+=========================*/
+
+.logo{
+
+    grid-area:logo;
+
+    justify-self:center;
+
+}
+
+.logo img{
+
+    width:170px;
+
+    height: 90%;
+
+}
+
+
+/*=========================
+CARRITO
+=========================*/
+
+.submenu{
+
+    grid-area:carrito;
+
+    justify-self:end;
+
+}
+
+
+
+
+
+/*==================================================
+            CARRITO RESPONSIVE
+===================================================*/
+
+
+
+/*=========================
+CONTENEDOR
+=========================*/
+
+
+
+.submenu #carrito{
+
+    width:min(350px, calc(100vw - 16px));
+
+    min-width:0;
+
+    right:-8px;
+
+    top:48px;
+
+    padding:8px;
+
+}
+
+
+
+/*=========================
+COLUMNAS
+=========================*/
+
+/* Imagen */
+.carrito-head th:nth-child(1),
+#lista-carrito td:nth-child(1),
+.carrito-footer td:nth-child(1){
+    width:16%;
+}
+
+/* Juego */
+.carrito-head th:nth-child(2),
+#lista-carrito td:nth-child(2),
+.carrito-footer td:nth-child(2){
+    width:36%;
+}
+
+/* Tamaño */
+.carrito-head th:nth-child(3),
+#lista-carrito td:nth-child(3),
+.carrito-footer td:nth-child(3){
+    width:18%;
+}
+
+/* Precio */
+.carrito-head th:nth-child(4),
+#lista-carrito td:nth-child(4),
+.carrito-footer td:nth-child(4){
+    width:24%;
+}
+
+/* Eliminar */
+.carrito-head th:nth-child(5),
+#lista-carrito td:nth-child(5),
+.carrito-footer td:nth-child(5){
+    width:8%;
+}
+
+.carrito-footer td:nth-child(2){
+    width:27% !important;
+}
+
+.carrito-footer td:nth-child(3){
+    width: 17% !important;
+}
+
+.carrito-footer td:nth-child(4){
+    width:18% !important;
+}
+
+/*=========================
+ENCABEZADO
+=========================*/
+
+.carrito-head th{
+
+    font-size:13px;
+
+    padding:8px 0;
+
+}
+
+/*=========================
+FILAS
+=========================*/
+
+#lista-carrito td{
+
+    font-size:12px;
+
+    padding:5px 0;
+
+}
+
+/* Juego */
+
+#lista-carrito td:nth-child(2){
+
+    padding-left:0;
+
+}
+
+/* Tamaño */
+
+#lista-carrito td:nth-child(3){
+
+    padding-left:2px;
+
+}
+
+/* Precio */
+
+#lista-carrito td:nth-child(4){
+
+    padding-left:8px;
+
+}
+
+/*=========================
+IMAGEN
+=========================*/
+
+#lista-carrito img{
+
+    width:48px;
+
+    height: 60px;
+
+    border-radius:6px;
+
+}
+
+/*=========================
+BOTÓN ELIMINAR
+=========================*/
+
+.borrar{
+
+    width:20px;
+
+    height:20px;
+
+    font-size:12px;
+
+}
+
+/*=========================
+SCROLL
+=========================*/
+
+.carrito-lista{
+
+    max-height:250px;
+
+    overflow-y:scroll;
+
+    padding-right:6px;
+
+    scrollbar-width:thin;
+    scrollbar-color:#9bce21 transparent;
+
+}
+
+.carrito-lista::-webkit-scrollbar{
+
+    width:6px;
+
+}
+
+.carrito-lista::-webkit-scrollbar-thumb{
+
+    background:#9bce21;
+    border-radius:20px;
+
+}
+
+.carrito-lista::-webkit-scrollbar-track{
+
+    background:transparent;
+
+}
+
+/*=========================
+PIE
+=========================*/
+
+.carrito-footer td{
+
+    padding:8px 0;
+
+}
+
+/* TOTAL */
+
+.footer-total{
+
+    font-size:14px;
+
+}
+
+/* Precio y Tamaño */
+
+.footer-precio,
+.footer-tamano{
+
+    font-size:13px;
+
+}
+
+.footer-precio span,
+.footer-tamano span{
+
+    font-size:13px;
+
+}
+
+/*=========================
+BOTÓN VACIAR
+=========================*/
+
+.btn-4{
+
+    padding:7px 15px;
+
+    font-size:15px;
+
+}
+
+
+
+
+
+
+
+
+
+
+/*=========================
+BUSCADOR
+=========================*/
+
+.search-container{
+
+    grid-area:buscar;
+
+    width:100%;
+
+    max-width:none;
+
+}
+
+#search-input{
+
+    width:100%;
+
+}
+
+/*=========================
+SELECT + BOTON
+=========================*/
+
+.header-actions{
+
+    grid-area:acciones;
+
+    display:grid;
+
+    grid-template-columns:1fr 1fr;
+
+    gap:12px;
+
+    width:100%;
+
+}
+
+#platformSelect{
+
+    width:100%;
+
+    min-width:0;
+
+}
+
+.btn-1{
+
+    width:100%;
+
+    margin:0;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*==================================================
+            HERO RESPONSIVE
+===================================================*/
+
+@media (max-width:767px){
+
+/*=========================
+FONDO DEL HEADER
+=========================*/
+
+.menu-wrapper{
+
+    height:auto;
+
+    min-height:198px; /* ajusta según necesites */
+
+    border-bottom: 1px solid #9bce21;
+
+}
+
+/*=========================
+HEADER
+=========================*/
+
+.header{
+
+    padding-top:170px;
+
+    min-height:auto;
+
+}
+
+/*=========================
+HERO
+=========================*/
+
+.header-content{
+
+    padding:35px 0 0;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+/*=========================
+TEXTO
+=========================*/
+
+.header-txt{
+
+    width:100%;
+
+    text-align:center;
+
+    padding:0 12px;
+
+}
+
+/*=========================
+TÍTULO
+=========================*/
+
+.header-txt{
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    justify-content:center;
+
+    width:100%;
+
+    text-align:center;
+
+}
+
+.header-txt h1{
+
+    width:100%;
+
+    margin:0 auto 16px;
+
+    text-align:center;
+
+    line-height:1;
+
+}
+
+.titulo-top,
+.titulo-bottom{
+
+    display:block;
+
+    width:100%;
+
+    text-align:center;
+
+    font-size: 45px;
+
+}
+
+/*=========================
+SUBTÍTULO
+=========================*/
+
+.hero-subtitle{
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    justify-content:center;
+
+    gap:8px;
+
+    text-align:center;
+
+    width:100%;
+
+    margin:0 auto;
+
+}
+
+.hero-item{
+
+    display:block;
+
+    width:100%;
+
+    font-size:15px;
+
+    line-height:1.5;
+
+}
+
+/* Oculta los separadores */
+.separador {
+
+    display:none;
+
+}
+
+/*=========================
+LÍNEA VERDE
+=========================*/
+
+.hero-line{
+
+    width:400px;
+
+    margin:10px auto 0;
+
+}
+
+}
+
+
+
+
+
+
+/*==================================================
+            CATÁLOGO RESPONSIVE
+===================================================*/
+
+@media (max-width:767px){
+
+/*=========================
+CONTENEDOR
+=========================*/
+
+.juegos{
+
+    padding:10px 16px;
+
+}
+
+/*=========================
+GRID
+=========================*/
+
+.box-container{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,minmax(0,1fr));
+
+    gap:16px;
+
+    width:100%;
+
+}
+
+/*=========================
+TARJETA
+=========================*/
+
+.box{
+
+    width:100%;
+
+    height: 100%;
+
+    max-width:none;
+
+    margin:0;
+
+}
+
+/*=========================
+IMAGEN
+=========================*/
+
+.box img{
+
+    width:100%;
+
+    height:auto;
+
+    display:block;
+
+}
+
+/*=========================
+TÍTULO
+=========================*/
+
+.product-txt h2{
+    font-size: 17px;
+    font-weight: 700 !important;
+    color: #111419;
+    padding: 3px;
+    margin-top: 1px;
+    margin-bottom: 3px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+  /* Añade esta línea para quitar el aviso de error */
+    line-clamp: 3;
+    height: 3.4em;
+    line-height: 1.1em;
+    text-align: center;
+    font-weight: bold;
+    z-index: 1000;
+}
+
+
+/*=========================
+TAMAÑO Y PRECIO
+=========================*/
+
+.game-meta{
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+    
+    gap:5px;
+
+    margin-top: 2px;
+
+    margin-bottom: 2px;
+
+    flex-wrap:nowrap;
+
+}
+
+.tamaño,
+.precio{
+
+    font-size:15px; 
+
+    font-weight:700;
+
+    line-height:1.2;
+
+}
+
+/*=========================
+BOTONES
+=========================*/
+
+.card-buttons{
+
+    display:flex;
+
+    gap:2px;
+
+    margin-top:5px;
+
+}
+
+.card-buttons .btn-2,
+.card-buttons .btn-3{
+
+    flex:1;
+
+    width:100%;
+
+    margin:3px;
+
+    padding:5px 0;
+
+    margin-bottom: 8px;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    text-align:center;
+
+}
+
+}
+
+
+
+
+
+/*==================================================
+            DETALLES RESPONSIVE
+===================================================*/
+
+@media (max-width:767px){
+
+.details-container{
+
+    display:grid;
+
+    grid-template-columns:1fr;
+
+    gap:28px;
+
+}
+
+/*=========================
+PORTADA
+=========================*/
+
+.details-cover-wrapper{
+
+    width:100%;
+
+    max-width:1000px;
+
+    margin:0 auto;
+
+}
+
+/*=========================
+INFORMACIÓN
+=========================*/
+
+.details-info{
+
+    width:100%;
+
+}
+
+/*=========================
+GALERÍA
+=========================*/
+
+.gallery{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:10px;
+
+}
+
+.gallery img{
+
+    width:100%;
+
+}
+
+#gameDetails .submenu #carrito{
+
+    right:-38px;
+
+}
+
+}
+
+
+
+
+
+
+/*==================================================
+        HEADER ESTRENOS RESPONSIVE
+===================================================*/
+
+@media (max-width:767px){
+
+/*=========================
+MENU WRAPPER
+=========================*/
+
+.menu-wrapper-estrenos{
+
+    height:72px;
+
+    min-height:72px;
+
+    padding-top:8px;
+
+    border-bottom:1px solid #9bce21;
+
+}
+
+/*=========================
+HEADER
+=========================*/
+
+.header-estrenos{
+
+    padding-top:72px;
+
+}
+
+/*=========================
+MENU
+=========================*/
+
+.menu-estrenos{
+
+    position:fixed;
+
+    top:8px;
+
+    left:0;
+    right:0;
+
+    z-index:1000;
+
+    display:grid;
+
+    grid-template-columns:80px 1fr 60px;
+
+    grid-template-areas:
+        "logo titulo carrito";
+
+    align-items:center;
+
+    gap:0;
+
+    padding:0 12px;
+
+    height:64px;
+
+    background:#fff;
+
+    box-shadow:
+        0 8px 20px rgba(0,0,0,.08);
+
+}
+
+/*=========================
+LOGO
+=========================*/
+
+.logo-estrenos{
+
+    grid-area:logo;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-self:start;
+
+    height:40px;
+
+}
+
+.logo-estrenos img{
+
+    height:40px;
+
+    width:auto;
+
+}
+
+/*=========================
+TÍTULO
+=========================*/
+
+.header-page-title{
+
+    grid-area:titulo;
+
+    position:static;
+
+    left:auto;
+
+    transform:none;
+
+    margin:0;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    height:60px;
+
+    font-size:31px;
+
+    line-height:1;
+
+    letter-spacing:1px;
+
+    white-space:nowrap;
+
+    margin-left:-18px;
+
+}
+
+.submenu{
+
+    grid-area:carrito;
+
+    justify-self:end;
+
+}
+
+}
+
+
+
+/*==================================================
+            HERO RESPONSIVE
+===================================================*/
+
+@media (max-width:767px){
+
+.estrenos-hero{
+
+    padding:25px 0 30px;
+
+}
+
+.estrenos-content{
+
+    width:100%;
+
+    text-align:center;
+
+}
+
+.estrenos-badge{
+
+    font-size:11px;
+
+    padding:7px 14px;
+
+    letter-spacing:1px;
+
+}
+
+.estrenos-title{
+
+    font-size:44px;
+
+    line-height:1.1;
+
+    margin-bottom:12px;
+
+}
+
+.estrenos-subtitle{
+
+    font-size:15px;
+
+    line-height:1.8;
+
+}
+
+.estrenos-line{
+
+    width:92%;
+
+    margin-top:20px;
+
+}
+
+}
+
+/*==================================================
+            CATÁLOGO RESPONSIVE
+===================================================*/
+
+@media (max-width:767px){
+
+.juegos{
+
+    padding:30px 16px;
+
+}
+
+.box-container{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,minmax(0,1fr));
+
+    gap:16px;
+
+}
+
+.box{
+
+    width:100%;
+
+    margin:0;
+
+}
+
+.box img{
+
+    width:100%;
+
+    height:auto;
+
+}
+
+.box h3{
+
+    font-size:16px;
+
+    min-height:42px;
+
+}
+
+}
+
+
+
+
