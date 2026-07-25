@@ -15,13 +15,14 @@ function normalizar(texto) {
 
 const ESTRENOS_IDS = [
 
-    840,
-    743,
-    146,
-    755,
-    1,
     628,
-    738
+    755,
+    738,
+    146,
+    840,
+    1,
+    743,
+    841
 
 ];
 

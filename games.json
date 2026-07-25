@@ -18,12 +18,11 @@
     "notas": "Se recomienda SSD",
     "incluye": "Standard Pack, 00 Pack",
     "imagenes": [
-      "https://img.compu-pc.com/i/18fb8a89af617d9e8b137f2a27310fdf/007-First-Light-2026-PC-Full-img-1.jpg",
-      "https://img.compu-pc.com/i/cf75831a06ab5541637fa569952baf07/007-First-Light-2026-PC-Full-img-2.jpg",
-      "https://img.compu-pc.com/i/2472e31fc0cb42fd4f8c9e7bc0a60e41/007-First-Light-2026-PC-Full-img-3.jpg",
-      "https://img.compu-pc.com/i/8b9d66d125c0685e1b58b505b022a70f/007-First-Light-2026-PC-Full-img-4.jpg"
-    ],
-    "trailer": "https://youtu.be/nTUoIyTMw0Q?si=5W50vggahYK4L0nt"
+      "images/gameplay/007 First Light/1.webp",
+      "images/gameplay/007 First Light/2.webp",
+      "images/gameplay/007 First Light/3.webp",
+      "images/gameplay/007 First Light/4.webp"
+    ]
   },
   {
     "id": 2,
@@ -2179,8 +2178,12 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Bubble Collection/1.webp",
+      "images/gameplay/Bubble Collection/2.webp",
+      "images/gameplay/Bubble Collection/3.webp",
+      "images/gameplay/Bubble Collection/4.webp"
+    ]
   },
   {
     "id": 107,
@@ -17886,8 +17889,7 @@
       "",
       "",
       ""
-    ],
-    "trailer": "https://www.youtube.com/watch?v=JRCH0qPHYzo"
+    ]
   },
   {
     "id": 72,
@@ -17988,5 +17990,29 @@
     "incluye": "---",
     "imagenes": ["", "", "", ""],
     "trailer": ""
+  },
+  {
+    "id": 841,
+    "titulo": "Beacon Pines",
+    "plataforma": "PC",
+    "anio": "2022",
+    "genero": "ADV",
+    "update": "---",
+    "tamano": "495 MB",
+    "precio": "50 Cup",
+    "descripcion": "Aventura narrativa con elementos de novela visual donde las decisiones cambian el curso de la historia. Controlas a Luka, un joven que investiga extraños sucesos en Beacon Pines mientras descubre oscuros secretos utilizando palabras especiales para alterar el destino.",
+    "SO": "Windows 7",
+    "Procesador": "1.8 GHz",
+    "RAM": "2 GB",
+    "Gráficos": "1 GB VRAM",
+    "DirectX": "---",
+    "notas": "---",
+    "incluye": "Beacon Pines Artbook, Beacon Pines Original Soundtrack",
+    "imagenes": [
+      "images/gameplay/Beacon Pines/1.webp",
+      "images/gameplay/Beacon Pines/2.webp",
+      "images/gameplay/Beacon Pines/3.webp",
+      "images/gameplay/Beacon Pines/4.webp"
+    ]
   }
 ]
