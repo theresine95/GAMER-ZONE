@@ -69,10 +69,6 @@ async function buscarJuegos(e) {
 
         normalizar(juego.titulo).includes(texto) ||
 
-        normalizar(juego.genero).includes(texto) ||
-
-        normalizar(juego.plataforma).includes(texto) ||
-
         normalizar(juego.anio).includes(texto)
 
     );
