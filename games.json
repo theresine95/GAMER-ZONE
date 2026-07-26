@@ -6344,6 +6344,7 @@
   {
     "id": 313,
     "titulo": "Geometry Dash",
+    "imagen": "images/Geometry Dash.webp",
     "plataforma": "PC",
     "anio": "2014",
     "genero": "PLT/RHY",
@@ -6358,8 +6359,12 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "Level Editor",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Geometry Dash/1.webp",
+      "images/gameplay/Geometry Dash/2.webp",
+      "images/gameplay/Geometry Dash/3.webp",
+      "images/gameplay/Geometry Dash/4.webp"
+    ]
   },
   {
     "id": 314,
@@ -10805,12 +10810,13 @@
   {
     "id": 544,
     "titulo": "Palworld",
+    "imagen": "images/Palworld.webp",
     "plataforma": "PC",
-    "anio": "2024",
+    "anio": "2026",
     "genero": "SANDBOX/RPG",
-    "update": "(25/06/2025)",
-    "tamano": "17 GB",
-    "precio": "100 Cup",
+    "update": "(15/07/2026)",
+    "tamano": "30 GB",
+    "precio": "150 Cup",
     "descripcion": "Juego de supervivencia y mundo abierto donde capturas criaturas llamadas Pals para combatir, construir bases, fabricar objetos y explorar un enorme mapa.",
     "SO": "Windows 10 64-bit",
     "Procesador": "Core i5-3570K",
@@ -10819,8 +10825,12 @@
     "DirectX": "11",
     "notas": "Se recomienda SSD",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Palworld/1.webp",
+      "images/gameplay/Palworld/2.webp",
+      "images/gameplay/Palworld/3.webp",
+      "images/gameplay/Palworld/4.webp"
+    ]
   },
   {
     "id": 545,
@@ -18067,5 +18077,31 @@
       "images/gameplay/Beacon Pines/3.webp",
       "images/gameplay/Beacon Pines/4.webp"
     ]
+  },
+  {
+    "id": 842,
+    "titulo": "GUN",
+    "imagen": "images/GUN.webp",
+    "plataforma": "PC",
+    "anio": "2005",
+    "genero": "TPS/ACT",
+    "update": "---",
+    "tamano": "495 MB",
+    "precio": "50 Cup",
+    "descripcion": "Juego de acción en tercera persona y mundo abierto ambientado en el Viejo Oeste. Controlas a Colton White mientras busca venganza y descubre la verdad sobre su pasado enfrentándose a forajidos, soldados y tribus indígenas en una extensa frontera.",
+    "SO": "Windows 2000/XP",
+    "Procesador": "Pentium 4 1.8 GHz",
+    "RAM": "256 MB",
+    "Gráficos": "GeForce 3 / Radeon 8500",
+    "DirectX": "9.0c",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/GUN/1.webp",
+      "images/gameplay/GUN/2.webp",
+      "images/gameplay/GUN/3.webp",
+      "images/gameplay/GUN/4.webp"
+    ]
   }
+  
 ]
