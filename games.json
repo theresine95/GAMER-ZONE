@@ -43,11 +43,11 @@
     "notas": "---",
     "incluye": "---",
     "imagenes": [
-      "https://img.compu-pc.com/i/e8516f119b10bd54aff872e523ba1e6c/7-days-to-die-2024-pc-imagen-001.jpg",
-      "https://img.compu-pc.com/i/251337a96b2d9d4eeaeccc34c8776ce3/7-days-to-die-2024-pc-imagen-002.jpg",
-      "https://img.compu-pc.com/i/94e06f22d6ce5daf2b199a72f38ce7b6/7-days-to-die-2024-pc-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/kikTJaVBank?si=Xmim9_xrf9vmQiiR"
+      "images/gameplay/7 Days to Die/1.webp",
+      "images/gameplay/7 Days to Die/2.webp",
+      "images/gameplay/7 Days to Die/3.webp",
+      "images/gameplay/7 Days to Die/4.webp"
+    ]
   },
   {
     "id": 3,
@@ -68,11 +68,11 @@
     "notas": "---",
     "incluye": "Coats of Arms DLC",
     "imagenes": [
-      "https://4.bp.blogspot.com/-iNUDbi7DK7o/XNnL0lsl3SI/AAAAAAAAizY/pJumOjGQotgJ91oHLd8ltsSaxjbYuI5gACLcBGAs/s1600/A-Plague-Tale-Innocence-PC-imagen-001.jpg",
-      "https://3.bp.blogspot.com/-DwQnZbNHp2o/XNnL0uzrhDI/AAAAAAAAizc/8VIAmqSZBXEff5acufLAQnGW-yq7P9IPgCLcBGAs/s1600/A-Plague-Tale-Innocence-PC-imagen-002.jpg",
-      "https://1.bp.blogspot.com/-qbpL6_UKdPc/XNnL0umIIbI/AAAAAAAAizg/s-hfEUrxfG0zBJa55LrXIBNDH80I4ytogCLcBGAs/s1600/A-Plague-Tale-Innocence-PC-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/H4FOb16Nenk?si=c1W5p3EkccU5C2xr"
+      "images/gameplay/A Plague Tale Innocence/1.webp",
+      "images/gameplay/A Plague Tale Innocence/2.webp",
+      "images/gameplay/A Plague Tale Innocence/3.webp",
+      "images/gameplay/A Plague Tale Innocence/4.webp"
+    ]
   },
   {
     "id": 4,
@@ -93,12 +93,11 @@
     "notas": "Se recomienda SSD",
     "incluye": "Protector Pack",
     "imagenes": [
-      "https://img.compu-pc.com/i/d97917e061661da3cb89217500a82b47/A-Plague-Tale-Requiem-2022-PC-imagen-001.jpg",
-      "https://img.compu-pc.com/i/a07d87a1c398f11952bbf68fbcec6db1/A-Plague-Tale-Requiem-2022-PC-imagen-002.jpg",
-      "https://img.compu-pc.com/i/72e7b50ebdedb028b8a7ae4c4902d7c7/A-Plague-Tale-Requiem-2022-PC-imagen-003.jpg",
-      "https://img.compu-pc.com/i/1a8a69a6112bb8ebfdc811e98bf3d16c/A-Plague-Tale-Requiem-2022-PC-imagen-004.jpg"
-    ],
-    "trailer": "https://youtu.be/qIbzwb8vzNI?si=E3VxS5HKwi95e5Pl"
+      "images/gameplay/A Plague Tale Requiem/1.webp",
+      "images/gameplay/A Plague Tale Requiem/2.webp",
+      "images/gameplay/A Plague Tale Requiem/3.webp",
+      "images/gameplay/A Plague Tale Requiem/4.webp"
+    ]
   },
   {
     "id": 5,
@@ -119,11 +118,11 @@
     "notas": "Se recomienda SSD",
     "incluye": "Pre-Purchase Bonus",
     "imagenes": [
-      "https://img.compu-pc.com/i/62db2738e16693bdd0f196242a18c987/A-Quiet-Place-The-Road-Ahead-2024-PC-Full-imagen-001.jpg",
-      "https://img.compu-pc.com/i/e6388c3d95f3ec3b3406cbee928c5423/A-Quiet-Place-The-Road-Ahead-2024-PC-Full-imagen-002.jpg",
-      "https://img.compu-pc.com/i/8a5246e34b826fac37aa46bf2d9495b6/A-Quiet-Place-The-Road-Ahead-2024-PC-Full-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/Sb_C7p0prc0?si=VVbUtJpxE_fJ3sxH"
+      "images/gameplay/A Quiet Place The Road Ahead/1.webp",
+      "images/gameplay/A Quiet Place The Road Ahead/2.webp",
+      "images/gameplay/A Quiet Place The Road Ahead/3.webp",
+      "images/gameplay/A Quiet Place The Road Ahead/4.webp"
+    ]
   },
   {
     "id": 6,
@@ -144,11 +143,11 @@
     "notas": "---",
     "incluye": "---",
     "imagenes": [
-      "https://img.compu-pc.com/i/664e6cb144ae57676eec1c6bf88d0e62/Absolum-2025-PC-Full-imagen-001.jpg",
-      "https://img.compu-pc.com/i/9dd3cade7034916ed88a5ca8504836b1/Absolum-2025-PC-Full-imagen-002.jpg",
-      "https://img.compu-pc.com/i/45b4cdeb690f741ee2c9fff49a39a517/Absolum-2025-PC-Full-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/i0QWQ8L1HRg?si=1ay64u2UkxO8q_Gv"
+      "images/gameplay/Absolum/1.webp",
+      "images/gameplay/Absolum/2.webp",
+      "images/gameplay/Absolum/3.webp",
+      "images/gameplay/Absolum/4.webp"
+    ]
   },
   {
     "id": 7,
@@ -169,12 +168,11 @@
     "notas": "---",
     "incluye": "---",
     "imagenes": [
-      "https://img.compu-pc.com/i/f151e4a56f9f29e5735590e07b83d497/Aeterna-Noctis-2021-PC-Full-imagen-001.jpg",
-      "https://img.compu-pc.com/i/1f6f273ca7b25e247549712fbe5cb84c/Aeterna-Noctis-2021-PC-Full-imagen-002.jpg",
-      "https://img.compu-pc.com/i/e83455c0268bdaf07f5a745987718934/Aeterna-Noctis-2021-PC-Full-imagen-003.jpg",
-      "https://img.compu-pc.com/i/51dae85d49a9d5d6053cc1b566372f90/Aeterna-Noctis-2021-PC-Full-imagen-004.jpg"
-    ],
-    "trailer": "https://youtu.be/ktCoNrGlgy4?si=YB-E3R2Q8WRcOM4k"
+      "images/gameplay/Aeterna Noctis/1.webp",
+      "images/gameplay/Aeterna Noctis/2.webp",
+      "images/gameplay/Aeterna Noctis/3.webp",
+      "images/gameplay/Aeterna Noctis/4.webp"
+    ]
   },
   {
     "id": 8,
@@ -195,11 +193,11 @@
     "notas": "---",
     "incluye": "---",
     "imagenes": [
-      "https://img.compu-pc.com/i/88c639d8d95bc345011730a51920aae9/Age-of-Darkness-Final-Stand-(2021)-PC-Game-Imagen-1.jpg",
-      "https://img.compu-pc.com/i/8cda740f5eb128927bbdf2e3a04b8a04/Age-of-Darkness-Final-Stand-(2021)-PC-Game-Imagen-2.jpg",
-      "https://img.compu-pc.com/i/f0e36613c66ebddfbef7c2bf16e77f28/Age-of-Darkness-Final-Stand-(2021)-PC-Game-Imagen-3.jpg"
-    ],
-    "trailer": "https://youtu.be/5kYL60b9q_o?si=1EO6liyXOgtt6jf1"
+      "images/gameplay/Age of Darkness/1.webp",
+      "images/gameplay/Age of Darkness/2.webp",
+      "images/gameplay/Age of Darkness/3.webp",
+      "images/gameplay/Age of Darkness/4.webp"
+    ]
   },
   {
     "id": 9,
@@ -220,12 +218,11 @@
     "notas": "---",
     "incluye": "The Rise of Rome",
     "imagenes": [
-      "http://1.bp.blogspot.com/-SjZALhS1SoI/TpdeLSRBJcI/AAAAAAAADTk/lcbDfHpjbwg/s1600/cap+3.png",
-      "https://www.blizzboygames.net/wp-content/uploads/2019/08/AOE1G-1.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2019/08/AOE1G-4.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2019/08/AOE1G-3.jpg"
-    ],
-    "trailer": "https://youtu.be/bnO5Tt4Uh34?si=RcnTHF8kiLGHJNAs"
+      "images/gameplay/Age of Empires 1/1.webp",
+      "images/gameplay/Age of Empires 1/2.webp",
+      "images/gameplay/Age of Empires 1/3.webp",
+      "images/gameplay/Age of Empires 1/4.webp"
+    ]
   },
   {
     "id": 10,
@@ -246,12 +243,11 @@
     "notas": "---",
     "incluye": "Base Game, Rise of Rome",
     "imagenes": [
-      "https://3.bp.blogspot.com/-0hCnH_2BTa4/WpBks9osZOI/AAAAAAAAehI/GdqhQCbNHRsKPc5H4-TboN_SNsBRuATwACLcBGAs/s1600/Age-of-empires-definitive-edition-pc-game-imagen-001.jpg",
-      "https://3.bp.blogspot.com/-M0z2tei4ljc/WpBkszJwF4I/AAAAAAAAehM/pDjmUxEWrxMsUrD3YI-w4UvH3IzfcjbsQCLcBGAs/s1600/Age-of-empires-definitive-edition-pc-game-imagen-002.jpg",
-      "https://4.bp.blogspot.com/-hDby5-QzP_I/WpBkx8IBz1I/AAAAAAAAehQ/lGQ7fytEudMntNxq6NpO5t0zt7T74FcMQCLcBGAs/s1600/Age-of-empires-definitive-edition-pc-game-imagen-004.jpg",
-      "https://3.bp.blogspot.com/-nNZAiG9eAu8/WpBk0zHRBAI/AAAAAAAAehU/FuMat3f9a2YEX33BYRs_6toNivT-oUakACLcBGAs/s1600/Age-of-empires-definitive-edition-pc-game-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/UDe78q1hYqM?si=yrZREoyBwQ41fOe0"
+      "images/gameplay/Age of Empires 1 Definitive Edition/1.webp",
+      "images/gameplay/Age of Empires 1 Definitive Edition/2.webp",
+      "images/gameplay/Age of Empires 1 Definitive Edition/3.webp",
+      "images/gameplay/Age of Empires 1 Definitive Edition/4.webp"
+    ]
   },
   {
     "id": 11,
@@ -272,12 +268,11 @@
     "notas": "---",
     "incluye": "The Forgotten, The African Kingdoms, Rise of the Rajas",
     "imagenes": [
-      "https://3.bp.blogspot.com/-7W1JgfDWw_I/Vj2MMcuNe7I/AAAAAAAAaSQ/7mSIMdlg7jU/s1600/Age-Empires-2-HD-African-Kingdoms-IMG-004.jpg",
-      "https://2.bp.blogspot.com/-BI7otomQkqg/Vj2MLzNeU7I/AAAAAAAAaSI/1VPaGaOQUik/s1600/Age-Empires-2-HD-African-Kingdoms-IMG-003.jpg",
-      "https://4.bp.blogspot.com/-nxwe61ReMsY/Vj2ML8SydGI/AAAAAAAAaSM/F59uUumtLCI/s1600/Age-Empires-2-HD-African-Kingdoms-IMG-002.jpg",
-      "https://2.bp.blogspot.com/-wBPd7WGFuoI/Vj2ML6-H-eI/AAAAAAAAaSE/4jovbuVNiR4/s1600/Age-Empires-2-HD-African-Kingdoms-IMG-001.jpg"
-    ],
-    "trailer": "https://youtu.be/q_MEFt7KrxQ?si=MPKlHGuWTaIhCe8_"
+      "images/gameplay/Age of Empires 2 HD/1.webp",
+      "images/gameplay/Age of Empires 2 HD/2.webp",
+      "images/gameplay/Age of Empires 2 HD/3.webp",
+      "images/gameplay/Age of Empires 2 HD/4.webp"
+    ]
   },
   {
     "id": 12,
@@ -298,15 +293,16 @@
     "notas": "---",
     "incluye": "Lords of the West, Dawn of the Dukes, Dynasties of India, Return of Rome, The Mountain Royals, Victors and Vanquished, Chronicles: Battle for Greece, The Three Kingdoms",
     "imagenes": [
-      "https://img.compu-pc.com/i/ec2563dbeabb69b803acc98b123cdc0b/Age-of-Empires-II-Definitive-Edition-2019-PC-Full-imagen-001.jpg",
-      "https://img.compu-pc.com/i/8d53f14137013f1dad572ac9cb662b6f/Age-of-Empires-II-Definitive-Edition-2019-PC-Full-imagen-002.jpg",
-      "https://img.compu-pc.com/i/692cbda46dd6b697070e58549fb2110e/Age-of-Empires-II-Definitive-Edition-2019-PC-Full-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/JnSz03BHv6w?si=H2n_t0SzGXAly_k7"
+      "images/gameplay/Age of Empires 2 Definitive Edition/1.webp",
+      "images/gameplay/Age of Empires 2 Definitive Edition/2.webp",
+      "images/gameplay/Age of Empires 2 Definitive Edition/3.webp",
+      "images/gameplay/Age of Empires 2 Definitive Edition/4.webp"
+    ]
   },
   {
     "id": 13,
     "titulo": "Age of Empires 3",
+    "imagen": "images/Age of Empires 3.webp",
     "plataforma": "PC",
     "anio": "2005",
     "genero": "RTS",
@@ -322,16 +318,16 @@
     "notas": "---",
     "incluye": "The WarChiefs, The Asian Dynasties",
     "imagenes": [
-      "http://2.bp.blogspot.com/-kZ08V3LCYpU/Uedv26lgJpI/AAAAAAABCFU/XRZmiPhbbsc/s640/Age+of+Empires+III+Complete+Collect+PC+Captura+1.jpg",
-      "http://4.bp.blogspot.com/-bvaZWn8bp6E/Uedv2u4PxhI/AAAAAAABCFM/Nl5HTguLCs4/s640/Age+of+Empires+III+Complete+Collect+PC+Captura+2.jpg",
-      "http://3.bp.blogspot.com/-zm4ItHQ60Vk/Uedv2lFPP-I/AAAAAAABCFI/4kkSgRT1uKw/s640/Age+of+Empires+III+Complete+Collect+PC+Captura+3.jpg",
-      "http://4.bp.blogspot.com/-nU_MKBsIVA8/Uedv3sjPVSI/AAAAAAABCFg/404sTIHXjw8/s640/Age+of+Empires+III+Complete+Collect+PC+Captura+4.jpg"
-    ],
-    "trailer": "https://youtu.be/e3Ki6rs7JCk?si=VB1h2k7qGZrObV1W"
+      "images/gameplay/Age of Empires 3/1.webp",
+      "images/gameplay/Age of Empires 3/2.webp",
+      "images/gameplay/Age of Empires 3/3.webp",
+      "images/gameplay/Age of Empires 3/4.webp"
+    ]
   },
   {
     "id": 14,
     "titulo": "Age of Empires 3 Definitive Edition",
+    "imagen": "images/Age of Empires 3 Definitive Edition.webp",
     "plataforma": "PC",
     "anio": "2020",
     "genero": "RTS",
@@ -347,16 +343,16 @@
     "notas": "---",
     "incluye": "United States, Mexico, African Royals, Knights of the Mediterranean, United States Civilization, Mexico Civilization",
     "imagenes": [
-      "https://img.compu-pc.com/i/35f9e61c6f2696e53da83d33d33842aa/Age-of-Empires-III-Definitive-Edition-2020-PC-imagen-001.jpg",
-      "https://img.compu-pc.com/i/6f4335f33f972ffb25b09a99671ec5b4/Age-of-Empires-III-Definitive-Edition-2020-PC-imagen-002.jpg",
-      "https://img.compu-pc.com/i/360ae74701c01a898b82dbe43bf09654/Age-of-Empires-III-Definitive-Edition-2020-PC-imagen-003.jpg",
-      "https://img.compu-pc.com/i/b96dde5ee73e42e086f678c75af54979/Age-of-Empires-III-Definitive-Edition-2020-PC-imagen-004.jpg"
-    ],
-    "trailer": "https://youtu.be/0jP9Jrc1t5Q?si=qUiy13CVrfOLnrOO"
+      "images/gameplay/Age of Empires 3 Definitive Edition/1.webp",
+      "images/gameplay/Age of Empires 3 Definitive Edition/2.webp",
+      "images/gameplay/Age of Empires 3 Definitive Edition/3.webp",
+      "images/gameplay/Age of Empires 3 Definitive Edition/4.webp"
+    ]
   },
   {
     "id": 15,
     "titulo": "Age of Empires 4",
+    "imagen": "images/Age of Empires 4.webp",
     "plataforma": "PC",
     "anio": "2021",
     "genero": "RTS",
@@ -372,16 +368,16 @@
     "notas": "Se recomienda SSD",
     "incluye": "The Sultans Ascend, Knights of Cross and Rose, Dynasties of the East, Yue Fei's Legacy",
     "imagenes": [
-      "https://img.compu-pc.com/i/9b6235e2fd71001e29c38a94fa5c7235/Age-of-Empires-IV-2021-PC-imagen-001.jpg",
-      "https://img.compu-pc.com/i/1d481851edf1fb46ef146fc653e25467/Age-of-Empires-IV-2021-PC-imagen-002.jpg",
-      "https://img.compu-pc.com/i/37419762dd852a4e9704a7be33515a2a/Age-of-Empires-IV-2021-PC-imagen-003.jpg",
-      "https://img.compu-pc.com/i/e252cf85900988ec82cf5aefe9b4fd03/Age-of-Empires-IV-2021-PC-imagen-004.jpg"
-    ],
-    "trailer": "https://youtu.be/TTaCrP_U4ao?si=arZgVyVkbr7Xbul4"
+      "images/gameplay/Age of Empires 4/1.webp",
+      "images/gameplay/Age of Empires 4/2.webp",
+      "images/gameplay/Age of Empires 4/3.webp",
+      "images/gameplay/Age of Empires 4/4.webp"
+    ]
   },
   {
     "id": 16,
     "titulo": "Age of Mythology",
+    "imagen": "images/Age of Mythology.webp",
     "plataforma": "PC",
     "anio": "2002",
     "genero": "RTS",
@@ -397,16 +393,16 @@
     "notas": "---",
     "incluye": "The Titans",
     "imagenes": [
-      "https://www.blizzboygames.net/wp-content/uploads/2018/10/AGEOFMYTHO-1.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2018/10/AGEOFMYTHO-2.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2018/10/AGEOFMYTHO-4.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2018/10/AGEOFMYTHO-3.jpg"
-    ],
-    "trailer": "https://youtu.be/oWjTLkatTBo?si=HswWFqZ1rRBOlR6P"
+      "images/gameplay/Age of Mythology/1.webp",
+      "images/gameplay/Age of Mythology/2.webp",
+      "images/gameplay/Age of Mythology/3.webp",
+      "images/gameplay/Age of Mythology/4.webp"
+    ]
   },
   {
     "id": 17,
     "titulo": "Age of Mythology Retold",
+    "imagen": "images/Age of Mythology Retold.webp",
     "plataforma": "PC",
     "anio": "2024",
     "genero": "RTS",
@@ -422,15 +418,16 @@
     "notas": "---",
     "incluye": "Immortal Pillars, Heavenly Spear, Obsidian Mirror",
     "imagenes": [
-      "https://img.compu-pc.com/i/83b2176df0b565f646e2161cb9ce2fa1/Age-Mythology-Retold-Premium-Edition-2024-PC-Full-imagen-001.jpg",
-      "https://img.compu-pc.com/i/b24feae82dd04cc30b06fe4e64cc9587/Age-Mythology-Retold-Premium-Edition-2024-PC-Full-imagen-002.jpg",
-      "https://img.compu-pc.com/i/122e978fa4f41dd42fa9e4c55db91972/Age-Mythology-Retold-Premium-Edition-2024-PC-Full-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/_OrFkvxC_N4?si=CqYTqSVEwf7ALkrL"
+      "images/gameplay/Age of Mythology Retold/1.webp",
+      "images/gameplay/Age of Mythology Retold/2.webp",
+      "images/gameplay/Age of Mythology Retold/3.webp",
+      "images/gameplay/Age of Mythology Retold/4.webp"
+    ]
   },
   {
     "id": 18,
     "titulo": "Alan Wake",
+    "imagen": "images/Alan Wake.webp",
     "plataforma": "PC",
     "anio": "2012",
     "genero": "ACT/HOR/TPS",
@@ -446,15 +443,16 @@
     "notas": "---",
     "incluye": "The Signal, The Writer, Alan Wake's American Nightmare",
     "imagenes": [
-      "https://img.compu-pc.com/i/a9d20e3d9069076648582ef2b35cb89e/Alan-Wake-Complete-Collection-2012-PC-imagen-001.jpg",
-      "https://img.compu-pc.com/i/1892618393feee0e5ddcf6f5edc1f801/Alan-Wake-Complete-Collection-2012-PC-imagen-002.jpg",
-      "https://img.compu-pc.com/i/07719a57dac4cf0443febd9d2554dda4/Alan-Wake-Complete-Collection-2012-PC-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/s40yXGCcorE?si=hdNTEdnbtzlXLdTi"
+      "images/gameplay/Alan Wake/1.webp",
+      "images/gameplay/Alan Wake/2.webp",
+      "images/gameplay/Alan Wake/3.webp",
+      "images/gameplay/Alan Wake/4.webp"
+    ]
   },
   {
     "id": 19,
     "titulo": "Alan Wake Remastered",
+    "imagen": "images/Alan Wake Remastered.webp",
     "plataforma": "PC",
     "anio": "2021",
     "genero": "ACT/HOR/TPS",
@@ -470,16 +468,16 @@
     "notas": "---",
     "incluye": "The Signal, The Writer",
     "imagenes": [
-      "https://img.compu-pc.com/i/508cbe58f29928485ab187530d52e34a/Alan-Wake-Remastered-2021-PC-imagen-001.jpg",
-      "https://img.compu-pc.com/i/a407d8324b42623a5ddab4459e692279/Alan-Wake-Remastered-2021-PC-imagen-002.jpg",
-      "https://img.compu-pc.com/i/7a2b485477c19d1493ed716646e24fc6/Alan-Wake-Remastered-2021-PC-imagen-003.jpg",
-      "https://img.compu-pc.com/i/8629fcbdd98a924fe8dcb740fe897bb2/Alan-Wake-Remastered-2021-PC-imagen-004.jpg"
-    ],
-    "trailer": "https://youtu.be/ALGUT2NTxCU?si=X4uiHbPmrvOXiexh"
+      "images/gameplay/Alan Wake Remastered/1.webp",
+      "images/gameplay/Alan Wake Remastered/2.webp",
+      "images/gameplay/Alan Wake Remastered/3.webp",
+      "images/gameplay/Alan Wake Remastered/4.webp"
+    ]
   },
   {
     "id": 20,
     "titulo": "Alan Wake 2",
+    "imagen": "images/Alan Wake 2.webp",
     "plataforma": "PC",
     "anio": "2023",
     "genero": "ACT/HOR",
@@ -495,15 +493,16 @@
     "notas": "Se recomienda SSD",
     "incluye": "Night Springs, The Lake House, Deluxe Upgrade",
     "imagenes": [
-      "https://img.compu-pc.com/i/4403a3c9e8bd7844f267cb2504fb5b00/Alan-Wake-2-2023-PC-imagen-001.jpg",
-      "https://img.compu-pc.com/i/51de1619e95b048aab2fb2aefe5dc5ac/Alan-Wake-2-2023-PC-imagen-002.jpg",
-      "https://img.compu-pc.com/i/a1d60fbe401b5500562d43a8c836284c/Alan-Wake-2-2023-PC-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/RTJgkovscws?si=-cMdl9XuU_4QPmjt"
+      "images/gameplay/Alan Wake 2/1.webp",
+      "images/gameplay/Alan Wake 2/2.webp",
+      "images/gameplay/Alan Wake 2/3.webp",
+      "images/gameplay/Alan Wake 2/4.webp"
+    ]
   },
   {
     "id": 21,
     "titulo": "Alice Madness Returns",
+    "imagen": "images/Alice Madness Returns.webp",
     "plataforma": "PC",
     "anio": "2011",
     "genero": "ACT/ADV/TPS",
@@ -519,15 +518,16 @@
     "notas": "---",
     "incluye": "American McGee's Alice",
     "imagenes": [
-      "https://img.compu-pc.com/i/523baed18f10c504d0a4fe9154a62ab4/Alice-madness-returns-2011-pc-imagen-001.jpg",
-      "https://img.compu-pc.com/i/654296ab323a292f6adcf405e9d95f77/Alice-madness-returns-2011-pc-imagen-002.jpg",
-      "https://img.compu-pc.com/i/eafe193cfd6f242135b4146c0ecdfc9d/Alice-madness-returns-2011-pc-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/D1X1C333nN8?si=51rzqqnpyTPHPoDg"
+      "images/gameplay/Alice Madness Returns/1.webp",
+      "images/gameplay/Alice Madness Returns/2.webp",
+      "images/gameplay/Alice Madness Returns/3.webp",
+      "images/gameplay/Alice Madness Returns/4.webp"
+    ]
   },
   {
     "id": 22,
     "titulo": "Alien Isolation",
+    "imagen": "images/Alien Isolation.webp",
     "plataforma": "PC",
     "anio": "2014",
     "genero": "HOR/ACT/STL",
@@ -543,15 +543,16 @@
     "notas": "---",
     "incluye": "Corporate Lockdown, Trauma, Safe Haven, Lost Contact, The Trigger, Crew Expendable, Last Survivor",
     "imagenes": [
-      "https://img.compu-pc.com/i/6649c5ae670c9ce23d9a4cd57e1a3523/Alien-Isolation-Complete-Edition-2014-PC-imagen-001.jpg",
-      "https://img.compu-pc.com/i/20d8e892db1b4bc641f092f5244766a3/Alien-Isolation-Complete-Edition-2014-PC-imagen-002.jpg",
-      "https://img.compu-pc.com/i/f0488f8a796feeeb1e47d0aa76a6a90a/Alien-Isolation-Complete-Edition-2014-PC-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/7h0cgmvIrZw?si=-WUO9uS88B1WNGbn"
+      "images/gameplay/Alien Isolation/1.webp",
+      "images/gameplay/Alien Isolation/2.webp",
+      "images/gameplay/Alien Isolation/3.webp",
+      "images/gameplay/Alien Isolation/4.webp"
+    ]
   },
   {
     "id": 23,
     "titulo": "Alien Rage - Unlimited",
+    "imagen": "images/Alien Rage - Unlimited.webp",
     "plataforma": "PC",
     "anio": "2013",
     "genero": "FPS",
@@ -567,15 +568,16 @@
     "notas": "---",
     "incluye": "---",
     "imagenes": [
-      "https://img.compu-pc.com/i/9cb2cdbdcb35a469a624b6bbcbd44f27/Alien-Rage-Unlimited-2013-PC-Full-imagen-001.jpg",
-      "https://img.compu-pc.com/i/ad209361ed6a19de5b0793e0a7a5c331/Alien-Rage-Unlimited-2013-PC-Full-imagen-002.jpg",
-      "https://img.compu-pc.com/i/3dd38e12819de79af90618e8e47b3cc8/Alien-Rage-Unlimited-2013-PC-Full-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/XCDLwaMtpec?si=PUShHjjm4s8WHz2q"
+      "images/gameplay/Alien Rage - Unlimited/1.webp",
+      "images/gameplay/Alien Rage - Unlimited/2.webp",
+      "images/gameplay/Alien Rage - Unlimited/3.webp",
+      "images/gameplay/Alien Rage - Unlimited/4.webp"
+    ]
   },
   {
     "id": 24,
     "titulo": "Alien Shooter",
+    "imagen": "images/Alien Shooter.webp",
     "plataforma": "PC",
     "anio": "2003",
     "genero": "SHM/ACT",
@@ -591,14 +593,16 @@
     "notas": "---",
     "incluye": "---",
     "imagenes": [
-      "https://www.blizzboygames.net/wp-content/uploads/2020/03/ALSH-1.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2020/03/ALSH-2.jpg"
-    ],
-    "trailer": "https://youtu.be/R0L83cJZ8Jo?si=_9K65-zq30Zboe-P"
+      "images/gameplay/Alien Shooter/1.webp",
+      "images/gameplay/Alien Shooter/2.webp",
+      "images/gameplay/Alien Shooter/3.webp",
+      "images/gameplay/Alien Shooter/4.webp"
+    ]
   },
   {
     "id": 25,
     "titulo": "Alien Shooter 2",
+    "imagen": "images/Alien Shooter 2.webp",
     "plataforma": "PC",
     "anio": "2006",
     "genero": "SHM/RPG",
@@ -614,16 +618,16 @@
     "notas": "---",
     "incluye": "---",
     "imagenes": [
-      "https://www.blizzboygames.net/wp-content/uploads/2020/03/ALSH2CN-1.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2020/03/ALSH2CN-2.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2020/03/ALSH2CN-3.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2020/03/ALSH2CN-4.jpg"
-    ],
-    "trailer": "https://youtu.be/2vCIMwfGU5A?si=BT4Z_YagsFYVe1kX"
+      "images/gameplay/Alien Shooter 2/1.webp",
+      "images/gameplay/Alien Shooter 2/2.webp",
+      "images/gameplay/Alien Shooter 2/3.webp",
+      "images/gameplay/Alien Shooter 2/4.webp"
+    ]
   },
   {
     "id": 26,
     "titulo": "Alien Wars",
+    "imagen": "images/Alien Wars.webp",
     "plataforma": "PC",
     "anio": "2017",
     "genero": "SHM/ARC",
@@ -639,15 +643,16 @@
     "notas": "---",
     "incluye": "---",
     "imagenes": [
-      "https://cdn8.gametop.com/download-free-games/alien-wars/b0.jpg",
-      "https://cdn8.gametop.com/download-free-games/alien-wars/b1.jpg",
-      "https://cdn8.gametop.com/download-free-games/alien-wars/b2.jpg"
-    ],
-    "trailer": "https://www.youtube.com/watch?v=54jgrmprIi4"
+      "images/gameplay/Alien Wars/1.webp",
+      "images/gameplay/Alien Wars/2.webp",
+      "images/gameplay/Alien Wars/3.webp",
+      "images/gameplay/Alien Wars/4.webp"
+    ]
   },
   {
     "id": 27,
     "titulo": "Aliens Colonial Marines",
+    "imagen": "images/Aliens Colonial Marines.webp",
     "plataforma": "PC",
     "anio": "2013",
     "genero": "FPS/ACT/HOR",
@@ -663,15 +668,16 @@
     "notas": "---",
     "incluye": "Bug Hunt, Reconnaissance Pack, Movie Map Pack, Stasis Interrupted",
     "imagenes": [
-      "https://img.compu-pc.com/i/bfe6d90e967be6e73c5dbbf58801889f/Aliens-Colonial-Marines-Complete-Edition-2012-PC-Full-imagen-001.jpg",
-      "https://img.compu-pc.com/i/8059d50761656727602ffc5bf43ff5e2/Aliens-Colonial-Marines-Complete-Edition-2012-PC-Full-imagen-002.jpg",
-      "https://img.compu-pc.com/i/a115fac479a76bb6fc46458482b7a2b5/Aliens-Colonial-Marines-Complete-Edition-2012-PC-Full-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/sLm5kzcr_Zo?si=mTveD7quBnX474gK"
+      "images/gameplay/Aliens Colonial Marines/1.webp",
+      "images/gameplay/Aliens Colonial Marines/2.webp",
+      "images/gameplay/Aliens Colonial Marines/3.webp",
+      "images/gameplay/Aliens Colonial Marines/4.webp"
+    ]
   },
   {
     "id": 28,
     "titulo": "Aliens Vs Predator",
+    "imagen": "images/Aliens Vs Predator.webp",
     "plataforma": "PC",
     "anio": "2000",
     "genero": "FPS/ACT/HOR",
@@ -687,16 +693,16 @@
     "notas": "---",
     "incluye": "---",
     "imagenes": [
-      "https://www.blizzboygames.net/wp-content/uploads/2020/01/AVP2K-1.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2020/01/AVP2K-2.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2020/01/AVP2K-3.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2020/01/AVP2K-4.jpg"
-    ],
-    "trailer": "https://youtu.be/XXYIDCfORXI?si=a8aMjd36-OPhO5Fg"
+      "images/gameplay/Aliens Vs Predator/1.webp",
+      "images/gameplay/Aliens Vs Predator/2.webp",
+      "images/gameplay/Aliens Vs Predator/3.webp",
+      "images/gameplay/Aliens Vs Predator/4.webp"
+    ]
   },
   {
     "id": 29,
     "titulo": "Aliens Vs Predator 2",
+    "imagen": "images/Aliens Vs Predator 2.webp",
     "plataforma": "PC",
     "anio": "2001",
     "genero": "FPS/ACT/HOR",
@@ -712,16 +718,16 @@
     "notas": "---",
     "incluye": "Primal Hunt",
     "imagenes": [
-      "https://www.blizzboygames.net/wp-content/uploads/2020/01/AVP2-1.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2020/01/AVP2-2.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2020/01/AVP2-3.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2020/01/AVP2-4.jpg"
-    ],
-    "trailer": "https://youtu.be/iB3Cnf1GKLQ?si=kkxH6wiBKRtAxxvu"
+      "images/gameplay/Aliens Vs Predator 2/1.webp",
+      "images/gameplay/Aliens Vs Predator 2/2.webp",
+      "images/gameplay/Aliens Vs Predator 2/3.webp",
+      "images/gameplay/Aliens Vs Predator 2/4.webp"
+    ]
   },
   {
     "id": 30,
     "titulo": "Aliens Vs Predator 3",
+    "imagen": "images/Aliens Vs Predator 3.webp",
     "plataforma": "PC",
     "anio": "2010",
     "genero": "FPS/ACT/HOR",
@@ -737,15 +743,16 @@
     "notas": "---",
     "incluye": "Swarm Map Pack, Bughunt Map Pack",
     "imagenes": [
-      "https://4.bp.blogspot.com/-p-3dvOjfnFY/T7cnPz-cNkI/AAAAAAAASCo/2JXC-kc9Ug8/s1600/cap1.jpg",
-      "https://1.bp.blogspot.com/-2X2IwIr8W1Y/T7cnRLuG0HI/AAAAAAAASC4/3ZGXz7hr3s8/s1600/cap3.jpg",
-      "https://2.bp.blogspot.com/-dAeznfjZ8Fc/T7cnRoR1YwI/AAAAAAAASDA/HG6apPWoRfU/s1600/cap4.jpg"
-    ],
-    "trailer": "https://youtu.be/YoFAiAG9jA8?si=VJbFuQ9k8exTCqbV"
+      "images/gameplay/Aliens Vs Predator 3/1.webp",
+      "images/gameplay/Aliens Vs Predator 3/2.webp",
+      "images/gameplay/Aliens Vs Predator 3/3.webp",
+      "images/gameplay/Aliens Vs Predator 3/4.webp"
+    ]
   },
   {
     "id": 31,
     "titulo": "Alone in the Dark 2024",
+    "imagen": "images/Alone in the Dark 2024.webp",
     "plataforma": "PC",
     "anio": "2024",
     "genero": "HOR/ADV",
@@ -761,15 +768,16 @@
     "notas": "Se recomienda SSD",
     "incluye": "Director's Commentary Mode, Vintage Horror Filter Pack, Derceto 1992 Costume Pack",
     "imagenes": [
-      "https://img.compu-pc.com/i/dd25b05f64bebd4fe03fa9ededa877a9/Alone-in-the-Dark-2024-PC-imagen-001.jpg",
-      "https://img.compu-pc.com/i/86b9978171a1fd55cc143ed4da5f78c9/Alone-in-the-Dark-2024-PC-imagen-002.jpg",
-      "https://img.compu-pc.com/i/6f748ba2b16655609e2693d5adcb2e18/Alone-in-the-Dark-2024-PC-imagen-003.jpg"
-    ],
-    "trailer": "https://youtu.be/6lyDlYbbqkY?si=D-4Nu5Aexr3uACG0"
+      "images/gameplay/Alone in the Dark 2024/1.webp",
+      "images/gameplay/Alone in the Dark 2024/2.webp",
+      "images/gameplay/Alone in the Dark 2024/3.webp",
+      "images/gameplay/Alone in the Dark 2024/4.webp"
+    ]
   },
   {
     "id": 32,
     "titulo": "Ancestors Legacy",
+    "imagen": "images/Ancestors Legacy.webp",
     "plataforma": "PC",
     "anio": "2018",
     "genero": "RTS",
@@ -785,15 +793,16 @@
     "notas": "---",
     "incluye": "Saladin's Conquest",
     "imagenes": [
-      "https://3.bp.blogspot.com/-YgUOblwnFGY/WwRGkahrflI/AAAAAAABiRU/_1o02sylaGg1O6sqvx7GPY5Gbw7TcPdcACLcBGAs/s1600/ancestors-legacy-pc-full-espanol-1.jpg",
-      "https://4.bp.blogspot.com/-3x0ZvqkvD7E/WwRGkkMemQI/AAAAAAABiRY/Y7mUxTH7Ou4kKyVRs7A9iahskc0yGNhpACLcBGAs/s1600/ancestors-legacy-pc-full-espanol-2.jpg",
-      "https://1.bp.blogspot.com/-DiEDHacVnf4/WwRGkmMXExI/AAAAAAABiRc/oBzs1xfKVzgHuixvZCbFhbtsUNJ5V8f5wCLcBGAs/s1600/ancestors-legacy-pc-full-espanol-3.jpg"
-    ],
-    "trailer": "https://youtu.be/IXkfUguX1RI?si=TcPrHtUQMv5F1hav"
+      "images/gameplay/Ancestors Legacy/1.webp",
+      "images/gameplay/Ancestors Legacy/2.webp",
+      "images/gameplay/Ancestors Legacy/3.webp",
+      "images/gameplay/Ancestors Legacy/4.webp"
+    ]
   },
   {
     "id": 33,
     "titulo": "ANNO Mutationem",
+    "imagen": "images/ANNO Mutationem.webp",
     "plataforma": "PC",
     "anio": "2022",
     "genero": "ACT/RPG",
@@ -809,16 +818,16 @@
     "notas": "---",
     "incluye": "Collector's Upgrade Pack",
     "imagenes": [
-      "https://img.compu-pc.com/i/33849da30678884dc1340d39ca779c8c/ANNO-Mutationem-(2022)-PC-Full-Imagen-1.jpg",
-      "https://img.compu-pc.com/i/7688d9f5e6c4e81a644bf4c1f20a815d/ANNO-Mutationem-(2022)-PC-Full-Imagen-2.jpg",
-      "https://img.compu-pc.com/i/4c2d95ea8662408d5b300dd5338baa25/ANNO-Mutationem-(2022)-PC-Full-Imagen-3.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2024/11/ANNMUTA-2.jpg"
-    ],
-    "trailer": "https://youtu.be/85o_JR-GwAI?si=A79s_oZmZL3nANxy"
+      "images/gameplay/ANNO Mutationem/1.webp",
+      "images/gameplay/ANNO Mutationem/2.webp",
+      "images/gameplay/ANNO Mutationem/3.webp",
+      "images/gameplay/ANNO Mutationem/4.webp"
+    ]
   },
   {
     "id": 34,
     "titulo": "Another Crab’s Treasure",
+    "imagen": "images/Another Crab’s Treasure.webp",
     "plataforma": "PC",
     "anio": "2024",
     "genero": "ACT/RPG",
@@ -834,16 +843,16 @@
     "notas": "---",
     "incluye": "---",
     "imagenes": [
-      "https://img.compu-pc.com/i/864c0bf52ebfac7bcc3bca7ef48a360c/Another-Crab's-Treasure-(2024)-PC-Full-Espa%C3%B1ol-Imagen-1.jpg",
-      "https://img.compu-pc.com/i/d8f431cf6316de035b87b640bddfb6f0/Another-Crab's-Treasure-(2024)-PC-Full-Espa%C3%B1ol-Imagen-2.jpg",
-      "https://img.compu-pc.com/i/4ed09183e013b41463f2e6def40db3ea/Another-Crab's-Treasure-(2024)-PC-Full-Espa%C3%B1ol-Imagen-3.jpg",
-      "https://www.blizzboygames.net/wp-content/uploads/2024/05/ANCRBTRE-4.jpg"
-    ],
-    "trailer": "https://youtu.be/n_lJx3B9ttQ?si=KACW0rsrr2XYTp1X"
+      "images/gameplay/Another Crab’s Treasure/1.webp",
+      "images/gameplay/Another Crab’s Treasure/2.webp",
+      "images/gameplay/Another Crab’s Treasure/3.webp",
+      "images/gameplay/Another Crab’s Treasure/4.webp"
+    ]
   },
   {
     "id": 35,
     "titulo": "Area 51",
+    "imagen": "images/Area 51.webp",
     "plataforma": "PC",
     "anio": "2005",
     "genero": "FPS",
@@ -858,12 +867,17 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Area 51/1.webp",
+      "images/gameplay/Area 51/2.webp",
+      "images/gameplay/Area 51/3.webp",
+      "images/gameplay/Area 51/4.webp"
+    ]
   },
   {
     "id": 36,
     "titulo": "Area 51 - BlackSite",
+    "imagen": "images/Area 51 - BlackSite.webp",
     "plataforma": "PC",
     "anio": "2007",
     "genero": "FPS",
@@ -878,12 +892,17 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Area 51 - BlackSite/1.webp",
+      "images/gameplay/Area 51 - BlackSite/2.webp",
+      "images/gameplay/Area 51 - BlackSite/3.webp",
+      "images/gameplay/Area 51 - BlackSite/4.webp"
+    ]
   },
   {
     "id": 37,
     "titulo": "ARK Survival Evolved",
+    "imagen": "images/ARK Survival Evolved.webp",
     "plataforma": "PC",
     "anio": "2017",
     "genero": "SURV",
@@ -898,12 +917,17 @@
     "DirectX": "10",
     "notas": "Se recomienda SSD",
     "incluye": "Scorched Earth, Aberration, Extinction, Genesis Part 1, Genesis Part 2, Fjordur Expansion Map",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/ARK Survival Evolved/1.webp",
+      "images/gameplay/ARK Survival Evolved/2.webp",
+      "images/gameplay/ARK Survival Evolved/3.webp",
+      "images/gameplay/ARK Survival Evolved/4.webp"
+    ]
   },
   {
     "id": 38,
     "titulo": "ARMA",
+    "imagen": "images/ARMA.webp",
     "plataforma": "PC",
     "anio": "2006",
     "genero": "TAC/FPS",
@@ -918,12 +942,17 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "Queen's Gambit",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/ARMA/1.webp",
+      "images/gameplay/ARMA/2.webp",
+      "images/gameplay/ARMA/3.webp",
+      "images/gameplay/ARMA/4.webp"
+    ]
   },
   {
     "id": 39,
     "titulo": "ARMA 2",
+    "imagen": "images/ARMA 2.webp",
     "plataforma": "PC",
     "anio": "2009",
     "genero": "TAC/FPS",
@@ -938,12 +967,17 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "Operation Arrowhead, British Armed Forces, Private Military Company, Army of the Czech Republic",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/ARMA 2/1.webp",
+      "images/gameplay/ARMA 2/2.webp",
+      "images/gameplay/ARMA 2/3.webp",
+      "images/gameplay/ARMA 2/4.webp"
+    ]
   },
   {
     "id": 40,
     "titulo": "ARMA Reforger",
+    "imagen": "images/ARMA Reforger.webp",
     "plataforma": "PC",
     "anio": "2022",
     "genero": "TAC/FPS",
@@ -958,12 +992,17 @@
     "DirectX": "12",
     "notas": "Se recomienda SSD",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/ARMA Reforger/1.webp",
+      "images/gameplay/ARMA Reforger/2.webp",
+      "images/gameplay/ARMA Reforger/3.webp",
+      "images/gameplay/ARMA Reforger/4.webp"
+    ]
   },
   {
     "id": 41,
     "titulo": "Armies of Exigo",
+    "imagen": "images/Armies of Exigo.webp",
     "plataforma": "PC",
     "anio": "2004",
     "genero": "RTS",
@@ -978,12 +1017,17 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Armies of Exigo/1.webp",
+      "images/gameplay/Armies of Exigo/2.webp",
+      "images/gameplay/Armies of Exigo/3.webp",
+      "images/gameplay/Armies of Exigo/4.webp"
+    ]
   },
   {
     "id": 42,
     "titulo": "Army Men RTS",
+    "imagen": "images/Army Men RTS.webp",
     "plataforma": "PC",
     "anio": "2002",
     "genero": "RTS",
@@ -998,12 +1042,17 @@
     "DirectX": "8.0",
     "notas": "---",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Army Men RTS/1.webp",
+      "images/gameplay/Army Men RTS/2.webp",
+      "images/gameplay/Army Men RTS/3.webp",
+      "images/gameplay/Army Men RTS/4.webp"
+    ]
   },
   {
     "id": 43,
     "titulo": "Ashes of the Singularity Escalation",
+    "imagen": "images/Ashes of the Singularity Escalation.webp",
     "plataforma": "PC",
     "anio": "2016",
     "genero": "RTS",
@@ -1018,12 +1067,16 @@
     "DirectX": "11",
     "notas": "Se recomienda SSD",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Ashes of the Singularity Escalation/1.webp",
+      "images/gameplay/Ashes of the Singularity Escalation/2.webp",
+      "images/gameplay/Ashes of the Singularity Escalation/3.webp",
+      "images/gameplay/Ashes of the Singularity Escalation/4.webp"
+    ]
   },
   {
     "id": 44,
-    "titulo": "Assassin's Creed",
+    "titulo": "Assassin's Creed 1",
     "plataforma": "PC",
     "anio": "2008",
     "genero": "ACT/ADV",
@@ -1043,7 +1096,7 @@
   },
   {
     "id": 45,
-    "titulo": "Assassin's Creed II",
+    "titulo": "Assassin's Creed 2",
     "plataforma": "PC",
     "anio": "2010",
     "genero": "ACT/ADV",
@@ -1063,7 +1116,7 @@
   },
   {
     "id": 46,
-    "titulo": "Assassin's Creed II Brotherhood",
+    "titulo": "Assassin's Creed 2 Brotherhood",
     "plataforma": "PC",
     "anio": "2011",
     "genero": "ACT/ADV",
@@ -1083,7 +1136,7 @@
   },
   {
     "id": 47,
-    "titulo": "Assassin's Creed II Revelations",
+    "titulo": "Assassin's Creed 2 Revelations",
     "plataforma": "PC",
     "anio": "2011",
     "genero": "ACT/ADV",
@@ -1123,7 +1176,7 @@
   },
   {
     "id": 49,
-    "titulo": "Assassin's Creed III",
+    "titulo": "Assassin's Creed 3",
     "plataforma": "PC",
     "anio": "2012",
     "genero": "ACT/ADV",
@@ -1143,7 +1196,7 @@
   },
   {
     "id": 50,
-    "titulo": "Assassin's Creed III Remastered",
+    "titulo": "Assassin's Creed 3 Remastered",
     "plataforma": "PC",
     "anio": "2019",
     "genero": "ACT/ADV",
@@ -1183,7 +1236,7 @@
   },
   {
     "id": 52,
-    "titulo": "Assassin's Creed IV Black Flag",
+    "titulo": "Assassin's Creed 4 Black Flag",
     "plataforma": "PC",
     "anio": "2013",
     "genero": "ACT/ADV",
