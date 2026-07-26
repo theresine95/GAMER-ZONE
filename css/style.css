@@ -1948,42 +1948,35 @@ BOTÓN VACIAR
 
 }
 
-/* GALERIA */
-
-.caja{
-
-    overflow:hidden;
-
-    border-radius:10px;
-
-}
-
-.caja img{
-
-    height: 100%;
-    width: 100%;
-
-    transition:
-
-        transform .35s ease,
-
-        filter .35s ease;
-
-}
-
-.caja:hover img{
-
-    transform:scale(1.08);
-
-    filter:brightness(1.2);
-
-}
-
+/* GALERÍA */
 
 .galeria{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 5px;
+}
+
+.caja{
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.caja img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+
+    transition:
+        transform .35s ease,
+        filter .35s ease;
+}
+
+.caja:hover img{
+    transform: scale(1.08);
+    filter: brightness(1.2);
 }
 
 /*==================================================
