@@ -18207,6 +18207,32 @@
       "images/gameplay/GUN/3.webp",
       "images/gameplay/GUN/4.webp"
     ]
+  },
+  {
+    "id": 843,
+    "titulo": "Cabernet",
+    "imagen": "images/Cabernet.webp",
+    "plataforma": "PC",
+    "anio": "2025",
+    "genero": "RPG/ADV/INDIE",
+    "update": "(23/06/2026)",
+    "tamano": "495 MB",
+    "precio": "50 Cup",
+    "descripcion": "RPG narrativo ambientado en una Europa del Este inspirada en el siglo XIX. Controlas a Liza, una joven convertida en vampira que deberá decidir entre conservar su humanidad o abrazar su nueva naturaleza mientras explora una sociedad repleta de intrigas, conflictos sociales y secretos sobrenaturales.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Intel i3 4ª Gen",
+    "RAM": "6 GB",
+    "Gráficos": "GTX 600 / Radeon R7",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "Soundtrack, Art Book",
+    "imagenes": [
+      "images/gameplay/Cabernet/1.webp",
+      "images/gameplay/Cabernet/2.webp",
+      "images/gameplay/Cabernet/3.webp",
+      "images/gameplay/Cabernet/4.webp"
+    ]
   }
+
   
 ]

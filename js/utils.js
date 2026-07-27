@@ -22,6 +22,7 @@ const ESTRENOS_IDS = [
 
     755,
     841,
+    843,
 
     
     146,
