@@ -6674,22 +6674,27 @@
   {
     "id": 324,
     "titulo": "Going Medieval",
+    "imagen": "images/Going Medieval.webp",
     "plataforma": "PC",
     "anio": "2021",
-    "genero": "CITY/SIM",
-    "update": "(10/06/2026)",
+    "genero": "CITY/SIM/SURV",
+    "update": "(17/06/2026)",
     "tamano": "391 MB",
     "precio": "50 Cup",
-    "descripcion": "Constructor de colonias medievales donde levantas fortalezas, administras recursos y proteges a los colonos de invasores y enfermedades.",
+    "descripcion": "Constructor de colonias ambientado en la Edad Media donde diseñas fortalezas, administras recursos y garantizas la supervivencia de tus colonos. Construye asentamientos en tres dimensiones, defiéndelos de invasores, supera enfermedades y desarrolla una próspera comunidad en un mundo generado proceduralmente.",
     "SO": "Windows 10 64-bit",
     "Procesador": "Core i3-6100",
     "RAM": "8 GB",
-    "Gráficos": "GTX 650 Ti",
+    "Gráficos": "GTX 650 Ti 2 GB",
     "DirectX": "11",
     "notas": "---",
-    "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "incluye": "Going Medieval Soundtrack, Going Medieval - Supporter Pack",
+    "imagenes": [
+      "images/gameplay/Going Medieval/1.webp",
+      "images/gameplay/Going Medieval/2.webp",
+      "images/gameplay/Going Medieval/3.webp",
+      "images/gameplay/Going Medieval/4.webp"
+    ]
   },
   {
     "id": 325,
@@ -6714,22 +6719,27 @@
   {
     "id": 326,
     "titulo": "Grand Ages Medieval",
+    "imagen": "images/Grand Ages Medieval.webp",
     "plataforma": "PC",
     "anio": "2015",
-    "genero": "RTS",
-    "update": "(17/09/2015)",
+    "genero": "GSTR/SIM/RTS",
+    "update": "(29/06/2016)",
     "tamano": "3.6 GB",
     "precio": "50 Cup",
-    "descripcion": "Estrategia en tiempo real centrada en comercio, diplomacia y expansión de un reino europeo durante la Edad Media.",
+    "descripcion": "Juego de gran estrategia en tiempo real ambientado en la Europa medieval. Expande tu reino fundando ciudades, estableciendo rutas comerciales, investigando tecnologías y utilizando la diplomacia o la guerra para convertirte en el soberano más poderoso del continente.",
     "SO": "Windows 7 64-bit",
-    "Procesador": "Core i3",
+    "Procesador": "Intel Core i3",
     "RAM": "4 GB",
-    "Gráficos": "GTX 460",
+    "Gráficos": "GeForce GTX 460",
     "DirectX": "11",
     "notas": "---",
-    "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "incluye": "Camelot, Ancient Wonders",
+    "imagenes": [
+      "images/gameplay/Grand Ages Medieval/1.webp",
+      "images/gameplay/Grand Ages Medieval/2.webp",
+      "images/gameplay/Grand Ages Medieval/3.webp",
+      "images/gameplay/Grand Ages Medieval/4.webp"
+    ]
   },
   {
     "id": 327,
