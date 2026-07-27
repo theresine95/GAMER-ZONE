@@ -1077,6 +1077,7 @@
   {
     "id": 44,
     "titulo": "Assassin's Creed 1",
+    "imagen": "images/Assassin's Creed 1.webp",
     "plataforma": "PC",
     "anio": "2008",
     "genero": "ACT/ADV",
@@ -1091,12 +1092,17 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed 1/1.webp",
+      "images/gameplay/Assassin's Creed 1/2.webp",
+      "images/gameplay/Assassin's Creed 1/3.webp",
+      "images/gameplay/Assassin's Creed 1/4.webp"
+    ]
   },
   {
     "id": 45,
     "titulo": "Assassin's Creed 2",
+    "imagen": "images/Assassin's Creed 2.webp",
     "plataforma": "PC",
     "anio": "2010",
     "genero": "ACT/ADV",
@@ -1111,12 +1117,17 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "Battle of Forli, Bonfire of the Vanities",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed 2/1.webp",
+      "images/gameplay/Assassin's Creed 2/2.webp",
+      "images/gameplay/Assassin's Creed 2/3.webp",
+      "images/gameplay/Assassin's Creed 2/4.webp"
+    ]
   },
   {
     "id": 46,
     "titulo": "Assassin's Creed 2 Brotherhood",
+    "imagen": "images/Assassin's Creed 2 Brotherhood.webp",
     "plataforma": "PC",
     "anio": "2011",
     "genero": "ACT/ADV",
@@ -1131,12 +1142,17 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "The Da Vinci Disappearance",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed 2 Brotherhood/1.webp",
+      "images/gameplay/Assassin's Creed 2 Brotherhood/2.webp",
+      "images/gameplay/Assassin's Creed 2 Brotherhood/3.webp",
+      "images/gameplay/Assassin's Creed 2 Brotherhood/4.webp"
+    ]
   },
   {
     "id": 47,
     "titulo": "Assassin's Creed 2 Revelations",
+    "imagen": "images/Assassin's Creed 2 Revelations.webp",
     "plataforma": "PC",
     "anio": "2011",
     "genero": "ACT/ADV",
@@ -1151,12 +1167,17 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "The Lost Archive",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed 2 Revelations/1.webp",
+      "images/gameplay/Assassin's Creed 2 Revelations/2.webp",
+      "images/gameplay/Assassin's Creed 2 Revelations/3.webp",
+      "images/gameplay/Assassin's Creed 2 Revelations/4.webp"
+    ]
   },
   {
     "id": 48,
     "titulo": "Assassin's Creed Chronicles Trilogy",
+    "imagen": "images/Assassin's Creed Chronicles Trilogy.webp",
     "plataforma": "PC",
     "anio": "2016",
     "genero": "ACT/PLAT",
@@ -1171,12 +1192,17 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "Chronicles: China, Chronicles: India, Chronicles: Russia",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed Chronicles Trilogy/1.webp",
+      "images/gameplay/Assassin's Creed Chronicles Trilogy/2.webp",
+      "images/gameplay/Assassin's Creed Chronicles Trilogy/3.webp",
+      "images/gameplay/Assassin's Creed Chronicles Trilogy/4.webp"
+    ]
   },
   {
     "id": 49,
     "titulo": "Assassin's Creed 3",
+    "imagen": "images/Assassin's Creed 3.webp",
     "plataforma": "PC",
     "anio": "2012",
     "genero": "ACT/ADV",
@@ -1191,12 +1217,17 @@
     "DirectX": "10",
     "notas": "---",
     "incluye": "The Tyranny of King Washington, The Hidden Secrets Pack, Battle Hardened Pack",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed 3/1.webp",
+      "images/gameplay/Assassin's Creed 3/2.webp",
+      "images/gameplay/Assassin's Creed 3/3.webp",
+      "images/gameplay/Assassin's Creed 3/4.webp"
+    ]
   },
   {
     "id": 50,
     "titulo": "Assassin's Creed 3 Remastered",
+    "imagen": "images/Assassin's Creed 3 Remastered.webp",
     "plataforma": "PC",
     "anio": "2019",
     "genero": "ACT/ADV",
@@ -1211,12 +1242,17 @@
     "DirectX": "11",
     "notas": "Se recomienda SSD",
     "incluye": "The Tyranny of King Washington, The Hidden Secrets Pack, Battle Hardened Pack, Assassin's Creed Liberation Remastered",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed 3 Remastered/1.webp",
+      "images/gameplay/Assassin's Creed 3 Remastered/2.webp",
+      "images/gameplay/Assassin's Creed 3 Remastered/3.webp",
+      "images/gameplay/Assassin's Creed 3 Remastered/4.webp"
+    ]
   },
   {
     "id": 51,
     "titulo": "Assassin's Creed Liberation HD",
+    "imagen": "images/Assassin's Creed Liberation HD.webp",
     "plataforma": "PC",
     "anio": "2014",
     "genero": "ACT/ADV",
@@ -1231,12 +1267,17 @@
     "DirectX": "9.0c",
     "notas": "---",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed Liberation HD/1.webp",
+      "images/gameplay/Assassin's Creed Liberation HD/2.webp",
+      "images/gameplay/Assassin's Creed Liberation HD/3.webp",
+      "images/gameplay/Assassin's Creed Liberation HD/4.webp"
+    ]
   },
   {
     "id": 52,
     "titulo": "Assassin's Creed 4 Black Flag",
+    "imagen": "images/Assassin's Creed 4 Black Flag.webp",
     "plataforma": "PC",
     "anio": "2013",
     "genero": "ACT/ADV",
@@ -1251,12 +1292,17 @@
     "DirectX": "10",
     "notas": "---",
     "incluye": "Freedom Cry, Illustrious Pirates Pack, Crusader & Florentine Pack, Death Vessel Pack",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed 4 Black Flag/1.webp",
+      "images/gameplay/Assassin's Creed 4 Black Flag/2.webp",
+      "images/gameplay/Assassin's Creed 4 Black Flag/3.webp",
+      "images/gameplay/Assassin's Creed 4 Black Flag/4.webp"
+    ]
   },
   {
     "id": 53,
     "titulo": "Assassin's Creed Rogue",
+    "imagen": "images/Assassin's Creed Rogue.webp",
     "plataforma": "PC",
     "anio": "2015",
     "genero": "ACT/ADV",
@@ -1271,12 +1317,17 @@
     "DirectX": "11",
     "notas": "---",
     "incluye": "The Armor of Sir Gunn Quest, Siege of Fort de Sable, Explorer Pack, Master Templar Pack",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed Rogue/1.webp",
+      "images/gameplay/Assassin's Creed Rogue/2.webp",
+      "images/gameplay/Assassin's Creed Rogue/3.webp",
+      "images/gameplay/Assassin's Creed Rogue/4.webp"
+    ]
   },
   {
     "id": 54,
     "titulo": "Assassin's Creed Unity",
+    "imagen": "images/Assassin's Creed Unity.webp",
     "plataforma": "PC",
     "anio": "2014",
     "genero": "ACT/ADV",
@@ -1291,12 +1342,17 @@
     "DirectX": "11",
     "notas": "Se recomienda SSD",
     "incluye": "Dead Kings, Secrets of the Revolution Pack, Revolutionary Armaments Pack",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed Unity/1.webp",
+      "images/gameplay/Assassin's Creed Unity/2.webp",
+      "images/gameplay/Assassin's Creed Unity/3.webp",
+      "images/gameplay/Assassin's Creed Unity/4.webp"
+    ]
   },
   {
     "id": 55,
     "titulo": "Assassin's Creed Syndicate",
+    "imagen": "images/Assassin's Creed Syndicate.webp",
     "plataforma": "PC",
     "anio": "2015",
     "genero": "ACT/ADV",
@@ -1311,12 +1367,17 @@
     "DirectX": "11",
     "notas": "Se recomienda SSD",
     "incluye": "Jack the Ripper, The Last Maharaja, Streets of London, Darwin and Dickens Conspiracy",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed Syndicate/1.webp",
+      "images/gameplay/Assassin's Creed Syndicate/2.webp",
+      "images/gameplay/Assassin's Creed Syndicate/3.webp",
+      "images/gameplay/Assassin's Creed Syndicate/4.webp"
+    ]
   },
   {
     "id": 56,
     "titulo": "Assassin's Creed Origins",
+    "imagen": "images/Assassin's Creed Origins.webp",
     "plataforma": "PC",
     "anio": "2017",
     "genero": "ACT/RPG",
@@ -1331,12 +1392,17 @@
     "DirectX": "11",
     "notas": "Se recomienda SSD",
     "incluye": "The Hidden Ones, The Curse of the Pharaohs, Roman Centurion Pack, Horus Pack",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed Origins/1.webp",
+      "images/gameplay/Assassin's Creed Origins/2.webp",
+      "images/gameplay/Assassin's Creed Origins/3.webp",
+      "images/gameplay/Assassin's Creed Origins/4.webp"
+    ]
   },
   {
     "id": 57,
     "titulo": "Assassin's Creed Odyssey",
+    "imagen": "images/Assassin's Creed Odyssey.webp",
     "plataforma": "PC",
     "anio": "2018",
     "genero": "ACT/RPG",
@@ -1351,12 +1417,17 @@
     "DirectX": "11",
     "notas": "Se recomienda SSD",
     "incluye": "Legacy of the First Blade, The Fate of Atlantis, Secrets of Greece",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed Odyssey/1.webp",
+      "images/gameplay/Assassin's Creed Odyssey/2.webp",
+      "images/gameplay/Assassin's Creed Odyssey/3.webp",
+      "images/gameplay/Assassin's Creed Odyssey/4.webp"
+    ]
   },
   {
     "id": 58,
     "titulo": "Assassin's Creed Valhalla",
+    "imagen": "images/Assassin's Creed Valhalla.webp",
     "plataforma": "PC",
     "anio": "2020",
     "genero": "ACT/RPG",
@@ -1371,12 +1442,17 @@
     "DirectX": "12",
     "notas": "Se recomienda SSD",
     "incluye": "Wrath of the Druids, The Siege of Paris, Dawn of Ragnarök, The Last Chapter",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed Valhalla/1.webp",
+      "images/gameplay/Assassin's Creed Valhalla/2.webp",
+      "images/gameplay/Assassin's Creed Valhalla/3.webp",
+      "images/gameplay/Assassin's Creed Valhalla/4.webp"
+    ]
   },
   {
     "id": 59,
     "titulo": "Assassin's Creed Mirage",
+    "imagen": "images/Assassin's Creed Mirage.webp",
     "plataforma": "PC",
     "anio": "2023",
     "genero": "ACT/ADV",
@@ -1391,12 +1467,17 @@
     "DirectX": "12",
     "notas": "Se recomienda SSD",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Assassin's Creed Mirage/1.webp",
+      "images/gameplay/Assassin's Creed Mirage/2.webp",
+      "images/gameplay/Assassin's Creed Mirage/3.webp",
+      "images/gameplay/Assassin's Creed Mirage/4.webp"
+    ]
   },
   {
     "id": 60,
     "titulo": "Asterigos Curse of the Stars",
+    "imagen": "images/Asterigos Curse of the Stars.webp",
     "plataforma": "PC",
     "anio": "2022",
     "genero": "ACT/RPG",
@@ -1411,12 +1492,17 @@
     "DirectX": "11",
     "notas": "Se recomienda SSD",
     "incluye": "Call of the Paragons",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Asterigos Curse of the Stars/1.webp",
+      "images/gameplay/Asterigos Curse of the Stars/2.webp",
+      "images/gameplay/Asterigos Curse of the Stars/3.webp",
+      "images/gameplay/Asterigos Curse of the Stars/4.webp"
+    ]
   },
   {
     "id": 61,
     "titulo": "Astroneer",
+    "imagen": "images/Astroneer.webp",
     "plataforma": "PC",
     "anio": "2019",
     "genero": "SURV/SBX",
@@ -1431,12 +1517,17 @@
     "DirectX": "11",
     "notas": "Se recomienda SSD",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Astroneer/1.webp",
+      "images/gameplay/Astroneer/2.webp",
+      "images/gameplay/Astroneer/3.webp",
+      "images/gameplay/Astroneer/4.webp"
+    ]
   },
   {
     "id": 62,
     "titulo": "Atlas Fallen",
+    "imagen": "images/Atlas Fallen.webp",
     "plataforma": "PC",
     "anio": "2023",
     "genero": "ACT/RPG",
@@ -1451,12 +1542,17 @@
     "DirectX": "12",
     "notas": "Se recomienda SSD",
     "incluye": "Reign of Sand",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Atlas Fallen/1.webp",
+      "images/gameplay/Atlas Fallen/2.webp",
+      "images/gameplay/Atlas Fallen/3.webp",
+      "images/gameplay/Atlas Fallen/4.webp"
+    ]
   },
   {
     "id": 63,
     "titulo": "Atomic Heart",
+    "imagen": "images/Atomic Heart.webp",
     "plataforma": "PC",
     "anio": "2023",
     "genero": "FPS/RPG",
@@ -1471,12 +1567,17 @@
     "DirectX": "12",
     "notas": "Se recomienda SSD",
     "incluye": "Annihilation Instinct, Trapped in Limbo, Enchantment Under the Sea, Mind Games",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Atomic Heart/1.webp",
+      "images/gameplay/Atomic Heart/2.webp",
+      "images/gameplay/Atomic Heart/3.webp",
+      "images/gameplay/Atomic Heart/4.webp"
+    ]
   },
   {
     "id": 64,
     "titulo": "Attack on Titan Wings of Freedom",
+    "imagen": "images/Attack on Titan Wings of Freedom.webp",
     "plataforma": "PC",
     "anio": "2016",
     "genero": "ACT/ADV",
@@ -1491,8 +1592,12 @@
     "DirectX": "11",
     "notas": "---",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Attack on Titan Wings of Freedom/1.webp",
+      "images/gameplay/Attack on Titan Wings of Freedom/2.webp",
+      "images/gameplay/Attack on Titan Wings of Freedom/3.webp",
+      "images/gameplay/Attack on Titan Wings of Freedom/4.webp"
+    ]
   },
   {
     "id": 65,
