@@ -18242,6 +18242,31 @@
       "images/gameplay/Cabernet/3.webp",
       "images/gameplay/Cabernet/4.webp"
     ]
+  },
+  {
+    "id": 844,
+    "titulo": "Outward",
+    "imagen": "images/Outward.webp",
+    "plataforma": "PC",
+    "anio": "2019",
+    "genero": "RPG/OW/SURV",
+    "update": "(22/06/2026)",
+    "tamano": "11 GB",
+    "precio": "100 Cup",
+    "descripcion": "RPG de mundo abierto con elementos de supervivencia donde recorres el peligroso continente de Aurai. Explora enormes regiones, lucha contra criaturas, domina la magia y administra tus recursos mientras sobrevives solo o en cooperativo local y online.",
+    "SO": "Windows 7 64-bit",
+    "Procesador": "Intel Core i5-750",
+    "RAM": "6 GB",
+    "Gráficos": "GeForce GTS 450",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "The Soroboreans, The Three Brothers",
+    "imagenes": [
+      "images/gameplay/Outward/1.webp",
+      "images/gameplay/Outward/2.webp",
+      "images/gameplay/Outward/3.webp",
+      "images/gameplay/Outward/4.webp"
+    ]
   }
 
   
