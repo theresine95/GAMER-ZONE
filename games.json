@@ -13045,27 +13045,27 @@
   {
     "id": 639,
     "titulo": "Shadowrun Returns",
+    "imagen": "images/Shadowrun Returns.webp",
     "plataforma": "PC",
     "anio": "2013",
-    "genero": "CRPG",
+    "genero": "RPG,STR,INDIE",
     "update": "(18/09/2015)",
     "tamano": "1.3 GB",
     "precio": "50 Cup",
-    "descripcion": "RPG táctico por turnos ambientado en un mundo cyberpunk y de fantasía. Un mercenario investiga una serie de misteriosos asesinatos.",
+    "descripcion": "RPG táctico por turnos ambientado en un universo que mezcla cyberpunk y fantasía. Un runner mercenario investiga una serie de asesinatos que lo llevan a descubrir una peligrosa conspiración en las sombras de Seattle.",
     "SO": "Windows XP SP3",
-    "Procesador": "x86 1.8 GHz",
+    "Procesador": "1.4 GHz x86",
     "RAM": "2 GB",
-    "Gráficos": "256 MB VRAM",
-    "DirectX": "Version 9.0c",
+    "Gráficos": "256 MB VRAM DX9",
+    "DirectX": "9.0",
     "notas": "---",
-    "incluye": "---",
+    "incluye": "Deluxe DLC, Anthology, Soundtrack",
     "imagenes": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "trailer": ""
+      "images/gameplay/Shadowrun Returns/1.webp",
+      "images/gameplay/Shadowrun Returns/2.webp",
+      "images/gameplay/Shadowrun Returns/3.webp",
+      "images/gameplay/Shadowrun Returns/4.webp"
+    ]
   },
   {
     "id": 640,
@@ -18268,6 +18268,7 @@
       "images/gameplay/Outward/4.webp"
     ]
   }
+  
 
   
 ]
