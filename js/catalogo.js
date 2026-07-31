@@ -10,6 +10,10 @@ async function cargarCatalogo(){
 
     await mostrarCatalogo(juegos);
 
+    await restaurarBusqueda();
+
+    await restaurarJuego();
+
 }
 
 // ==========================

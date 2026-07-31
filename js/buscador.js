@@ -4,6 +4,10 @@
 
 let scrollAntesBusqueda = 0;
 
+// ==========================
+// INICIAR
+// ==========================
+
 function iniciarBuscador() {
 
     const input = document.getElementById("search-input");
@@ -30,9 +34,22 @@ function iniciarBuscador() {
 // BUSCAR
 // ==========================
 
-function buscarJuegos(e) {
+async function buscarJuegos(e) {
 
-    const texto = normalizar(e.target.value);
+    const textoOriginal = e.target.value;
+
+    const texto = normalizar(textoOriginal);
+
+    // Guardar búsqueda
+    if (textoOriginal.trim()) {
+
+        sessionStorage.setItem("textoBusqueda", textoOriginal);
+
+    } else {
+
+        sessionStorage.removeItem("textoBusqueda");
+
+    }
 
     // Buscar únicamente dentro del catálogo actual
     const juegos = obtenerJuegosActuales();
@@ -50,7 +67,7 @@ function buscarJuegos(e) {
 
     if (!texto) {
 
-        mostrarCatalogo(juegos);
+        await mostrarCatalogo(juegos);
 
         window.scrollTo({
 
@@ -82,7 +99,7 @@ function buscarJuegos(e) {
 
     if (resultados.length) {
 
-        mostrarCatalogo(resultados);
+        await mostrarCatalogo(resultados);
 
         requestAnimationFrame(() => {
 
@@ -122,5 +139,29 @@ function buscarJuegos(e) {
         `;
 
     }
+
+}
+
+// ==========================
+// RESTAURAR BÚSQUEDA
+// ==========================
+
+async function restaurarBusqueda() {
+
+    const input = document.getElementById("search-input");
+
+    if (!input) return;
+
+    const texto = sessionStorage.getItem("textoBusqueda");
+
+    if (!texto) return;
+
+    input.value = texto;
+
+    await buscarJuegos({
+
+        target: input
+
+    });
 
 }
