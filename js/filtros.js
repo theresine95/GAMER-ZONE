@@ -12,19 +12,33 @@ async function iniciarFiltros() {
 
         const juegos = await cargarJuegos();
 
+        let filtrados;
+
         if (select.value === "Todos") {
 
-            reiniciarScroll(juegos);
+            filtrados = juegos;
 
         } else {
 
-            const filtrados = juegos.filter(juego =>
+            filtrados = juegos.filter(juego =>
                 juego.categoria === select.value
             );
 
-            reiniciarScroll(filtrados);
+        }
+
+        // Guardar el catálogo actual para el buscador
+        establecerJuegosActuales(filtrados);
+
+        // Limpiar el buscador al cambiar de plataforma
+        const input = document.getElementById("search-input");
+
+        if (input) {
+
+            input.value = "";
 
         }
+
+        mostrarCatalogo(filtrados);
 
     });
 

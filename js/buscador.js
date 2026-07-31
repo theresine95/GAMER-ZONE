@@ -30,15 +30,18 @@ function iniciarBuscador() {
 // BUSCAR
 // ==========================
 
-async function buscarJuegos(e) {
+function buscarJuegos(e) {
 
     const texto = normalizar(e.target.value);
 
-    const juegos = await cargarJuegos();
+    // Buscar únicamente dentro del catálogo actual
+    const juegos = obtenerJuegosActuales();
 
     // Guardar la posición cuando empieza la búsqueda
     if (texto.length === 1) {
+
         scrollAntesBusqueda = window.scrollY;
+
     }
 
     // ==========================
@@ -69,7 +72,7 @@ async function buscarJuegos(e) {
 
         normalizar(juego.titulo).includes(texto) ||
 
-        normalizar(juego.anio).includes(texto)
+        normalizar(String(juego.anio)).includes(texto)
 
     );
 
@@ -81,9 +84,11 @@ async function buscarJuegos(e) {
 
         mostrarCatalogo(resultados);
 
-        const primerResultado = document.querySelector(".box");
+        requestAnimationFrame(() => {
 
-        if (primerResultado) {
+            const primerResultado = document.querySelector(".box");
+
+            if (!primerResultado) return;
 
             const margen = window.innerWidth <= 768 ? 100 : 78;
 
@@ -100,7 +105,7 @@ async function buscarJuegos(e) {
 
             });
 
-        }
+        });
 
     } else {
 
