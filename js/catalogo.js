@@ -8,7 +8,7 @@ async function cargarCatalogo(){
 
     marcarEstrenos(juegos);
 
-    mostrarCatalogo(juegos);
+    await mostrarCatalogo(juegos);
 
 }
 
@@ -16,19 +16,15 @@ async function cargarCatalogo(){
 // MOSTRAR CATÁLOGO
 // ==========================
 
-function mostrarCatalogo(juegos, esEstrenos = false){
+async function mostrarCatalogo(juegos, esEstrenos = false){
 
-    reiniciarScroll(juegos, esEstrenos);
+    await reiniciarScroll(juegos, esEstrenos);
 
-    requestAnimationFrame(() => {
+    if(typeof actualizarBotones === "function"){
 
-        if(typeof actualizarBotones === "function"){
+        actualizarBotones();
 
-            actualizarBotones();
-
-        }
-
-    });
+    }
 
 }
 
@@ -123,6 +119,16 @@ function abrirDetalles(e) {
 
     if (!imagen) return;
 
-    location.href = `detalles.html?id=${imagen.dataset.id}`;
+    const id = Number(imagen.dataset.id);
+
+    // Guardar el juego seleccionado
+    sessionStorage.setItem("ultimoJuego", id);
+
+    // Guardar el índice dentro del catálogo
+    const indice = estadoScroll.juegos.findIndex(j => j.id === id);
+
+    sessionStorage.setItem("ultimoIndice", indice);
+
+    location.href = `detalles.html?id=${id}`;
 
 }

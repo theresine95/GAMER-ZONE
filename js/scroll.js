@@ -1,23 +1,36 @@
 // ==========================
-// RESTAURAR SCROLL
+// RESTAURAR JUEGO
 // ==========================
 
-function restaurarScroll(){
+async function restaurarJuego(){
 
-    const scrollPos = localStorage.getItem("scrollPos");
+    const id = Number(sessionStorage.getItem("ultimoJuego"));
 
-    if(scrollPos){
+    if(!id) return;
 
-        window.scrollTo({
-            top: parseInt(scrollPos),
-            behavior: "auto"
+    // Esperar a que el DOM termine de renderizar
+    await new Promise(resolve => requestAnimationFrame(resolve));
+
+    const tarjeta = document.querySelector(`[data-id="${id}"]`);
+
+    if(tarjeta){
+
+        tarjeta.scrollIntoView({
+
+            behavior: "instant",
+
+            block: "center"
+
         });
-
-        localStorage.removeItem("scrollPos");
 
     }
 
+    sessionStorage.removeItem("ultimoJuego");
+
+    sessionStorage.removeItem("ultimoIndice");
+
 }
+
 
 // ==========================
 // BOTÓN ARRIBA
@@ -27,20 +40,20 @@ const btnTop = document.getElementById("btnTop");
 
 if(btnTop){
 
-    window.addEventListener("scroll", () => {
+    window.addEventListener("scroll", ()=>{
 
         btnTop.style.display =
             window.scrollY > 300 ? "block" : "none";
 
     });
 
-    btnTop.addEventListener("click", () => {
+    btnTop.addEventListener("click", ()=>{
 
         window.scrollTo({
 
-            top:0,
+            top: 0,
 
-            behavior:"smooth"
+            behavior: "smooth"
 
         });
 

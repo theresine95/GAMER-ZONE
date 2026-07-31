@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", async ()=>{
+document.addEventListener("DOMContentLoaded", async () => {
 
     iniciarEventosCatalogo();
 
@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", async ()=>{
 
     await cargarCatalogo();
 
-    restaurarScroll();
+    await restaurarJuego();
 
 });
 
