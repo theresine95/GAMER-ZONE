@@ -13150,27 +13150,27 @@
   {
     "id": 641,
     "titulo": "Shovel Knight Treasure Trove",
+    "imagen": "images/Shovel Knight Treasure Trove.webp",
     "plataforma": "PC",
-    "anio": "2017",
-    "genero": "ACT/PLT",
-    "update": "(10/12/2019)",
+    "anio": "2014",
+    "genero": "ACT/PLAT/ADV",
+    "update": "(01/03/2021)",
     "tamano": "314 MB",
     "precio": "50 Cup",
-    "descripcion": "Colección completa de Shovel Knight. Incluye todas las campañas protagonizadas por los Caballeros de la Orden mientras recorren un mundo de estilo retro lleno de desafíos.",
-    "SO": "Windows 7",
-    "Procesador": "Intel Core 2 Duo",
+    "descripcion": "Edición definitiva de Shovel Knight que reúne todas las campañas y el modo Showdown. Vive aventuras de inspiración retro mientras distintos caballeros luchan para restaurar el reino y enfrentar a la Orden Sin Cuartel.",
+    "SO": "Windows 7 o superior",
+    "Procesador": "Intel Core 2 Duo 2.1 GHz",
     "RAM": "2 GB",
-    "Gráficos": "256 MB VRAM",
+    "Gráficos": "512 MB VRAM",
     "DirectX": "Version 9.0c",
     "notas": "---",
     "incluye": "Shovel of Hope, Plague of Shadows, Specter of Torment, King of Cards, Showdown",
     "imagenes": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "trailer": ""
+      "images/gameplay/Shovel Knight Treasure Trove/1.webp",
+      "images/gameplay/Shovel Knight Treasure Trove/2.webp",
+      "images/gameplay/Shovel Knight Treasure Trove/3.webp",
+      "images/gameplay/Shovel Knight Treasure Trove/4.webp"
+    ]
   },
   {
     "id": 642,
@@ -18322,8 +18322,33 @@
       "images/gameplay/Outward/3.webp",
       "images/gameplay/Outward/4.webp"
     ]
+  },
+  {
+    "id": 845,
+    "titulo": "Prince of Persia The Lost Crown",
+    "imagen": "images/Prince of Persia The Lost Crown.webp",
+    "plataforma": "PC",
+    "categoria": "Hypervisor",
+    "anio": "2024",
+    "genero": "MV/ACT/ADV",
+    "update": "(13/07/2026)",
+    "tamano": "24 GB",
+    "precio": "150 Cup",
+    "descripcion": "Aventura de acción tipo metroidvania ambientada en la mitología persa. Controla a Sargon mientras explora el Monte Qaf, domina poderes del tiempo, derrota criaturas legendarias y rescata al príncipe desaparecido.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Intel i5-4460",
+    "RAM": "8 GB",
+    "Gráficos": "GTX 950 2 GB",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "Mask of Darkness",
+    "imagenes": [
+      "images/gameplay/Prince of Persia The Lost Crown/1.webp",
+      "images/gameplay/Prince of Persia The Lost Crown/2.webp",
+      "images/gameplay/Prince of Persia The Lost Crown/3.webp",
+      "images/gameplay/Prince of Persia The Lost Crown/4.webp"
+    ]
   }
-  
 
   
 ]
