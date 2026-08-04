@@ -13175,27 +13175,27 @@
   {
     "id": 642,
     "titulo": "SIFU",
+    "imagen": "images/SIFU.webp",
     "plataforma": "PC",
     "anio": "2022",
-    "genero": "ACT",
+    "genero": "ACT/BTU/INDIE",
     "update": "(07/09/2023)",
     "tamano": "9.7 GB",
     "precio": "100 Cup",
-    "descripcion": "Juego de acción y artes marciales donde un joven kung-fu busca vengar el asesinato de su familia utilizando un amuleto que le permite volver a la vida envejeciendo.",
+    "descripcion": "Juego de acción y artes marciales inspirado en el kung-fu. Un joven guerrero emprende una misión de venganza tras el asesinato de su maestro y su familia, utilizando un misterioso talismán que le permite regresar de la muerte a costa de envejecer con cada derrota.",
     "SO": "Windows 10 64-bit",
     "Procesador": "Core i5-3470",
     "RAM": "8 GB",
-    "Gráficos": "GTX 970",
+    "Gráficos": "GTX 970 / R9 390X",
     "DirectX": "Version 11",
     "notas": "---",
     "incluye": "Deluxe Cosmetic Pack, Arenas Expansion",
     "imagenes": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "trailer": ""
+      "images/gameplay/SIFU/1.webp",
+      "images/gameplay/SIFU/2.webp",
+      "images/gameplay/SIFU/3.webp",
+      "images/gameplay/SIFU/4.webp"
+    ]
   },
   {
     "id": 643,
@@ -15550,28 +15550,28 @@
   {
     "id": 738,
     "titulo": "The First Berserker Khazan",
+    "imagen": "images/The First Berserker Khazan.webp",
     "plataforma": "PC",
     "categoria": "Hypervisor",
     "anio": "2025",
-    "genero": "ACT/RPG",
-    "update": "(15/05/2025)",
+    "genero": "ACT/RPG/HNS",
+    "update": "(01/04/2026)",
     "tamano": "20 GB",
     "precio": "300 Cup",
-    "descripcion": "RPG de acción estilo soulslike ambientado en el universo Dungeon Fighter. Khazan busca venganza tras ser traicionado.",
+    "descripcion": "RPG de acción estilo soulslike ambientado en el universo Dungeon Fighter. Controla al legendario general Khazan mientras busca vengarse de quienes lo traicionaron enfrentándose a desafiantes enemigos y poderosos jefes.",
     "SO": "Windows 10 64-bit",
-    "Procesador": "Intel i3-8100",
+    "Procesador": "Intel i3-6300",
     "RAM": "12 GB",
-    "Gráficos": "GTX 970",
-    "DirectX": "Version 12",
+    "Gráficos": "GTX 970 / RX 580",
+    "DirectX": "Version 11",
     "notas": "Se recomienda SSD",
-    "incluye": "---",
+    "incluye": "Hero's Weapon Set, Hero's Armor Set, Digital Artbook",
     "imagenes": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "trailer": ""
+      "images/gameplay/The First Berserker Khazan/1.webp",
+      "images/gameplay/The First Berserker Khazan/2.webp",
+      "images/gameplay/The First Berserker Khazan/3.webp",
+      "images/gameplay/The First Berserker Khazan/4.webp"
+    ]
   },
   {
     "id": 739,
