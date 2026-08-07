@@ -3161,22 +3161,27 @@
   {
     "id": 146,
     "titulo": "Conan Exiles Complete Edition",
+    "imagen": "images/Conan Exiles Complete Edition.webp",
     "plataforma": "PC",
     "anio": "2018",
-    "genero": "SURV",
-    "update": "(25/03/2025)",
+    "genero": "SURV/OW/ACT",
+    "update": "(23/07/2026)",
     "tamano": "47 GB",
     "precio": "200 Cup",
-    "descripcion": "Juego de supervivencia en mundo abierto donde construyes fortalezas, exploras las Tierras del Exilio y luchas por sobrevivir en el universo de Conan.",
+    "descripcion": "Juego de supervivencia de mundo abierto ambientado en el universo de Conan el Bárbaro. Recolecta recursos, construye fortalezas, domestica monturas y esclavos, explora peligrosas regiones y sobrevive enfrentando criaturas, jugadores y antiguas civilizaciones.",
     "SO": "Windows 10 64-bit",
     "Procesador": "Core i5-2300",
     "RAM": "6 GB",
     "Gráficos": "GTX 560",
     "DirectX": "11",
     "notas": "Se recomienda SSD",
-    "incluye": "The Frozen North, Seekers of the Dawn, Imperial East, Jewel of the West, Savage Frontier, Treasures of Turan, Riders of Hyboria, Blood and Sand, Debaucheries of Derketo, Architects of Argos, People of the Dragon, Isle of Siptah, Age of Sorcery Pack",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "incluye": "The Frozen North Pack, Seekers of the Dawn Pack, Imperial East Pack, Jewel of the West Pack, Savage Frontier Pack, Treasures of Turan Pack, Riders of Hyboria Pack, Blood and Sand Pack, Debaucheries of Derketo Pack, Architects of Argos Pack, People of the Dragon Pack, Isle of Siptah, Age of Sorcery Pack",
+    "imagenes": [
+      "images/gameplay/Conan Exiles Complete Edition/1.webp",
+      "images/gameplay/Conan Exiles Complete Edition/2.webp",
+      "images/gameplay/Conan Exiles Complete Edition/3.webp",
+      "images/gameplay/Conan Exiles Complete Edition/4.webp"
+    ]
   },
   {
     "id": 147,
@@ -6444,22 +6449,27 @@
   {
     "id": 310,
     "titulo": "Frostpunk 2",
+    "imagen": "images/Frostpunk 2.webp",
     "plataforma": "PC",
     "anio": "2024",
-    "genero": "STR/SIM",
-    "update": "(08/05/2025)",
+    "genero": "CITY/SURV/STR",
+    "update": "(02/07/2026)",
     "tamano": "8.5 GB",
     "precio": "100 Cup",
-    "descripcion": "Secuela del juego de supervivencia y estrategia donde gobiernas una enorme ciudad en un mundo congelado enfrentando crisis sociales y políticas.",
+    "descripcion": "Secuela del aclamado juego de estrategia y supervivencia donde lideras la ciudad de New London décadas después de la Gran Tormenta. Expande la metrópolis, gestiona recursos, afronta conflictos políticos entre facciones y toma decisiones que determinarán el futuro de la humanidad.",
     "SO": "Windows 10 64-bit",
-    "Procesador": "Core i5-8400",
+    "Procesador": "Core i5-8600",
     "RAM": "8 GB",
-    "Gráficos": "GTX 1060 6 GB",
+    "Gráficos": "RTX 2060 6 GB",
     "DirectX": "12",
     "notas": "Se recomienda SSD",
-    "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "incluye": "Captain's Hall, Spectrum DLC, Aurora, Breach of Trust",
+    "imagenes": [
+      "images/gameplay/Frostpunk 2/1.webp",
+      "images/gameplay/Frostpunk 2/2.webp",
+      "images/gameplay/Frostpunk 2/3.webp",
+      "images/gameplay/Frostpunk 2/4.webp"
+    ]
   },
   {
     "id": 311,
@@ -15676,28 +15686,28 @@
   {
     "id": 743,
     "titulo": "Assassin's Creed Black Flag Resynced",
+    "imagen": "images/Assassin's Creed Black Flag Resynced.webp",
     "plataforma": "PC",
     "categoria": "Hypervisor",
     "anio": "2026",
-    "genero": "ACT/ADV",
-    "update": "(16/07/2026)",
+    "genero": "ACT/ADV/OW",
+    "update": "(05/08/2026)",
     "tamano": "43 GB",
     "precio": "400 Cup",
-    "descripcion": "Remake de Assassin's Creed IV: Black Flag reconstruido con el motor Anvil. Edward Kenway regresa con gráficos renovados, combate mejorado, exploración naval ampliada y nuevo contenido.",
+    "descripcion": "Remake de Assassin's Creed IV: Black Flag reconstruido con el motor Anvil. Vive la aventura de Edward Kenway mientras exploras un inmenso Caribe de mundo abierto, combates en tierra y mar, mejoras el Jackdaw y descubres nuevo contenido exclusivo de esta versión.",
     "SO": "Windows 10 64-bit",
     "Procesador": "Intel i7-8700K",
     "RAM": "16 GB",
     "Gráficos": "RTX 2070",
     "DirectX": "Version 12",
     "notas": "Se recomienda SSD",
-    "incluye": "Blackbeard Crimson Pack",
+    "incluye": "Blackbeard Crimson Pack, Stede Bonnet Missions Pack, Officer Pack",
     "imagenes": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "trailer": ""
+      "images/gameplay/Assassin's Creed Black Flag Resynced/1.webp",
+      "images/gameplay/Assassin's Creed Black Flag Resynced/2.webp",
+      "images/gameplay/Assassin's Creed Black Flag Resynced/3.webp",
+      "images/gameplay/Assassin's Creed Black Flag Resynced/4.webp"
+    ]
   },
   {
     "id": 744,
@@ -15978,27 +15988,27 @@
   {
     "id": 755,
     "titulo": "The Sims 3",
+    "imagen": "images/The Sims 3.webp",
     "plataforma": "PC",
     "anio": "2009",
-    "genero": "SIM",
+    "genero": "SIM/SANDBOX",
     "update": "(12/11/2015)",
     "tamano": "24 GB",
     "precio": "150 Cup",
-    "descripcion": "Simulador de vida donde creas personajes, construyes hogares y controlas todos los aspectos de su vida cotidiana.",
+    "descripcion": "Simulador de vida donde creas y personalizas Sims, construyes hogares y controlas sus relaciones, trabajos y actividades diarias. Explora un mundo abierto lleno de posibilidades mientras desarrollas la historia de cada personaje.",
     "SO": "Windows XP SP2",
-    "Procesador": "Pentium 4 2.0 GHz",
+    "Procesador": "Pentium 4 2.0GHz",
     "RAM": "2 GB",
     "Gráficos": "GeForce 6600",
-    "DirectX": "Version 9.0c",
+    "DirectX": "9.0c",
     "notas": "---",
     "incluye": "World Adventures, Ambitions, Late Night, Generations, Pets, Showtime, Supernatural, Seasons, University Life, Island Paradise, Into the Future, High-End Loft Stuff, Fast Lane Stuff, Outdoor Living Stuff, Town Life Stuff, Master Suite Stuff, Katy Perry's Sweet Treats, Diesel Stuff, 70s 80s & 90s Stuff, Movie Stuff",
     "imagenes": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "trailer": ""
+      "images/gameplay/The Sims 3/1.webp",
+      "images/gameplay/The Sims 3/2.webp",
+      "images/gameplay/The Sims 3/3.webp",
+      "images/gameplay/The Sims 3/4.webp"
+    ]
   },
   {
     "id": 756,
@@ -18103,13 +18113,14 @@
   {
     "id": 840,
     "titulo": "Digimon Story Time Stranger",
+    "imagen": "images/Digimon Story Time Stranger.webp",
     "plataforma": "PC",
     "anio": "2025",
     "genero": "JRPG",
     "update": "(09/07/2026)",
     "tamano": "22 GB",
     "precio": "150 Cup",
-    "descripcion": "JRPG de captura y entrenamiento de Digimon con combates por turnos, exploración y una historia que conecta el mundo humano con el Mundo Digital. El protagonista investiga anomalías temporales mientras reúne más de 450 Digimon para impedir una amenaza que pone en riesgo ambas dimensiones.",
+    "descripcion": "JRPG por turnos donde viajas entre el mundo humano y el Mundo Digital para investigar anomalías temporales. Recluta, entrena y evoluciona más de 450 Digimon mientras descubres una conspiración que amenaza el equilibrio entre ambas dimensiones.",
     "SO": "Windows 10/11 64-bit",
     "Procesador": "Core i5-8400/R5 3600",
     "RAM": "8 GB",
@@ -18118,10 +18129,10 @@
     "notas": "Se recomienda SSD",
     "incluye": "Pre-Order Bonus Pack, Farm Item Golden Moai, Costume Cyber Sleuth Set, Costume Chosen Children Set, Episode Pack 1: Alternate Dimension, Episode Pack 2, Episode Pack 3: Anti-ParadoX",
     "imagenes": [
-      "",
-      "",
-      "",
-      ""
+      "images/gameplay/Digimon Story Time Stranger/1.webp",
+      "images/gameplay/Digimon Story Time Stranger/2.webp",
+      "images/gameplay/Digimon Story Time Stranger/3.webp",
+      "images/gameplay/Digimon Story Time Stranger/4.webp"
     ]
   },
   {
@@ -18348,7 +18359,31 @@
       "images/gameplay/Prince of Persia The Lost Crown/3.webp",
       "images/gameplay/Prince of Persia The Lost Crown/4.webp"
     ]
+  },
+  {
+    "id": 846,
+    "titulo": "Frostpunk",
+    "imagen": "images/Frostpunk.webp",
+    "plataforma": "PC",
+    "anio": "2018",
+    "genero": "CITY/SURV/STR",
+    "update": "(22/07/2026)",
+    "tamano": "9 GB",
+    "precio": "100 Cup",
+    "descripcion": "Juego de estrategia y supervivencia donde diriges la última ciudad de la Tierra en un mundo congelado. Administra recursos, toma difíciles decisiones morales, desarrolla tecnología y mantiene con vida a la sociedad mientras enfrentas tormentas de frío extremo.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "3.2 GHz Dual Core",
+    "RAM": "4 GB",
+    "Gráficos": "GTX 660 2 GB",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "The Rifts, The Last Autumn, On The Edge",
+    "imagenes": [
+      "images/gameplay/Frostpunk/1.webp",
+      "images/gameplay/Frostpunk/2.webp",
+      "images/gameplay/Frostpunk/3.webp",
+      "images/gameplay/Frostpunk/4.webp"
+    ]
   }
-
   
 ]
