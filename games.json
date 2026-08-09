@@ -18449,6 +18449,31 @@
       "images/gameplay/Frostpunk/3.webp",
       "images/gameplay/Frostpunk/4.webp"
     ]
+  },
+  {
+    "id": 847,
+    "titulo": "GreedFall",
+    "imagen": "images/GreedFall.webp",
+    "plataforma": "PC",
+    "anio": "2019",
+    "genero": "RPG/ACT/ADV",
+    "update": "(29/07/2021)",
+    "tamano": "12 GB",
+    "precio": "100 Cup",
+    "descripcion": "RPG de acción y aventura ambientado en la isla de Teer Fradee, donde las potencias coloniales buscan explotar sus recursos y secretos mágicos. Como De Sardet, explora un territorio fantástico, establece alianzas, resuelve conflictos mediante combate, diplomacia o sigilo y toma decisiones que afectan el destino de sus habitantes.",
+    "SO": "Windows 7/8/10 64-bit",
+    "Procesador": "Intel i5-3450 3.1 GHz",
+    "RAM": "8 GB",
+    "Gráficos": "GTX 660 2 GB",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "Adventurer's Gear DLC, The De Vespe Conspiracy",
+    "imagenes": [
+      "images/gameplay/GreedFall/1.webp",
+      "images/gameplay/GreedFall/2.webp",
+      "images/gameplay/GreedFall/3.webp",
+      "images/gameplay/GreedFall/4.webp"
+    ]
   }
   
 ]
