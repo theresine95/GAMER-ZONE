@@ -13780,27 +13780,27 @@
   {
     "id": 660,
     "titulo": "Sonic & All-Stars Racing Transformed",
+    "imagen": "images/Sonic & All-Stars Racing Transformed.webp",
     "plataforma": "PC",
     "anio": "2013",
-    "genero": "RACING",
-    "update": "(03/06/2014)",
+    "genero": "RACE, ARC, SPORT",
+    "update": "(16/06/2014)",
     "tamano": "3.3 GB",
     "precio": "50 Cup",
-    "descripcion": "Juego de carreras protagonizado por personajes de SEGA con vehículos que se transforman en coches, barcos y aviones durante las competencias.",
-    "SO": "Windows XP SP3",
-    "Procesador": "Core 2 Duo 2.4 GHz",
-    "RAM": "2 GB",
-    "Gráficos": "GTX 260",
-    "DirectX": "Version 9.0c",
+    "descripcion": "Juego de carreras arcade donde personajes de SEGA compiten en vehículos que se transforman entre coche, barco y avión. Los pilotos recorren circuitos terrestres, acuáticos y aéreos mientras utilizan armas y habilidades especiales para superar a sus rivales.",
+    "SO": "Windows XP/Vista/7/8",
+    "Procesador": "Core 2 Duo 2 GHz",
+    "RAM": "1 GB XP / 2 GB",
+    "Gráficos": "256 MB Shader Model 3",
+    "DirectX": "9.0c",
     "notas": "---",
-    "incluye": "Metal Sonic, Ryo Hazuki, Team Fortress, Graffiti City Pack",
+    "incluye": "Metal Sonic & Outrun DLC, Yogscast DLC, Ryo Hazuki",
     "imagenes": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "trailer": ""
+      "images/gameplay/Sonic & All-Stars Racing Transformed/1.webp",
+      "images/gameplay/Sonic & All-Stars Racing Transformed/2.webp",
+      "images/gameplay/Sonic & All-Stars Racing Transformed/3.webp",
+      "images/gameplay/Sonic & All-Stars Racing Transformed/4.webp"
+    ]
   },
   {
     "id": 661,
