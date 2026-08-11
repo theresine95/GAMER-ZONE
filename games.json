@@ -18554,6 +18554,31 @@
       "images/gameplay/GreedFall/3.webp",
       "images/gameplay/GreedFall/4.webp"
     ]
+  },
+  {
+    "id": 848,
+    "titulo": "Borderlands 2",
+    "imagen": "images/Borderlands 2.webp",
+    "plataforma": "PC",
+    "anio": "2012",
+    "genero": "FPS/RPG/ACT",
+    "update": "(04/08/2026)",
+    "tamano": "11 GB",
+    "precio": "100 Cup",
+    "descripcion": "RPG de acción y disparos en primera persona ambientado en Pandora. Como uno de los nuevos Vault Hunters, debes enfrentarte a Handsome Jack, reunir un enorme arsenal de armas y descubrir la cámara mientras recorres Pandora en una aventura cargada de humor, saqueo y combates cooperativos.",
+    "SO": "Windows XP SP3",
+    "Procesador": "Dual Core 2.4 GHz",
+    "RAM": "2 GB",
+    "Gráficos": "GeForce 8500/Radeon HD 2600",
+    "DirectX": "9.0c",
+    "notas": "---",
+    "incluye": "Captain Scarlett and Her Pirate's Booty, Mr. Torgue's Campaign of Carnage, Sir Hammerlock's Big Game Hunt, Tiny Tina's Assault on Dragon Keep, Commander Lilith and the Fight for Sanctuary, Creature Slaughterdome, Ultimate Vault Hunter Upgrade Pack, Ultimate Vault Hunter Upgrade Pack 2, Mechromancer Pack, Psycho Pack, Headhunter 1: Bloody Harvest, Headhunter 2: Wattle Gobbler, Headhunter 3: Mercenary Day, Headhunter 4: Wedding Day Massacre, Headhunter 5: Son of Crawmerax",
+    "imagenes": [
+      "images/gameplay/Borderlands 2/1.webp",
+      "images/gameplay/Borderlands 2/2.webp",
+      "images/gameplay/Borderlands 2/3.webp",
+      "images/gameplay/Borderlands 2/4.webp"
+    ]
   }
   
 ]
