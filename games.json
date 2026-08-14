@@ -7034,22 +7034,27 @@
   {
     "id": 331,
     "titulo": "Grey Goo",
+    "imagen": "images/Grey Goo.webp",
     "plataforma": "PC",
     "anio": "2015",
     "genero": "RTS",
-    "update": "(01/09/2016)",
+    "update": "(14/09/2016)",
     "tamano": "11 GB",
     "precio": "100 Cup",
-    "descripcion": "Juego de estrategia en tiempo real con tres facciones únicas que luchan por el control de Ecosystem 9 mediante campañas y combates tácticos.",
-    "SO": "Windows 7 64-bit",
-    "Procesador": "Core i3",
+    "descripcion": "Estrategia en tiempo real de ciencia ficción centrada en la construcción de bases, gestión de recursos y combates tácticos. Tres facciones luchan por el control de Ecosystem 9 mientras una misteriosa forma de vida conocida como Goo amenaza con cambiar el equilibrio del conflicto.",
+    "SO": "Windows 7 32-bit",
+    "Procesador": "Core i3 3.5 GHz",
     "RAM": "4 GB",
-    "Gráficos": "GTX 460",
-    "DirectX": "11",
+    "Gráficos": "GTX 460 1 GB",
+    "DirectX": "Version 11",
     "notas": "---",
-    "incluye": "Descent of the Shroud",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "incluye": "Emergence Campaign",
+    "imagenes": [
+      "images/gameplay/Grey Goo/1.webp",
+      "images/gameplay/Grey Goo/2.webp",
+      "images/gameplay/Grey Goo/3.webp",
+      "images/gameplay/Grey Goo/4.webp"
+    ]
   },
   {
     "id": 332,
@@ -18805,8 +18810,32 @@
       "images/gameplay/Octopath Traveler II/3.webp",
       "images/gameplay/Octopath Traveler II/4.webp"
     ]
+  },
+  {
+    "id": 718,
+    "titulo": "Sword Art Online Alicization Lycoris",
+    "imagen": "images/Sword Art Online Alicization Lycoris.webp",
+    "plataforma": "PC",
+    "anio": "2020",
+    "genero": "RPG, JRPG, ACT",
+    "update": "(09/12/2022)",
+    "tamano": "40 GB",
+    "precio": "200 Cup",
+    "descripcion": "RPG de acción basado en el arco Alicization de Sword Art Online. Kirito despierta en el Underworld, un mundo virtual desconocido donde se reúne con Eugeo y emprende una aventura para descubrir sus misterios mientras combate en tiempo real.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Intel Core i7-4790",
+    "RAM": "8 GB",
+    "Gráficos": "GTX 760 2 GB",
+    "DirectX": "Version 11",
+    "notas": "---",
+    "incluye": "Premium Pass, Design Contest Costumes, Blooming of Forget-me-not, Blooming of Matricaria",
+    "imagenes": [
+      "images/gameplay/Sword Art Online Alicization Lycoris/1.webp",
+      "images/gameplay/Sword Art Online Alicization Lycoris/2.webp",
+      "images/gameplay/Sword Art Online Alicization Lycoris/3.webp",
+      "images/gameplay/Sword Art Online Alicization Lycoris/4.webp"
+    ]
   }
-
 
   
 ]
