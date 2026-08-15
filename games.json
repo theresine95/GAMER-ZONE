@@ -7539,22 +7539,27 @@
   {
     "id": 356,
     "titulo": "Hearts of Iron IV",
+    "imagen": "images/Hearts of Iron IV.webp",
     "plataforma": "PC",
     "anio": "2016",
-    "genero": "GSTR",
-    "update": "(17/06/2026)",
+    "genero": "GSTR, RTS, STR",
+    "update": "(11/06/2026)",
     "tamano": "4.6 GB",
     "precio": "50 Cup",
-    "descripcion": "Gran estrategia ambientada en la Segunda Guerra Mundial donde gestionas economía, diplomacia, investigación y ejércitos.",
+    "descripcion": "Gran estrategia ambientada en la Segunda Guerra Mundial donde diriges una nación, gestionas su industria, diplomacia, investigación y fuerzas militares para alterar el curso de la historia.",
     "SO": "Windows 10 64-bit",
-    "Procesador": "Core i3-2100",
+    "Procesador": "Intel Core i5-750",
     "RAM": "4 GB",
-    "Gráficos": "GTX 570",
+    "Gráficos": "GeForce GTX 470 1.28GB",
     "DirectX": "9.0c",
     "notas": "---",
-    "incluye": "Together for Victory, Death or Dishonor, Waking the Tiger, Man the Guns, La Résistance, Battle for the Bosporus, No Step Back, By Blood Alone, Arms Against Tyranny, Trial of Allegiance, Graveyard of Empires, Götterdämmerung",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "incluye": "Together for Victory, Death or Dishonor, Waking the Tiger, Man the Guns, La Résistance, Battle for the Bosporus, No Step Back, By Blood Alone, Arms Against Tyranny, Trial of Allegiance, Götterdämmerung, Graveyard of Empires, No Compromise, No Surrender, Thunder at Our Gates",
+    "imagenes": [
+      "images/gameplay/Hearts of Iron IV/1.webp",
+      "images/gameplay/Hearts of Iron IV/2.webp",
+      "images/gameplay/Hearts of Iron IV/3.webp",
+      "images/gameplay/Hearts of Iron IV/4.webp"
+    ]
   },
   {
     "id": 357,
