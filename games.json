@@ -16092,27 +16092,27 @@
   {
     "id": 753,
     "titulo": "The Quarry",
+    "imagen": "images/The Quarry.webp",
     "plataforma": "PC",
     "anio": "2022",
-    "genero": "ADV/HOR",
-    "update": "(06/12/2022)",
+    "genero": "ADV/HORROR",
+    "update": "(18/11/2024)",
     "tamano": "37 GB",
     "precio": "150 Cup",
-    "descripcion": "Aventura cinematográfica de terror donde las decisiones determinan quién sobrevive a una noche llena de horrores.",
+    "descripcion": "Aventura narrativa de terror cinematográfico donde nueve consejeros quedan atrapados en Hackett's Quarry durante la última noche del campamento. Las decisiones, relaciones y acciones del jugador determinan quién sobrevive y modifican la historia y sus múltiples finales.",
     "SO": "Windows 10 64-bit",
-    "Procesador": "Intel i5-8400",
+    "Procesador": "Intel i5-3570 / FX-8350",
     "RAM": "8 GB",
-    "Gráficos": "GTX 780",
-    "DirectX": "Version 12",
-    "notas": "Se recomienda SSD",
-    "incluye": "Deluxe Bonus Pack",
+    "Gráficos": "GTX 780 / RX 470",
+    "DirectX": "DirectX 12",
+    "notas": "---",
+    "incluye": "The Quarry – Horror History Visual Filter Pack, The Quarry – Deluxe Bonus Content Pack, The Quarry - '50s Throwback Character Outfits",
     "imagenes": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "trailer": ""
+      "images/gameplay/The Quarry/1.webp",
+      "images/gameplay/The Quarry/2.webp",
+      "images/gameplay/The Quarry/3.webp",
+      "images/gameplay/The Quarry/4.webp"
+    ]
   },
   {
     "id": 754,
