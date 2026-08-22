@@ -8226,25 +8226,30 @@
     "imagenes": ["", "", "", ""],
     "trailer": ""
   },
-  {
+{
     "id": 389,
     "titulo": "Invincible VS",
+    "imagen": "images/Invincible VS.webp",
     "plataforma": "PC",
     "anio": "2026",
-    "genero": "FG",
-    "update": "---",
-    "tamano": "8.8 GB",
+    "genero": "FGT",
+    "update": "(30/06/2026)",
+    "tamano": "9 GB",
     "precio": "100 Cup",
-    "descripcion": "Juego de lucha por equipos ambientado en el universo de Invincible, con combates violentos y personajes basados en el cómic y la serie animada.",
+    "descripcion": "Juego de lucha 3D por equipos 3v3 basado en el universo de Invincible. Forma un equipo de héroes y villanos y enfréntate en combates rápidos con combos, asistencias, supermovimientos y ataques definitivos. Su modo historia presenta una nueva aventura ambientada en el universo de la serie animada.",
     "SO": "Windows 10 64-bit",
-    "Procesador": "Intel Core i5",
-    "RAM": "8 GB",
-    "Gráficos": "GTX 1060",
+    "Procesador": "i5-9600KF / Ryzen 5 2600X",
+    "RAM": "16 GB",
+    "Gráficos": "RTX 2070 8GB / RX 7800",
     "DirectX": "12",
     "notas": "---",
-    "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "incluye": "Year 1 Character Pass, Universa - Additional Fighter, The Immortal - Additional Fighter",
+    "imagenes": [
+      "images/gameplay/Invincible VS/1.webp", 
+      "images/gameplay/Invincible VS/2.webp", 
+      "images/gameplay/Invincible VS/3.webp", 
+      "images/gameplay/Invincible VS/4.webp"
+    ]
   },
   {
     "id": 390,
