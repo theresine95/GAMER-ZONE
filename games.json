@@ -18870,6 +18870,31 @@
       "images/gameplay/Sword Art Online Alicization Lycoris/3.webp",
       "images/gameplay/Sword Art Online Alicization Lycoris/4.webp"
     ]
+  },
+  {
+    "id": 850,
+    "titulo": "Beast of Reincarnation",
+    "imagen": "images/Beast of Reincarnation.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "RPG/ADV/OW",
+    "update": "(15/08/2026)",
+    "tamano": "28 GB",
+    "precio": "150 Cup",
+    "descripcion": "Action RPG ambientado en un Japón postapocalíptico del año 4026. Emma, una joven marcada por una misteriosa aflicción, emprende un peligroso viaje junto a Koo, un perro afectado por la plaga. Combina combate en tiempo real, estrategia y exploración mientras ambos atraviesan un mundo devastado en busca de respuestas.",
+    "SO": "Windows 10/11 64-bit",
+    "Procesador": "Core i5-8400/Ryzen 5 3600",
+    "RAM": "16 GB",
+    "Gráficos": "GTX 1070/RX 580 8GB",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "Beast of Reincarnation Deluxe DLC",
+    "imagenes": [
+      "images/gameplay/Beast of Reincarnation/1.webp",
+      "images/gameplay/Beast of Reincarnation/2.webp",
+      "images/gameplay/Beast of Reincarnation/3.webp",
+      "images/gameplay/Beast of Reincarnation/4.webp"
+    ]
   }
 
   
