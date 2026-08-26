@@ -240,74 +240,134 @@ function crearBotones(juego){
 
         <div class="btn-group">
 
-    <a
-        href="#"
-        class="btn-2 trailer-detalle"
-        data-titulo="${juego.titulo}">
+            <a
+                href="index.html"
+                class="btn-2">
 
-        TRAILER
+                INICIO
 
-    </a>
+            </a>
 
-    <a
-        href="#"
-        class="agregar-carrito btn-3"
-        data-id="${juego.id}">
+            <a
+                href="#"
+                class="btn-2 trailer-detalle"
+                data-titulo="${juego.titulo}">
 
-        LISTAR
+                TRAILER
 
-    </a>
+            </a>
 
-    <li class="submenu">
-                        <img id="img-carrito" class="img-cart" src="images/otras/carrito-de-compras.svg" alt="car">
-                        <span id="contador-carrito">0</span>
-                        <div id="carrito">
-                            <!-- Encabezado fijo -->
-                             <table class="carrito-head">
-                                <thead>
-                                    <tr>
-                                        <th>Imagen</th>
-                                        <th>Juego</th>
-                                        <th>Tamaño</th>
-                                        <th>Precio</th>
-                                        <th></th>
-                                    </tr>
-                                </thead>
-                            </table>
-                            <!-- Solo esta parte hace scroll -->
-                             <div class="carrito-lista">
-                                <table id="lista-carrito">
+            <a
+                href="#"
+                class="agregar-carrito btn-3"
+                data-id="${juego.id}">
 
-                                    <tbody id="tabla-carrito">
+                LISTAR
 
-                                    </tbody>
-                                </table>
-                            </div>
-                            <table class="carrito-footer">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <a href="#" id="vaciar-carrito" class="btn-4">
-                                                Vaciar
-                                            </a>
-                                        </td>
-                                        <td class="footer-total">
-                                            TOTAL:
-                                        </td>
-                                        <td class="footer-tamano">
-                                            📦 <span id="total-tamano">0 GB</span>
-                                        </td>
-                                        <td class="footer-precio">
-                                            💰 <span id="total-precio">0 Cup</span>
-                                        </td>
-                                        <td></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </li>
+            </a>
 
-</div>
+            <li class="submenu">
+
+                <img
+                    id="img-carrito"
+                    class="img-cart"
+                    src="images/otras/carrito-de-compras.svg"
+                    alt="car">
+
+                <span id="contador-carrito">0</span>
+
+                <div id="carrito">
+
+                    <!-- Encabezado fijo -->
+
+                    <table class="carrito-head">
+
+                        <thead>
+
+                            <tr>
+
+                                <th>Imagen</th>
+                                <th>Juego</th>
+                                <th>Tamaño</th>
+                                <th>Precio</th>
+                                <th></th>
+
+                            </tr>
+
+                        </thead>
+
+                    </table>
+
+                    <!-- Solo esta parte hace scroll -->
+
+                    <div class="carrito-lista">
+
+                        <table id="lista-carrito">
+
+                            <tbody id="tabla-carrito">
+
+                            </tbody>
+
+                        </table>
+
+                    </div>
+
+                    <table class="carrito-footer">
+
+                        <tbody>
+
+                            <tr>
+
+                                <td>
+
+                                    <a
+                                        href="#"
+                                        id="vaciar-carrito"
+                                        class="btn-4">
+
+                                        Vaciar
+
+                                    </a>
+
+                                </td>
+
+                                <td class="footer-total">
+
+                                    TOTAL:
+
+                                </td>
+
+                                <td class="footer-tamano">
+
+                                    📦
+                                    <span id="total-tamano">
+                                        0 GB
+                                    </span>
+
+                                </td>
+
+                                <td class="footer-precio">
+
+                                    💰
+                                    <span id="total-precio">
+                                        0 Cup
+                                    </span>
+
+                                </td>
+
+                                <td></td>
+
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </li>
+
+        </div>
 
     `;
 
