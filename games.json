@@ -18972,6 +18972,31 @@
       "images/gameplay/Beast of Reincarnation/3.webp",
       "images/gameplay/Beast of Reincarnation/4.webp"
     ]
+  },
+  {
+    "id": 851,
+    "titulo": "Starfield",
+    "imagen": "images/Starfield.webp",
+    "plataforma": "PC",
+    "anio": "2023",
+    "genero": "RPG/ADV/OW",
+    "update": "(11/06/2026)",
+    "tamano": "113 GB",
+    "precio": "300 Cup",
+    "descripcion": "RPG de ciencia ficción de mundo abierto ambientado en el año 2330. Como miembro de Constellation, exploras planetas, sistemas estelares y asentamientos mientras buscas artefactos misteriosos y descubres los secretos del universo. Puedes crear tu personaje, personalizar naves, combatir, comerciar y tomar decisiones que afectan tu aventura.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Ryzen 5 2600X/Core i7-6800K",
+    "RAM": "16 GB",
+    "Gráficos": "RX 5700/GTX 1070 Ti",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "Shattered Space, Terran Armada",
+    "imagenes": [
+      "images/gameplay/Starfield/1.webp",
+      "images/gameplay/Starfield/2.webp",
+      "images/gameplay/Starfield/3.webp",
+      "images/gameplay/Starfield/4.webp"
+    ]
   }
 
   
