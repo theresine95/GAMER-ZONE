@@ -18997,6 +18997,31 @@
       "images/gameplay/Starfield/3.webp",
       "images/gameplay/Starfield/4.webp"
     ]
+  },
+  {
+    "id": 852,
+    "titulo": "Halo Campaign Evolved",
+    "imagen": "images/Halo Campaign Evolved.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "FPS/ACT/ADV",
+    "update": "(17/08/2026)",
+    "tamano": "73 GB",
+    "precio": "250 Cup",
+    "descripcion": "Remake de Halo: Combat Evolved, reconstruido con Unreal Engine 5. Como el Master Chief, luchas contra el Covenant en el misterioso mundo anillo Halo, descubriendo sus secretos mientras intentas salvar a la humanidad. Incluye la campaña original modernizada y tres nuevas misiones de Operation: METEORITE.",
+    "SO": "Windows 11 64-bit",
+    "Procesador": "Ryzen 5 3600/Core i7-10700K",
+    "RAM": "16 GB",
+    "Gráficos": "RX 6600/RTX 2060 Super",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "Alpha Halo Armory Pack, Foundry Armory Pack",
+    "imagenes": [
+      "images/gameplay/Halo Campaign Evolved/1.webp",
+      "images/gameplay/Halo Campaign Evolved/2.webp",
+      "images/gameplay/Halo Campaign Evolved/3.webp",
+      "images/gameplay/Halo Campaign Evolved/4.webp"
+    ]
   }
 
   
