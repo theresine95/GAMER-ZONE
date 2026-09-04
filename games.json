@@ -19022,6 +19022,31 @@
       "images/gameplay/Halo Campaign Evolved/3.webp",
       "images/gameplay/Halo Campaign Evolved/4.webp"
     ]
+  },
+  {
+    "id": 619,
+    "titulo": "Rise of the Ronin",
+    "imagen": "images/Rise of the Ronin.webp",
+    "plataforma": "PC",
+    "anio": "2025",
+    "genero": "RPG/ACT/OW",
+    "update": "(11/11/2025)",
+    "tamano": "68 GB",
+    "precio": "250 Cup",
+    "descripcion": "RPG de acción de mundo abierto ambientado en el Japón del período Bakumatsu. Un ronin deberá forjar su propio destino mientras toma decisiones que afectan el rumbo de la historia y el futuro del país.",
+    "SO": "Windows 10/11 64-bit",
+    "Procesador": "Core i5-10400",
+    "RAM": "16 GB",
+    "Gráficos": "GTX 1060 6GB",
+    "DirectX": "Version 12",
+    "notas": "Se recomienda SSD",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Rise of the Ronin/1.webp",
+      "images/gameplay/Rise of the Ronin/2.webp",
+      "images/gameplay/Rise of the Ronin/3.webp",
+      "images/gameplay/Rise of the Ronin/4.webp"
+    ]
   }
 
   
