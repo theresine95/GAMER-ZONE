@@ -4351,42 +4351,52 @@
   {
     "id": 198,
     "titulo": "Diablo II",
+    "imagen": "images/Diablo II.webp",
     "plataforma": "PC",
     "anio": "2000",
-    "genero": "ARPG",
+    "genero": "RPG/HNS",
     "update": "(10/03/2016)",
     "tamano": "1.3 GB",
     "precio": "50 Cup",
-    "descripcion": "Clásico RPG de acción de Blizzard. Explora mazmorras, derrota demonios y consigue poderoso botín mientras persigues a Diablo a través del mundo de Santuario.",
-    "SO": "Windows XP/Vista/7",
+    "descripcion": "RPG de acción ambientado en Santuario. Los héroes recorren los cinco actos, enfrentan hordas de demonios y persiguen al Diablo mientras mejoran sus habilidades y consiguen nuevo equipo.",
+    "SO": "Windows 95/98/2000/NT 4.0",
     "Procesador": "Pentium 233 MHz",
-    "RAM": "64 MB",
-    "Gráficos": "Direct3D 8 MB",
-    "DirectX": "8.1",
+    "RAM": "32 MB",
+    "Gráficos": "Tarjeta DirectDraw",
+    "DirectX": "DirectX 6.1 o superior",
     "notas": "---",
     "incluye": "Lord of Destruction",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Diablo II/1.webp",
+      "images/gameplay/Diablo II/2.webp",
+      "images/gameplay/Diablo II/3.webp",
+      "images/gameplay/Diablo II/4.webp"
+    ]
   },
   {
     "id": 199,
     "titulo": "Diablo II Resurrected",
+    "imagen": "images/Diablo II Resurrected.webp",
     "plataforma": "PC",
     "anio": "2021",
-    "genero": "ARPG",
-    "update": "(07/05/2025)",
+    "genero": "RPG/HNS",
+    "update": "(22/05/2026)",
     "tamano": "31 GB",
     "precio": "150 Cup",
-    "descripcion": "Remasterización del clásico Diablo II con gráficos completamente renovados, sonido mejorado y todas las expansiones, manteniendo intacta la jugabilidad original.",
+    "descripcion": "Remasterización del clásico RPG de acción con gráficos y sonido renovados. Regresa a Santuario para enfrentarte a las fuerzas del Infierno, conseguir botín y descubrir el destino del Errante Oscuro.",
     "SO": "Windows 10 64-bit",
     "Procesador": "Core i3-3250",
     "RAM": "8 GB",
     "Gráficos": "GTX 660 / HD 7850",
-    "DirectX": "12",
+    "DirectX": "DirectX 12",
     "notas": "Se recomienda SSD",
-    "incluye": "Lord of Destruction",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "incluye": "Lord of Destruction, Reign of the Warlock",
+    "imagenes": [
+      "images/gameplay/Diablo II Resurrected/1.webp",
+      "images/gameplay/Diablo II Resurrected/2.webp",
+      "images/gameplay/Diablo II Resurrected/3.webp",
+      "images/gameplay/Diablo II Resurrected/4.webp"
+    ]
   },
   {
     "id": 200,
@@ -19046,6 +19056,31 @@
       "images/gameplay/Rise of the Ronin/2.webp",
       "images/gameplay/Rise of the Ronin/3.webp",
       "images/gameplay/Rise of the Ronin/4.webp"
+    ]
+  },
+  {
+    "id": 853,
+    "titulo": "Diablo",
+    "imagen": "images/Diablo.webp",
+    "plataforma": "PC",
+    "anio": "1996",
+    "genero": "RPG/ACT/HORROR",
+    "update": "(13/12/2024)",
+    "tamano": "68 GB",
+    "precio": "250 Cup",
+    "descripcion": "RPG de acción con ambientación oscura y terrorífica. El jugador debe adentrarse en las profundidades de la Catedral de Tristram para combatir hordas de demonios y derrotar a Diablo, el Señor del Terror.",
+    "SO": "Windows 95/NT 4.0",
+    "Procesador": "Pentium 60 MHz",
+    "RAM": "8 MB",
+    "Gráficos": "SuperVGA DirectDraw",
+    "DirectX": "DirectX 3.0 o superior",
+    "notas": "---",
+    "incluye": "Hellfire",
+    "imagenes": [
+      "images/gameplay/Diablo/1.webp",
+      "images/gameplay/Diablo/2.webp",
+      "images/gameplay/Diablo/3.webp",
+      "images/gameplay/Diablo/4.webp"
     ]
   }
 
