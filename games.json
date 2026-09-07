@@ -19082,6 +19082,31 @@
       "images/gameplay/Diablo/3.webp",
       "images/gameplay/Diablo/4.webp"
     ]
+  },
+  {
+    "id": 854,
+    "titulo": "The Blood of Dawnwalker",
+    "imagen": "images/The Blood of Dawnwalker.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "RPG/ACT/OW",
+    "update": "(05/09/2026)",
+    "tamano": "50 GB",
+    "precio": "200 Cup",
+    "descripcion": "RPG de acción de mundo abierto y fantasía oscura ambientado en la Europa del siglo XIV. Coen, convertido en Dawnwalker, debe usar sus poderes humanos y vampíricos para salvar a su familia mientras se enfrenta a un señor vampiro durante una carrera contra el tiempo.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "i5-11400F / Ryzen 7 2700X",
+    "RAM": "16 GB",
+    "Gráficos": "GTX 1060 / RX 580",
+    "DirectX": "DirectX 12",
+    "notas": "Se recomienda SSD",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/The Blood of Dawnwalker/1.webp",
+      "images/gameplay/The Blood of Dawnwalker/2.webp",
+      "images/gameplay/The Blood of Dawnwalker/3.webp",
+      "images/gameplay/The Blood of Dawnwalker/4.webp"
+    ]
   }
 
   
