@@ -19107,6 +19107,31 @@
       "images/gameplay/The Blood of Dawnwalker/3.webp",
       "images/gameplay/The Blood of Dawnwalker/4.webp"
     ]
+  },
+  {
+    "id": 855,
+    "titulo": "Black Myth Wukong",
+    "imagen": "images/Black Myth Wukong.webp",
+    "plataforma": "PC",
+    "anio": "2024",
+    "genero": "RPG/ACT/ADV",
+    "update": "(13/01/2026)",
+    "tamano": "117 GB",
+    "precio": "300 Cup",
+    "descripcion": "RPG de acción inspirado en la mitología china y en Viaje al Oeste. Asumes el papel del Destinado, un guerrero simiesco que domina técnicas de bastón, hechizos y transformaciones mientras descubre la verdad detrás de una antigua leyenda.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "i5-8400 / Ryzen 5 1600",
+    "RAM": "16 GB",
+    "Gráficos": "GTX 1060 6GB / RX 580 8GB",
+    "DirectX": "DirectX 11",
+    "notas": "Se recomienda SSD",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Black Myth Wukong/1.webp",
+      "images/gameplay/Black Myth Wukong/2.webp",
+      "images/gameplay/Black Myth Wukong/3.webp",
+      "images/gameplay/Black Myth Wukong/4.webp"
+    ]
   }
 
   
