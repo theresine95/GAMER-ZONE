@@ -19132,6 +19132,106 @@
       "images/gameplay/Black Myth Wukong/3.webp",
       "images/gameplay/Black Myth Wukong/4.webp"
     ]
+  },
+  {
+    "id": 856,
+    "titulo": "8-Bit Armies",
+    "imagen": "images/8-Bit Armies.webp",
+    "plataforma": "PC",
+    "anio": "2016",
+    "genero": "RTS/STR/INDIE",
+    "update": "(22/07/2026)",
+    "tamano": "1.5 GB",
+    "precio": "50 Cup",
+    "descripcion": "RTS de estilo retro con gráficos voxel en el que construyes tu base, administras recursos y diriges un ejército moderno. La campaña incluye misiones individuales y cooperativas, además de combates contra la IA y partidas multijugador.",
+    "SO": "Windows Vista SP2",
+    "Procesador": "2.6 GHz Dual Core",
+    "RAM": "4 GB",
+    "Gráficos": "GTS 250 / Radeon HD 3870",
+    "DirectX": "DirectX 11",
+    "notas": "---",
+    "incluye": "8-Bit Armies - Guardians Campaign",
+    "imagenes": [
+      "images/gameplay/8-Bit Armies/1.webp",
+      "images/gameplay/8-Bit Armies/2.webp",
+      "images/gameplay/8-Bit Armies/3.webp",
+      "images/gameplay/8-Bit Armies/4.webp"
+    ]
+  },
+  {
+    "id": 857,
+    "titulo": "8-Bit Hordes",
+    "imagen": "images/8-Bit Hordes.webp",
+    "plataforma": "PC",
+    "anio": "2016",
+    "genero": "RTS/STR/INDIE",
+    "update": "(22/07/2026)",
+    "tamano": "1.4 GB",
+    "precio": "50 Cup",
+    "descripcion": "RTS de fantasía con estética retro y gráficos voxel. Reúne recursos, construye y defiende tu base y dirige ejércitos de orcos o humanos en campañas, partidas cooperativas, escaramuzas y combates multijugador.",
+    "SO": "Windows Vista SP2",
+    "Procesador": "2.6 GHz Dual Core",
+    "RAM": "4 GB",
+    "Gráficos": "GTS 250 / Radeon HD 3870",
+    "DirectX": "DirectX 11",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/8-Bit Hordes/1.webp",
+      "images/gameplay/8-Bit Hordes/2.webp",
+      "images/gameplay/8-Bit Hordes/3.webp",
+      "images/gameplay/8-Bit Hordes/4.webp"
+    ]
+  },
+  {
+    "id": 858,
+    "titulo": "8-Bit Invaders",
+    "imagen": "images/8-Bit Invaders.webp",
+    "plataforma": "PC",
+    "anio": "2016",
+    "genero": "RTS/STR/INDIE",
+    "update": "(22/07/2026)",
+    "tamano": "1.4 GB",
+    "precio": "50 Cup",
+    "descripcion": "RTS retro de ciencia ficción en el que controlas a los Marines Galácticos o a los alienígenas Cranioids. Recolecta recursos, construye bases y ejércitos y combate en campañas, cooperativo, escaramuzas y partidas multijugador.",
+    "SO": "Windows Vista SP2",
+    "Procesador": "2.6 GHz Dual Core",
+    "RAM": "4 GB",
+    "Gráficos": "GTS 250 / Radeon HD 3870",
+    "DirectX": "DirectX 11",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/8-Bit Invaders/1.webp",
+      "images/gameplay/8-Bit Invaders/2.webp",
+      "images/gameplay/8-Bit Invaders/3.webp",
+      "images/gameplay/8-Bit Invaders/4.webp"
+    ]
+  },
+  {
+    "id": 859,
+    "titulo": "9-Bit Armies A Bit Too Far",
+    "imagen": "images/9-Bit Armies A Bit Too Far.webp",
+    "plataforma": "PC",
+    "anio": "2024",
+    "genero": "RTS/STR/ACT",
+    "update": "(29/05/2026)",
+    "tamano": "5.2 GB",
+    "precio": "100 Cup",
+    "descripcion": "RTS de guerra con estética voxel que amplía la fórmula de la serie 8-Bit. Construye bases, controla fuerzas terrestres, aéreas y navales y utiliza unidades y superarmas para dominar el campo de batalla en campañas, cooperativo y enfrentamientos multijugador.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "2.6 GHz Dual Core",
+    "RAM": "4 GB",
+    "Gráficos": "GTX 560 / RX 550",
+    "DirectX": "DirectX 9.0",
+    "notas": "---",
+    "incluye": "9-Bit Armies: Going Rogue",
+    "imagenes": [
+      "images/gameplay/9-Bit Armies A Bit Too Far/1.webp",
+      "images/gameplay/9-Bit Armies A Bit Too Far/2.webp",
+      "images/gameplay/9-Bit Armies A Bit Too Far/3.webp",
+      "images/gameplay/9-Bit Armies A Bit Too Far/4.webp"
+    ]
   }
 
   
