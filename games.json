@@ -19376,6 +19376,31 @@
       "images/gameplay/Pokémon Sword-Shield/3.webp",
       "images/gameplay/Pokémon Sword-Shield/4.webp"
     ]
+  },
+  {
+    "id": 864,
+    "titulo": "Enshrouded",
+    "imagen": "images/Enshrouded.webp",
+    "plataforma": "PC",
+    "anio": "2024",
+    "genero": "RPG/SURV/OW",
+    "update": "(29/06/2026)",
+    "tamano": "25 GB",
+    "precio": "150 Cup",
+    "descripcion": "RPG de acción y supervivencia ambientado en el reino caído de Embervale. Explora un mundo abierto cubierto por una niebla corruptora, recolecta recursos, combate criaturas, construye refugios y desarrolla a tu Flameborn mientras intentas recuperar el reino y descubrir los secretos de su pasado.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Intel Core i5-6400",
+    "RAM": "16 GB",
+    "Gráficos": "GTX 1060 6 GB",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Enshrouded/1.webp",
+      "images/gameplay/Enshrouded/2.webp",
+      "images/gameplay/Enshrouded/3.webp",
+      "images/gameplay/Enshrouded/4.webp"
+    ]
   }
   
 ]
