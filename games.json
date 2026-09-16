@@ -19401,6 +19401,31 @@
       "images/gameplay/Enshrouded/3.webp",
       "images/gameplay/Enshrouded/4.webp"
     ]
+  },
+  {
+    "id": 865,
+    "titulo": "Wo Long Fallen Dynasty",
+    "imagen": "images/Wo Long Fallen Dynasty.webp",
+    "plataforma": "PC",
+    "anio": "2023",
+    "genero": "RPG/ACT/SL",
+    "update": "(22/06/2026)",
+    "tamano": "27 GB",
+    "precio": "150 Cup",
+    "descripcion": "RPG de acción tipo soulslike ambientado en la China de los Tres Reinos. Controla a un soldado de la milicia que lucha contra guerreros enemigos y criaturas demoníacas usando artes marciales chinas, armas cuerpo a cuerpo y magia. La historia sigue el caos del final de la dinastía Han y la lucha por sobrevivir mientras fuerzas sobrenaturales alteran el curso de la guerra.",
+    "SO": "Windows 10/11 64-bit",
+    "Procesador": "Intel Core i5-8400",
+    "RAM": "8 GB",
+    "Gráficos": "GTX 1650 4 GB",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "Battle of Zhongyuan, Conqueror of Jiangdong, Upheaval in Jingxiang",
+    "imagenes": [
+      "images/gameplay/Wo Long Fallen Dynasty/1.webp",
+      "images/gameplay/Wo Long Fallen Dynasty/2.webp",
+      "images/gameplay/Wo Long Fallen Dynasty/3.webp",
+      "images/gameplay/Wo Long Fallen Dynasty/4.webp"
+    ]
   }
   
 ]
