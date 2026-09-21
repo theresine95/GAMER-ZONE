@@ -19451,6 +19451,31 @@
       "images/gameplay/Stronghold 3/3.webp",
       "images/gameplay/Stronghold 3/4.webp"
     ]
+  },
+  {
+    "id": 867,
+    "titulo": "FIFA 16",
+    "imagen": "images/FIFA 16.webp",
+    "plataforma": "PC",
+    "anio": "2015",
+    "genero": "SPORT/SIM",
+    "update": "(12/07/2016)",
+    "tamano": "13 GB",
+    "precio": "100 Cup",
+    "descripcion": "Simulador de fútbol de EA Sports que ofrece partidos, ligas, torneos, Modo Carrera y FIFA Ultimate Team. FIFA 16 incorpora por primera vez selecciones nacionales femeninas, además de mejoras en el control, defensa, pases, físicas y posicionamiento. El jugador puede disputar temporadas, gestionar un club o competir en distintos modos de juego con equipos y selecciones oficiales.",
+    "SO": "Windows 7/8/8.1 64-bit",
+    "Procesador": "Intel Core i3-2100 3.1 GHz",
+    "RAM": "4 GB",
+    "Gráficos": "Radeon HD 5770 / GTX 650",
+    "DirectX": "DirectX 11",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/FIFA 16/1.webp",
+      "images/gameplay/FIFA 16/2.webp",
+      "images/gameplay/FIFA 16/3.webp",
+      "images/gameplay/FIFA 16/4.webp"
+    ]
   }
   
 ]
