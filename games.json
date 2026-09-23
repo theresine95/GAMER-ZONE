@@ -19476,6 +19476,58 @@
       "images/gameplay/FIFA 16/3.webp",
       "images/gameplay/FIFA 16/4.webp"
     ]
+  },
+  {
+    "id": 868,
+    "titulo": "Dota 2",
+    "imagen": "images/Dota 2.webp",
+    "plataforma": "PC",
+    "categoria": "Online",
+    "anio": "2013",
+    "genero": "RTS/ACT/RPG",
+    "update": "(21/09/2026)",
+    "tamano": "74 GB",
+    "precio": "250 Cup",
+    "descripcion": "MOBA competitivo de acción y estrategia en el que dos equipos de cinco héroes se enfrentan para destruir la base enemiga. Cada partida permite elegir héroes con habilidades únicas, conseguir recursos y desarrollar objetos para superar al equipo rival.",
+    "SO": "Windows 10/11 64-bit",
+    "Procesador": "Dual Core 2.8 GHz",
+    "RAM": "4 GB",
+    "Gráficos": "8600/9600GT o HD2600",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Dota 2/1.webp",
+      "images/gameplay/Dota 2/2.webp",
+      "images/gameplay/Dota 2/3.webp",
+      "images/gameplay/Dota 2/4.webp"
+    ]
+  },
+  {
+    "id": 869,
+    "titulo": "Rust",
+    "imagen": "images/Rust.webp",
+    "plataforma": "PC",
+    "categoria": "Online",
+    "anio": "2018",
+    "genero": "SURV/SANDBOX/FPS",
+    "update": "(06/08/2026)",
+    "tamano": "9.5 GB",
+    "precio": "100 Cup",
+    "descripcion": "Juego de supervivencia multijugador en primera persona ambientado en una isla hostil. El jugador comienza prácticamente sin recursos y debe recolectar materiales, fabricar herramientas y armas, construir una base, explorar el entorno y enfrentarse a otros supervivientes para mantenerse con vida.",
+    "SO": "Windows 11 64-bit",
+    "Procesador": "Ryzen 5 1400/i5-6600",
+    "RAM": "12 GB",
+    "Gráficos": "RX 470/GTX 1060/Arc A580",
+    "DirectX": "11",
+    "notas": "Se recomienda SSD",
+    "incluye": "Rust - Warhammer 40,000 Pack, Rust Soundtrack, Rust - Voice Props Pack, Rust - Sunburn Pack, Rust - Instruments Pack",
+    "imagenes": [
+      "images/gameplay/Rust/1.webp",
+      "images/gameplay/Rust/2.webp",
+      "images/gameplay/Rust/3.webp",
+      "images/gameplay/Rust/4.webp"
+    ]
   }
   
 ]
