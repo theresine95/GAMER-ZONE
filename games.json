@@ -17957,24 +17957,24 @@
     "plataforma": "PC",
     "anio": "2024",
     "genero": "TPS/ACT",
-    "update": "(26/06/2026)",
+    "update": "(11/08/2026)",
     "tamano": "41 GB",
     "precio": "200 Cup",
-    "descripcion": "Shooter de acción en tercera persona donde el Capitán Titus combate enormes hordas Tiránidas en brutales batallas del universo Warhammer 40,000.",
+    "descripcion": "Shooter de acción en tercera persona con intensos combates contra enormes hordas de Tiránidos y fuerzas del Caos. El teniente Titus regresa para defender al Imperio mientras lucha a través de brutales campos de batalla, tanto en la campaña como en operaciones cooperativas y modos PvP.",
     "SO": "Windows 10 64-bit",
     "Procesador": "Ryzen 5 2600X",
     "RAM": "8 GB",
     "Gráficos": "GTX 1060 6 GB",
     "DirectX": "Version 12",
     "notas": "Se recomienda SSD",
-    "incluye": "Macragge's Chosen DLC, Ultra Edition Pack, Season Pass",
+    "incluye": "Macragge's Chosen DLC, Ultramarines Champion Pack, Dark Angels Champion Pack, Ultramarines Cosmetic Pack, Raven Guard Champion Pack, Carcharodons Cosmetic Pack, Blood Angels Champion Pack, Salamanders Cosmetic Pack",
     "imagenes": [
-      "",
-      "",
-      "",
-      ""
+      "images/gameplay/Warhammer 40000 Space Marine 2/1.webp",
+      "images/gameplay/Warhammer 40000 Space Marine 2/2.webp",
+      "images/gameplay/Warhammer 40000 Space Marine 2/3.webp",
+      "images/gameplay/Warhammer 40000 Space Marine 2/4.webp"
     ],
-    "trailer": ""
+    "imagen": "images/Warhammer 40000 Space Marine 2.webp"
   },
   {
     "id": 822,
@@ -19360,7 +19360,7 @@
     "anio": "2019",
     "genero": "RPG",
     "update": "(06/11/2020)",
-    "tamano": "10 GB",
+    "tamano": "18 GB",
     "precio": "100 Cup",
     "descripcion": "RPG de Pokémon ambientado en la región de Galar. Explora rutas y ciudades, captura y entrena Pokémon y participa en combates para convertirte en Campeón mientras descubres los misterios de la región.",
     "SO": "Windows 10 64-bit",
@@ -19527,6 +19527,56 @@
       "images/gameplay/Rust/2.webp",
       "images/gameplay/Rust/3.webp",
       "images/gameplay/Rust/4.webp"
+    ]
+  },
+  {
+    "id": 870,
+    "titulo": "Warhammer 40000 Space Marine",
+    "imagen": "images/Warhammer 40000 Space Marine.webp",
+    "plataforma": "PC",
+    "anio": "2011",
+    "genero": "TPS/ACT",
+    "update": "(18/05/2012)",
+    "tamano": "2.9 GB",
+    "precio": "50 Cup",
+    "descripcion": "Shooter de acción en tercera persona basado en el universo Warhammer 40,000. El Capitán Titus y sus Ultramarines deben defender una gigantesca fábrica imperial de una invasión Orka y posteriormente enfrentarse a una amenaza del Caos.",
+    "SO": "Windows 7 64-bit",
+    "Procesador": "Intel Core 2 Duo 2.0 GHz",
+    "RAM": "2 GB",
+    "Gráficos": "NVIDIA 8800 GT 512 MB",
+    "DirectX": "Version 9.0c",
+    "notas": "---",
+    "incluye": "Dreadnought DLC, Chaos Unleashed DLC, Golden Relic Bolter, Golden Relic Chainsword, Emperor's Elite Pack, Iron Hand Veteran Pack, Death Guard Champion Pack, Traitor Legion Pack, Salamanders Veteran Pack, Alpha Legion Champion Pack, Blood Angels Veteran Pack, Legion of the Damned Armour Set",
+    "imagenes": [
+      "images/gameplay/Warhammer 40000 Space Marine/1.webp",
+      "images/gameplay/Warhammer 40000 Space Marine/2.webp",
+      "images/gameplay/Warhammer 40000 Space Marine/3.webp",
+      "images/gameplay/Warhammer 40000 Space Marine/4.webp"
+    ]
+  },
+  {
+    "id": 871,
+    "titulo": "Warhammer 40000 Space Marine Master Crafted Edition",
+    "imagen": "images/Warhammer 40000 Space Marine Master Crafted Edition.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "TPS/ACT",
+    "update": "---",
+    "tamano": "7.3 GB",
+    "precio": "100 Cup",
+    "descripcion": "Edición remasterizada del clásico shooter de acción en tercera persona ambientado en Warhammer 40,000. El Capitán Titus combate a las fuerzas Orkas y del Caos utilizando armas de fuego, ataques cuerpo a cuerpo y brutales ejecuciones.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Intel Core i5-8400",
+    "RAM": "8 GB",
+    "Gráficos": "GTX 1060 6 GB",
+    "DirectX": "Version 12",
+    "notas": "Se recomienda SSD",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Warhammer 40000 Space Marine Master Crafted Edition/1.webp",
+      "images/gameplay/Warhammer 40000 Space Marine Master Crafted Edition/2.webp",
+      "images/gameplay/Warhammer 40000 Space Marine Master Crafted Edition/3.webp",
+      "images/gameplay/Warhammer 40000 Space Marine Master Crafted Edition/4.webp"
     ]
   }
   
