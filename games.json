@@ -20153,6 +20153,31 @@
       "images/gameplay/Zeus + Poseidon/3.webp",
       "images/gameplay/Zeus + Poseidon/4.webp"
     ]
+  },
+  {
+    "id": 895,
+    "titulo": "Ground Branch",
+    "imagen": "images/Ground Branch.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "FPS/SIM/ACT",
+    "update": "(25/08/2026)",
+    "tamano": "23 GB",
+    "precio": "150 Cup",
+    "descripcion": "FPS táctico de corte realista en el que formas parte de las fuerzas de operaciones especiales de la CIA y participas en operaciones encubiertas por distintos escenarios. El juego apuesta por combate táctico, personalización detallada de armas y equipamiento, balística realista y partidas cooperativas y competitivas.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Intel Core i5-9400F",
+    "RAM": "16 GB",
+    "Gráficos": "GTX 1060 6GB",
+    "DirectX": "Versión 11",
+    "notas": "Se recomienda SSD",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Ground Branch/1.webp",
+      "images/gameplay/Ground Branch/2.webp",
+      "images/gameplay/Ground Branch/3.webp",
+      "images/gameplay/Ground Branch/4.webp"
+    ]
   }
 
   
