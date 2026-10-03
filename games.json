@@ -20241,7 +20241,85 @@
       "images/gameplay/The Legend of Zelda Skyward Sword HD/3.webp",
       "images/gameplay/The Legend of Zelda Skyward Sword HD/4.webp"
     ]
+  },
+  {
+    "id": 898,
+    "titulo": "Halo Wars Definitive Edition",
+    "imagen": "images/Halo Wars Definitive Edition.webp",
+    "plataforma": "PC",
+    "anio": "2017",
+    "genero": "RTS/STR",
+    "update": "(05/06/2017)",
+    "tamano": "9 GB",
+    "precio": "100 Cup",
+    "descripcion": "Edición definitiva del clásico de estrategia en tiempo real ambientado en el universo de Halo. La tripulación del Spirit of Fire combate a las fuerzas Covenant mientras descubre una amenaza que podría cambiar el curso de la guerra.",
+    "SO": "Windows 7 SP1 64-bit",
+    "Procesador": "Intel Core i3 o equivalente",
+    "RAM": "4 GB",
+    "Gráficos": "GT 740M / R5 M240",
+    "DirectX": "DirectX 11",
+    "notas": "---",
+    "incluye": "Strategic Options Pack, Historic Battle Map Pack",
+    "imagenes": [
+      "images/gameplay/Halo Wars Definitive Edition/1.webp",
+      "images/gameplay/Halo Wars Definitive Edition/2.webp",
+      "images/gameplay/Halo Wars Definitive Edition/3.webp",
+      "images/gameplay/Halo Wars Definitive Edition/4.webp"
+    ]
+  },
+  {
+    "id": 899,
+    "titulo": "Halo Wars 2",
+    "imagen": "images/Halo Wars 2.webp",
+    "plataforma": "PC",
+    "anio": "2017",
+    "genero": "RTS/STR",
+    "update": "(13/08/2020)",
+    "tamano": "19 GB",
+    "precio": "100 Cup",
+    "descripcion": "Juego de estrategia en tiempo real ambientado en el universo de Halo, donde el Spirit of Fire regresa al conflicto contra los Banished liderados por Atriox. El jugador construye bases, reúne recursos y dirige ejércitos UNSC y Banished en campañas y batallas multijugador.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Intel Core i5-2500",
+    "RAM": "6 GB",
+    "Gráficos": "GTX 650 / HD 7750",
+    "DirectX": "DirectX 12",
+    "notas": "---",
+    "incluye": "Season Pass, Awakening the Nightmare",
+    "imagenes": [
+      "images/gameplay/Halo Wars 2/1.webp",
+      "images/gameplay/Halo Wars 2/2.webp",
+      "images/gameplay/Halo Wars 2/3.webp",
+      "images/gameplay/Halo Wars 2/4.webp"
+    ]
+  },
+  {
+    "id": 900,
+    "titulo": "FIFA 27 FC27",
+    "imagen": "images/FIFA 27 FC27.webp",
+    "plataforma": "PC",
+    "categoria": "PC",
+    "anio": "2026",
+    "genero": "SPORT/SIM",
+    "update": "---",
+    "tamano": "61 GB",
+    "precio": "500 Cup",
+    "descripcion": "Simulador de fútbol de EA que reúne competiciones, clubes, selecciones y diferentes modalidades de juego. FC 27 incorpora nuevas experiencias de juego y The Grounds, un espacio social de fútbol que combina partidas y actividades con una experiencia más abierta.",
+    "SO": "Windows 10/11 64-bit",
+    "Procesador": "Intel Core i5-6600K",
+    "RAM": "8 GB DDR4 Dual",
+    "Gráficos": "GTX 1050 Ti / RX 570",
+    "DirectX": "DirectX 12",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/FIFA 27 FC27/1.webp",
+      "images/gameplay/FIFA 27 FC27/2.webp",
+      "images/gameplay/FIFA 27 FC27/3.webp",
+      "images/gameplay/FIFA 27 FC27/4.webp"
+    ]
   }
+
+ 
  
 
   
