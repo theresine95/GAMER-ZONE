@@ -5497,22 +5497,27 @@
   {
     "id": 253,
     "titulo": "Europa Universalis 4",
+    "imagen": "images/Europa Universalis 4.webp",
     "plataforma": "PC",
     "anio": "2013",
-    "genero": "GSG",
-    "update": "(17/06/2025)",
+    "genero": "GSTR/STR/SIM",
+    "update": "(17/11/2025)",
     "tamano": "6.3 GB",
     "precio": "100 Cup",
-    "descripcion": "Gran juego de estrategia donde diriges una nación entre 1444 y 1821 mediante diplomacia, comercio, exploración y guerra para construir un imperio.",
+    "descripcion": "Juego de gran estrategia ambientado entre 1444 y 1821 donde diriges una nación y decides su desarrollo político, económico, militar y diplomático. Expande tu territorio mediante guerras, alianzas, comercio y colonización mientras gestionas una nación a través de siglos de historia alternativa.",
     "SO": "Windows 10 64-bit",
-    "Procesador": "Core i3-2105",
+    "Procesador": "Core i3-2105 / FX 4300",
     "RAM": "4 GB",
-    "Gráficos": "GTX 460",
-    "DirectX": "11",
+    "Gráficos": "GTX 460 / HD 5850",
+    "DirectX": "9.0c",
     "notas": "---",
     "incluye": "Conquest of Paradise, Wealth of Nations, Res Publica, Art of War, El Dorado, Common Sense, The Cossacks, Mare Nostrum, Rights of Man, Mandate of Heaven, Third Rome, Cradle of Civilization, Rule Britannia, Dharma, Golden Century, Emperor, Leviathan, Origins, Lions of the North, Domination, King of Kings, Winds of Change",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Europa Universalis 4/1.webp",
+      "images/gameplay/Europa Universalis 4/2.webp",
+      "images/gameplay/Europa Universalis 4/3.webp",
+      "images/gameplay/Europa Universalis 4/4.webp"
+    ]
   },
   {
     "id": 254,
@@ -20342,8 +20347,107 @@
       "images/gameplay/FIFA 27 FC27/3.webp",
       "images/gameplay/FIFA 27 FC27/4.webp"
     ]
+  },
+  {
+    "id": 901,
+    "titulo": "Europa Universalis 5",
+    "imagen": "images/Europa Universalis 5.webp",
+    "plataforma": "PC",
+    "anio": "2025",
+    "genero": "GSTR/STR/SIM",
+    "update": "(20/05/2026)",
+    "tamano": "7 GB",
+    "precio": "100 Cup",
+    "descripcion": "Juego de gran estrategia histórica donde diriges una nación desde 1337 y desarrollas su sociedad, economía, diplomacia y ejército durante siglos. Construye un imperio mediante comercio, alianzas, guerras, reformas y decisiones políticas que pueden cambiar el curso de la historia.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Core i7-8700K / Ryzen 5 3600",
+    "RAM": "16 GB",
+    "Gráficos": "GTX 1060 6GB / RX 580 8GB",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "Fate of the Phoenix, Across the Pillars",
+    "imagenes": [
+      "images/gameplay/Europa Universalis 5/1.webp",
+      "images/gameplay/Europa Universalis 5/2.webp",
+      "images/gameplay/Europa Universalis 5/3.webp",
+      "images/gameplay/Europa Universalis 5/4.webp"
+    ]
+  },
+  {
+    "id": 902,
+    "titulo": "Sid Meier’s Civilization IV",
+    "imagen": "images/Sid Meier’s Civilization IV.webp",
+    "plataforma": "PC",
+    "anio": "2005",
+    "genero": "STR/SIM",
+    "update": "---",
+    "tamano": "2.5 GB",
+    "precio": "50 Cup",
+    "descripcion": "Juego de estrategia por turnos en el que diriges una civilización desde sus primeros asentamientos hasta la era espacial. Expande ciudades, investiga tecnologías, administra recursos, establece relaciones diplomáticas y utiliza ejércitos para alcanzar la supremacía.",
+    "SO": "Windows 2000/XP",
+    "Procesador": "Pentium 4 1.2 GHz",
+    "RAM": "256 MB",
+    "Gráficos": "64 MB GeForce 2/Radeon 7500",
+    "DirectX": "9.0c",
+    "notas": "---",
+    "incluye": "Warlords, Beyond the Sword",
+    "imagenes": [
+      "images/gameplay/Sid Meier’s Civilization IV/1.webp",
+      "images/gameplay/Sid Meier’s Civilization IV/2.webp",
+      "images/gameplay/Sid Meier’s Civilization IV/3.webp",
+      "images/gameplay/Sid Meier’s Civilization IV/4.webp"
+    ]
+  },
+  {
+    "id": 903,
+    "titulo": "Sid Meier’s Civilization V",
+    "imagen": "images/Sid Meier’s Civilization V.webp",
+    "plataforma": "PC",
+    "anio": "2010",
+    "genero": "STR/SIM",
+    "update": "(25/11/2024)",
+    "tamano": "4.3 GB",
+    "precio": "50 Cup",
+    "descripcion": "Juego de estrategia 4X por turnos donde diriges una civilización a través de diferentes eras históricas. Explora el mundo, funda ciudades, investiga tecnologías, comercia, negocia con otras naciones y libra guerras para conseguir la victoria.",
+    "SO": "Windows 7",
+    "Procesador": "Core 2 Duo 1.8 GHz",
+    "RAM": "2 GB",
+    "Gráficos": "HD 2600 XT / 7900 GS",
+    "DirectX": "9.0c",
+    "notas": "---",
+    "incluye": "Gods & Kings, Brave New World",
+    "imagenes": [
+      "images/gameplay/Sid Meier’s Civilization V/1.webp",
+      "images/gameplay/Sid Meier’s Civilization V/2.webp",
+      "images/gameplay/Sid Meier’s Civilization V/3.webp",
+      "images/gameplay/Sid Meier’s Civilization V/4.webp"
+    ]
+  },
+  {
+    "id": 904,
+    "titulo": "Sid Meier’s Civilization VI",
+    "imagen": "images/Sid Meier’s Civilization VI.webp",
+    "plataforma": "PC",
+    "anio": "2016",
+    "genero": "STR/SIM",
+    "update": "(24/09/2020)",
+    "tamano": "8.4 GB",
+    "precio": "100 Cup",
+    "descripcion": "Juego de estrategia 4X por turnos en el que construyes y diriges una civilización desde la antigüedad hasta el futuro. Expande tus ciudades, investiga tecnologías y culturas, desarrolla infraestructuras, establece relaciones diplomáticas y compite por diferentes tipos de victoria.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Core i3 2.5 GHz",
+    "RAM": "4 GB",
+    "Gráficos": "1 GB Radeon 5570",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "Rise and Fall, Gathering Storm, New Frontier Pass, Leader Pass",
+    "imagenes": [
+      "images/gameplay/Sid Meier’s Civilization VI/1.webp",
+      "images/gameplay/Sid Meier’s Civilization VI/2.webp",
+      "images/gameplay/Sid Meier’s Civilization VI/3.webp",
+      "images/gameplay/Sid Meier’s Civilization VI/4.webp"
+    ]
   }
-
  
  
 
