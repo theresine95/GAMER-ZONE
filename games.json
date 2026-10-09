@@ -6618,22 +6618,27 @@
   {
     "id": 308,
     "titulo": "Fran Bow",
+    "imagen": "images/Fran Bow.webp",
     "plataforma": "PC",
     "anio": "2015",
-    "genero": "ADV/HOR",
-    "update": "(27/04/2017)",
+    "genero": "ADV/HOR/PUZ",
+    "update": "(22/06/2026)",
     "tamano": "1.6 GB",
     "precio": "50 Cup",
-    "descripcion": "Aventura gráfica de terror psicológico donde Fran intenta escapar de un sanatorio y encontrar a su gato mientras descubre una perturbadora verdad.",
-    "SO": "Windows XP+",
-    "Procesador": "Core 2 Duo",
+    "descripcion": "Aventura gráfica de terror psicológico con puzles y exploración point-and-click. Fran, una niña traumatizada por la muerte de sus padres, escapa de un sanatorio psiquiátrico para encontrar a su gato Mr. Midnight. Con la ayuda de un misterioso medicamento, descubre mundos perturbadores y secretos relacionados con su pasado.",
+    "SO": "Windows 7 o superior",
+    "Procesador": "Dual Core 1.7 GHz",
     "RAM": "2 GB",
     "Gráficos": "512 MB VRAM",
-    "DirectX": "9.0c",
+    "DirectX": "Compatible con DirectX",
     "notas": "---",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Fran Bow/1.webp",
+      "images/gameplay/Fran Bow/2.webp",
+      "images/gameplay/Fran Bow/3.webp",
+      "images/gameplay/Fran Bow/4.webp"
+    ]
   },
   {
     "id": 309,
@@ -8976,22 +8981,27 @@
   {
     "id": 420,
     "titulo": "Little Misfortune",
+    "imagen": "images/Little Misfortune.webp",
     "plataforma": "PC",
     "anio": "2019",
-    "genero": "ADV",
+    "genero": "ADV/HOR/PUZ",
     "update": "---",
     "tamano": "1.6 GB",
     "precio": "50 Cup",
-    "descripcion": "Aventura narrativa con humor negro protagonizada por Misfortune, una niña que emprende un extraño viaje junto al misterioso Sr. Voz en busca de la felicidad eterna.",
-    "SO": "Windows 7",
-    "Procesador": "Intel Core i3",
-    "RAM": "4 GB",
-    "Gráficos": "Intel HD 4000",
-    "DirectX": "11",
+    "descripcion": "Aventura narrativa de humor negro y terror psicológico con exploración y puzles. Misfortune Ramirez Hernandez, una niña de ocho años, se adentra en un bosque junto al misterioso Sr. Voz para encontrar la Felicidad Eterna y regalársela a su madre. Sus decisiones influyen en un viaje lleno de sucesos extraños, personajes inquietantes y secretos oscuros.",
+    "SO": "Windows 7 64-bit o superior",
+    "Procesador": "Intel Core i5-6300U 2.5 GHz",
+    "RAM": "8 GB",
+    "Gráficos": "Intel HD Graphics 520",
+    "DirectX": "---",
     "notas": "---",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Little Misfortune/1.webp",
+      "images/gameplay/Little Misfortune/2.webp",
+      "images/gameplay/Little Misfortune/3.webp",
+      "images/gameplay/Little Misfortune/4.webp"
+    ]
   },
   {
     "id": 421,
@@ -9076,22 +9086,27 @@
   {
     "id": 425,
     "titulo": "Look Outside",
+    "imagen": "images/Look Outside.webp",
     "plataforma": "PC",
     "anio": "2025",
-    "genero": "ADV/IND",
+    "genero": "RPG/HOR/ROGL",
     "update": "(10/04/2025)",
     "tamano": "673 MB",
     "precio": "50 Cup",
-    "descripcion": "Aventura indie con elementos de terror psicológico donde permanecer dentro de casa parece la única forma de sobrevivir a un extraño fenómeno.",
+    "descripcion": "RPG de terror con estética retro, exploración y combates por turnos. Un extraño fenómeno transforma en monstruos a quienes miran por las ventanas. El protagonista debe sobrevivir dentro de su edificio, buscar suministros, conocer a otros supervivientes y descubrir el origen de la catástrofe mientras se enfrenta a criaturas grotescas y decisiones inquietantes.",
     "SO": "Windows 10",
     "Procesador": "Intel Core i3",
     "RAM": "4 GB",
-    "Gráficos": "Intel HD 5000",
+    "Gráficos": "Intel HD Graphics",
     "DirectX": "11",
     "notas": "---",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Look Outside/1.webp",
+      "images/gameplay/Look Outside/2.webp",
+      "images/gameplay/Look Outside/3.webp",
+      "images/gameplay/Look Outside/4.webp"
+    ]
   },
   {
     "id": 426,
@@ -10988,22 +11003,27 @@
   {
     "id": 519,
     "titulo": "Nine Sols",
+    "imagen": "images/Nine Sols.webp",
     "plataforma": "PC",
     "anio": "2024",
-    "genero": "ACT/PLAT",
-    "update": "(28/05/2026)",
+    "genero": "ACT/MV/SL",
+    "update": "(15/12/2025)",
     "tamano": "3.2 GB",
     "precio": "50 Cup",
-    "descripcion": "Metroidvania de acción inspirado en la mitología taoísta con combates de precisión, exploración y un elaborado estilo artístico dibujado a mano.",
+    "descripcion": "Metroidvania de acción en 2D con combates de precisión inspirados en Sekiro. Yi despierta en New Kunlun, un reino de fantasía oriental con tecnología futurista, y emprende una misión para derrotar a los nueve gobernantes Sol. Explora escenarios dibujados a mano, descubre secretos de una antigua civilización y domina los desvíos y contraataques.",
     "SO": "Windows 10 64-bit",
-    "Procesador": "Core i5-2300",
+    "Procesador": "Intel Core i5-4460",
     "RAM": "8 GB",
-    "Gráficos": "GTX 960",
+    "Gráficos": "NVIDIA GTX 950",
     "DirectX": "11",
     "notas": "---",
     "incluye": "---",
-    "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "imagenes": [
+      "images/gameplay/Nine Sols/1.webp",
+      "images/gameplay/Nine Sols/2.webp",
+      "images/gameplay/Nine Sols/3.webp",
+      "images/gameplay/Nine Sols/4.webp"
+    ]
   },
   {
     "id": 520,
@@ -15691,27 +15711,27 @@
   {
     "id": 729,
     "titulo": "The Binding of Isaac Rebirth",
+    "imagen": "images/The Binding of Isaac Rebirth.webp",
     "plataforma": "PC",
     "anio": "2014",
-    "genero": "ACT/RGL",
-    "update": "(20/04/2026)",
+    "genero": "ACT/ROGL/RPG",
+    "update": "(11/04/2026)",
     "tamano": "1.8 GB",
     "precio": "50 Cup",
-    "descripcion": "Roguelite de acción con generación procedural. Isaac escapa al sótano de su casa enfrentando monstruos y obteniendo cientos de objetos únicos.",
-    "SO": "Windows 10",
+    "descripcion": "Roguelike de acción con generación procedural, combates frenéticos y cientos de objetos que modifican las habilidades y apariencia de Isaac. Tras escuchar a su madre una voz que exige sacrificarlo, el niño escapa al sótano y se enfrenta a monstruos, criaturas grotescas y sus propios miedos. Cada partida ofrece escenarios, enemigos y combinaciones de objetos diferentes.",
+    "SO": "Windows XP o superior",
     "Procesador": "Core 2 Duo",
-    "RAM": "4 GB",
-    "Gráficos": "OpenGL 2.1",
-    "DirectX": "Version 11",
+    "RAM": "2 GB",
+    "Gráficos": "Tarjeta gráfica dedicada",
+    "DirectX": "---",
     "notas": "---",
     "incluye": "Afterbirth, Afterbirth+, Repentance, Repentance+",
     "imagenes": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "trailer": ""
+      "images/gameplay/The Binding of Isaac Rebirth/1.webp",
+      "images/gameplay/The Binding of Isaac Rebirth/2.webp",
+      "images/gameplay/The Binding of Isaac Rebirth/3.webp",
+      "images/gameplay/The Binding of Isaac Rebirth/4.webp"
+    ]
   },
   {
     "id": 730,
@@ -20447,7 +20467,108 @@
       "images/gameplay/Sid Meier’s Civilization VI/3.webp",
       "images/gameplay/Sid Meier’s Civilization VI/4.webp"
     ]
+  },
+  {
+    "id": 905,
+    "titulo": "Mina the Hollower",
+    "imagen": "images/Mina the Hollower.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "ACT/ADV/PLAT",
+    "update": "---",
+    "tamano": "775 MB",
+    "precio": "50 Cup",
+    "descripcion": "Aventura de acción con gráficos pixel art inspirados en los clásicos de 8 bits. Mina, una ratoncita ingeniera, utiliza un látigo, armas y la habilidad de excavar bajo tierra para explorar una isla maldita, combatir criaturas y descubrir los secretos que amenazan a sus habitantes.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Por confirmar oficialmente",
+    "RAM": "Por confirmar oficialmente",
+    "Gráficos": "Por confirmar oficialmente",
+    "DirectX": "Por confirmar oficialmente",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Mina the Hollower/1.webp",
+      "images/gameplay/Mina the Hollower/2.webp",
+      "images/gameplay/Mina the Hollower/3.webp",
+      "images/gameplay/Mina the Hollower/4.webp"
+    ]
+  },
+  {
+    "id": 906,
+    "titulo": "Noita",
+    "imagen": "images/Noita.webp",
+    "plataforma": "PC",
+    "anio": "2020",
+    "genero": "ACT/ROGL/SANDBOX",
+    "update": "(15/10/2024)",
+    "tamano": "1.6 GB",
+    "precio": "50 Cup",
+    "descripcion": "Juego de acción roguelike con mundos generados proceduralmente donde cada píxel está simulado físicamente. Controlas a una hechicera que explora cavernas, descubre artefactos y crea combinaciones mágicas para enfrentarse a enemigos. La destrucción del entorno, los líquidos y los materiales generan situaciones impredecibles en cada partida.",
+    "SO": "Windows 7 64-bit",
+    "Procesador": "Dual Core 2 GHz",
+    "RAM": "4 GB",
+    "Gráficos": "512 MB VRAM",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Noita/1.webp",
+      "images/gameplay/Noita/2.webp",
+      "images/gameplay/Noita/3.webp",
+      "images/gameplay/Noita/4.webp"
+    ]
+  },
+  {
+    "id": 907,
+    "titulo": "Replaced",
+    "imagen": "images/Replaced.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "ACT/PLAT/ADV",
+    "update": "---",
+    "tamano": "2.1 GB",
+    "precio": "50 Cup",
+    "descripcion": "Aventura cinematográfica de acción y plataformas en 2.5D ambientada en una versión alternativa y distópica de Estados Unidos durante los años 80. REACH, una inteligencia artificial atrapada en un cuerpo humano, investiga una conspiración corporativa y descubre los oscuros secretos de una sociedad dominada por la corrupción.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Por confirmar oficialmente",
+    "RAM": "Por confirmar oficialmente",
+    "Gráficos": "Por confirmar oficialmente",
+    "DirectX": "Por confirmar oficialmente",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Replaced/1.webp",
+      "images/gameplay/Replaced/2.webp",
+      "images/gameplay/Replaced/3.webp",
+      "images/gameplay/Replaced/4.webp"
+    ]
+  },
+  {
+    "id": 908,
+    "titulo": "Tunic",
+    "imagen": "images/Tunic.webp",
+    "plataforma": "PC",
+    "anio": "2022",
+    "genero": "ACT/ADV/SL",
+    "update": "(27/09/2022)",
+    "tamano": "1.4 GB",
+    "precio": "50 Cup",
+    "descripcion": "Aventura de acción isométrica protagonizada por un pequeño zorro que explora un mundo misterioso lleno de ruinas, secretos, acertijos y enemigos peligrosos. Combina combate exigente, exploración y descubrimiento progresivo de un manual de instrucciones fragmentado que revela mecánicas y secretos del mundo.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Intel i5 Quad-Core",
+    "RAM": "8 GB",
+    "Gráficos": "GTX 660 2 GB",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Tunic/1.webp",
+      "images/gameplay/Tunic/2.webp",
+      "images/gameplay/Tunic/3.webp",
+      "images/gameplay/Tunic/4.webp"
+    ]
   }
+
  
  
 
