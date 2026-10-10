@@ -6,18 +6,21 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     iniciarBuscador();
 
-    iniciarFiltros();
+    await iniciarFiltros();
 
-    await cargarCatalogo();
+    // Cargar el catálogo respetando los filtros guardados
+    await aplicarFiltrosCatalogo();
 
     await restaurarJuego();
 
 });
 
-window.addEventListener("load", ()=>{
+window.addEventListener("load", () => {
 
-    const loader=document.getElementById("loader");
+    const loader = document.getElementById("loader");
 
-    loader.classList.add("hide");
+    if (loader) {
+        loader.classList.add("hide");
+    }
 
 });

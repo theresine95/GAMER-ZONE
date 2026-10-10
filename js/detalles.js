@@ -239,18 +239,16 @@ function crearBotones(juego){
     return `
 
         <div class="btn-group">
-
-            <a
-                href="index.html"
-                class="btn-2">
-
-                INICIO
-
-            </a>
+        
+            <a href="index.html" class="btn-2 btn-inicio" aria-label="Inicio" title="INICIO">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
+        <path fill="currentColor" d="M12 2 0 12h3.5v10h6v-7h5v7h6V12H24L12 2z"/>
+    </svg>
+</a>
 
             <a
                 href="#"
-                class="btn-2 trailer-detalle"
+                class="btn-2 trailer-detalle" aria-label="ver trailer" title="Ver Trailer"
                 data-titulo="${juego.titulo}">
 
                 TRAILER
@@ -259,7 +257,7 @@ function crearBotones(juego){
 
             <a
                 href="#"
-                class="agregar-carrito btn-3"
+                class="agregar-carrito btn-3" aria-label="Agregar al Carrito" title="Agregar al Carrito"
                 data-id="${juego.id}">
 
                 LISTAR

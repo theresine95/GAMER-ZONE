@@ -2616,7 +2616,9 @@
     "notas": "---",
     "incluye": "United Offensive",
     "imagenes": ["", "", "", ""],
-    "trailer": ""
+    "trailer": "",
+    "abreviatura": "cod"
+  
   },
   {
     "id": 111,

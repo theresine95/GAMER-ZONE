@@ -518,6 +518,17 @@ img{
 
 }
 
+/* Imagen de ubicación en el menú Información */
+.imagen-ubicacion {
+    display: block;
+    width: 100%;
+    max-width: 420px;
+    height: auto;
+    margin: 12px auto 0;
+    border-radius: 10px;
+    object-fit: contain;
+}
+
 
 
 /* busqueda */
@@ -559,21 +570,56 @@ img{
 }
 
 
-/* estrenos */
+/* Filtro ESTRENOS */
 
-.buttons{
-    display: flex;
-}
-
-.btn-1{
-    display: inline-block;
-    padding: 13px 25px;
-    background-color: #9bce21;
-    margin-right: 20px;
-    color: #ffffff;
+.estrenos-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 5px 16px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+    border: none;
+    border-radius: 8px;
+    background: #9bce21;
+    font-size: 19px;
     text-transform: capitalize;
-    
+    cursor: pointer;
+    user-select: none;
+    transition: background 0.2s, color 0.2s;
+
 }
+
+.estrenos-toggle input {
+    width: 16px;
+    height: 16px;
+    margin: 0;
+    accent-color: #13462e;
+    cursor: pointer;
+}
+
+.estrenos-toggle:has(input:checked) {
+    background: #4caf50;
+    color: #13462e;
+    border: 1px solid #13462e;
+}
+
+.estrenos-toggle:focus-within {
+    outline: 2px solid #fff;
+    outline-offset: 3px;
+}
+
+.estrenos-toggle {
+    display: inline-flex !important;
+    align-items: center;
+    gap: 8px;
+    color: #ffffff;
+    cursor: pointer;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+
 
 
 
@@ -3970,6 +4016,57 @@ TÍTULO
 
 }
 
+/* Casa sólida para volver al inicio */
+.btn-2.btn-inicio {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 46px;
+    height: 46px;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    background: transparent;
+    color: #9bce21;
+    box-shadow: none;
+    text-decoration: none;
+    transition: transform 0.2s ease, color 0.2s ease;
+}
 
+.btn-2.btn-inicio svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+    fill: currentColor;
+}
+
+.btn-2.btn-inicio:hover {
+    color: #13462e;
+    background: transparent;
+    box-shadow: none;
+    transform: scale(1.1);
+}
+
+
+/* Mensaje sin resultados a todo el ancho del catálogo */
+.sin-resultados {
+    grid-column: 1 / -1;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 35px 15px;
+    margin: 0;
+}
+
+.sin-resultados h2 {
+    margin: 0 0 10px;
+    color: #111419;
+    font-size: 22px;
+}
+
+.sin-resultados p {
+    margin: 0;
+    font-size: 16px;
+}
 
 

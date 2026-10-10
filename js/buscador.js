@@ -89,7 +89,9 @@ async function buscarJuegos(e) {
 
         normalizar(juego.titulo).includes(texto) ||
 
-        normalizar(String(juego.anio)).includes(texto)
+        normalizar(String(juego.anio)).includes(texto) ||
+
+        normalizar(String(juego.abreviatura)).includes(texto)
 
     );
 
@@ -132,7 +134,7 @@ async function buscarJuegos(e) {
 
                 <h2>No se encontraron resultados...</h2>
 
-                <p>Prueba con otro nombre.</p>
+                <p>Prueba con otro nombre, año o abreviatura.</p>
 
             </div>
 
