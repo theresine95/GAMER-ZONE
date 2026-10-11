@@ -20349,7 +20349,7 @@
     "titulo": "FIFA 27 FC27",
     "imagen": "images/FIFA 27 FC27.webp",
     "plataforma": "PC",
-    "categoria": "PC",
+    "categoria": "Hypervisor",
     "anio": "2026",
     "genero": "SPORT/SIM",
     "update": "---",
@@ -20568,6 +20568,32 @@
       "images/gameplay/Tunic/2.webp",
       "images/gameplay/Tunic/3.webp",
       "images/gameplay/Tunic/4.webp"
+    ]
+  },
+  {
+    "id": 909,
+    "titulo": "Assassin's Creed Shadows",
+    "imagen": "images/Assassin's Creed Shadows.webp",
+    "plataforma": "PC",
+    "anio": "2025",
+    "genero": "ACT/ADV/OW",
+    "abreviatura": "ac",
+    "update": "(25/08/2026)",
+    "tamano": "102 GB",
+    "precio": "300 Cup",
+    "descripcion": "Aventura de acción y sigilo en el Japón feudal durante el período Sengoku. Controla a Naoe, una shinobi especializada en infiltración y asesinatos silenciosos, y a Yasuke, un samurái experto en combate directo. Explora un mundo abierto con estaciones dinámicas, infiltración, misiones narrativas y enfrentamientos contra enemigos y organizaciones rivales.",
+    "SO": "Windows 10/11 64-bit",
+    "Procesador": "Intel Core i7-8700K",
+    "RAM": "16 GB",
+    "Gráficos": "GTX 1650 4 GB",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "Claws of Awaji, Valley of Memory, Claws of Awaji Bonus Quest, Awaji Bounty Pack",
+    "imagenes": [
+      "images/gameplay/Assassin's Creed Shadows/1.webp",
+      "images/gameplay/Assassin's Creed Shadows/2.webp",
+      "images/gameplay/Assassin's Creed Shadows/3.webp",
+      "images/gameplay/Assassin's Creed Shadows/4.webp"
     ]
   }
 
