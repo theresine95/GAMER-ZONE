@@ -1,11 +1,11 @@
 let estrenosActivos = false;
 
-// Aplica los filtros de plataforma y estrenos
+
 async function aplicarFiltrosCatalogo() {
 
     const juegos = await cargarJuegos();
 
-    // Marca los estrenos usando los IDs de utils.js
+    // Marcar los juegos que aparecen en ESTRENOS_IDS
     marcarEstrenos(juegos);
 
     const plataforma =
@@ -14,10 +14,10 @@ async function aplicarFiltrosCatalogo() {
     const soloEstrenos =
         document.getElementById("filtro-estrenos")?.checked || false;
 
-    // Guardar la plataforma seleccionada
     sessionStorage.setItem("plataformaSeleccionada", plataforma);
 
-    let filtrados = juegos;
+    // Partir del catálogo completo, ordenado alfabéticamente
+    let filtrados = [...juegos];
 
     // Filtrar por plataforma
     if (plataforma !== "Todos") {
@@ -26,17 +26,31 @@ async function aplicarFiltrosCatalogo() {
         );
     }
 
-    // Filtrar por los IDs de estrenos
+    // Filtrar y ordenar los estrenos según ESTRENOS_IDS
     if (soloEstrenos) {
-        filtrados = filtrados.filter(juego =>
-            ESTRENOS_IDS.includes(Number(juego.id))
+
+        const ordenEstrenos = new Map(
+            ESTRENOS_IDS.map((id, indice) => [
+                Number(id),
+                indice
+            ])
         );
+
+        filtrados = filtrados
+            .filter(juego =>
+                ordenEstrenos.has(Number(juego.id))
+            )
+            .sort((a, b) =>
+                ordenEstrenos.get(Number(a.id)) -
+                ordenEstrenos.get(Number(b.id))
+            );
+
     }
 
-    // Guardar la lista base para el buscador
+    // Actualizar la lista que utiliza el buscador
     establecerJuegosActuales(filtrados);
 
-    // Reiniciar el buscador al cambiar los filtros
+    // Limpiar la búsqueda anterior
     const buscador = document.getElementById("search-input");
 
     if (buscador) {
@@ -45,9 +59,11 @@ async function aplicarFiltrosCatalogo() {
 
     sessionStorage.removeItem("textoBusqueda");
 
-    // Mostrar el resultado con el scroll infinito existente
+    // Reiniciar el catálogo y su scroll infinito
     await mostrarCatalogo(filtrados);
+
 }
+
 
 async function iniciarFiltros() {
 
