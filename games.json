@@ -22957,7 +22957,6 @@
       "images/gameplay/Assassin's Creed Shadows/4.webp"
     ]
   },
-
   {
     "id": 910,
     "titulo": "Resonance A Plague Tale Legacy",
@@ -22982,6 +22981,33 @@
       "images/gameplay/Resonance A Plague Tale Legacy/2.webp",
       "images/gameplay/Resonance A Plague Tale Legacy/3.webp",
       "images/gameplay/Resonance A Plague Tale Legacy/4.webp"
+    ]
+  },
+
+  {
+    "id": 911,
+    "titulo": "The Witcher 3 Wild Hunt Remastered",
+    "imagen": "images/The Witcher 3 Wild Hunt Remastered.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "RPG/ACT/OW",
+    "abreviatura": "tw3",
+    "update": "(08/10/2026)",
+    "tamano": "51 GB",
+    "precio": "200 Cup",
+    "descripcion": "Edición remasterizada del RPG de mundo abierto protagonizado por Geralt de Rivia, un cazador de monstruos que busca a Ciri mientras se enfrenta a la Cacería Salvaje. Incluye mejoras gráficas, iluminación renovada, combate mejorado, animaciones actualizadas y optimizaciones de rendimiento. Permite explorar un vasto mundo de fantasía, completar misiones y tomar decisiones que afectan la historia.",
+    "SO": "Windows 11 64-bit",
+    "Procesador": "Core i5-8400 / Ryzen 5 2600",
+    "RAM": "12 GB",
+    "Gráficos": "GTX 1660 / RX 5500 XT 8GB",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "Hearts of Stone, Blood and Wine",
+    "imagenes": [
+      "images/gameplay/The Witcher 3 Wild Hunt Remastered/1.webp",
+      "images/gameplay/The Witcher 3 Wild Hunt Remastered/2.webp",
+      "images/gameplay/The Witcher 3 Wild Hunt Remastered/3.webp",
+      "images/gameplay/The Witcher 3 Wild Hunt Remastered/4.webp"
     ]
   }
 
