@@ -23286,6 +23286,31 @@
       "images/gameplay/Farm Frenzy Mega Pack/3.webp",
       "images/gameplay/Farm Frenzy Mega Pack/4.webp"
     ]
+  },
+  {
+    "id": 923,
+    "titulo": "Avatar Frontiers of Pandora",
+    "imagen": "images/Avatar Frontiers of Pandora.webp",
+    "plataforma": "PC",
+    "anio": "2023",
+    "genero": "ACT/ADV/OW",
+    "update": "(22/01/2026)",
+    "tamano": "107 GB",
+    "precio": "300 Cup",
+    "descripcion": "Aventura de acción en primera persona ambientada en Pandora, el exuberante mundo de Avatar. Encarnas a un Na'vi criado por la RDA que debe reconectar con sus raíces, explorar la Frontera Occidental y luchar contra la explotación humana. Combina exploración de mundo abierto, combate, fabricación de equipo, montura de ikran y cooperación para dos jugadores.",
+    "SO": "Windows 10/11 64-bit",
+    "Procesador": "Intel Core i7-8700K",
+    "RAM": "16 GB",
+    "Gráficos": "GTX 1070 8 GB",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "The Sky Breaker, Secrets of the Spires, From the Ashes",
+    "imagenes": [
+      "images/gameplay/Avatar Frontiers of Pandora/1.webp",
+      "images/gameplay/Avatar Frontiers of Pandora/2.webp",
+      "images/gameplay/Avatar Frontiers of Pandora/3.webp",
+      "images/gameplay/Avatar Frontiers of Pandora/4.webp"
+    ]
   }
 
  
