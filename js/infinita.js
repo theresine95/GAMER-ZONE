@@ -22,59 +22,111 @@ const estadoScroll = {
 // REINICIAR SCROLL
 // ==========================
 
-async function reiniciarScroll(juegos, esEstrenos = false){
+
+async function reiniciarScroll(juegos, esEstrenos = false) {
 
     estadoScroll.juegos = juegos;
-
     estadoScroll.esEstrenos = esEstrenos;
-
     estadoScroll.cargando = false;
+    estadoScroll.pagina = 0;
 
     const lista = document.getElementById("lista-juegos");
+    const loading = document.getElementById("loading-more");
 
-    if(!lista) return;
+    if (!lista) return;
 
+    // Limpiar el catálogo anterior.
     lista.innerHTML = "";
 
-    if(estadoScroll.observer){
-
+    // Desconectar el observador anterior.
+    if (estadoScroll.observer) {
         estadoScroll.observer.disconnect();
-
         estadoScroll.observer = null;
-
     }
 
-    const ultimoIndice = Number(sessionStorage.getItem("ultimoIndice"));
+    // CASO 1: ningún juego cumple los filtros.
+    // No intentar restaurar posiciones ni cargar páginas.
+    if (!Array.isArray(juegos) || juegos.length === 0) {
 
-    if(!isNaN(ultimoIndice) && ultimoIndice >= 0){
+        lista.innerHTML = `
+            <div class="sin-resultados">
+                <h2>No se encontraron resultados...</h2>
+                <p>
+                    Prueba con otra plataforma, género
+                    o combinación de filtros.
+                </p>
+            </div>
+        `;
 
-        const paginaNecesaria = Math.floor(ultimoIndice / estadoScroll.porPagina);
-
-        estadoScroll.pagina = 0;
-
-        while(estadoScroll.pagina <= paginaNecesaria){
-            
-            await cargarMasJuegos();
-        
+        if (loading) {
+            loading.style.display = "none";
+            loading.textContent = "";
         }
 
-    }else{
+        // Evitar que una posición anterior provoque
+        // otro intento de restauración.
+        sessionStorage.removeItem("ultimoIndice");
+        sessionStorage.removeItem("ultimoJuego");
 
-        estadoScroll.pagina = 0;
-
-        cargarMasJuegos();
-
+        return;
     }
 
+    if (loading) {
+        loading.style.display = "flex";
+        loading.textContent = "Cargando más juegos...";
+    }
+
+    // CASO 2: comprobar si el índice guardado sigue siendo válido.
+    const indiceGuardado = sessionStorage.getItem("ultimoIndice");
+    const ultimoIndice = Number(indiceGuardado);
+
+    const indiceValido =
+        indiceGuardado !== null &&
+        Number.isInteger(ultimoIndice) &&
+        ultimoIndice >= 0 &&
+        ultimoIndice < juegos.length;
+
+    if (indiceValido) {
+
+        const paginaNecesaria = Math.floor(
+            ultimoIndice / estadoScroll.porPagina
+        );
+
+        // El límite adicional impide cualquier bucle infinito.
+        while (
+            estadoScroll.pagina <= paginaNecesaria &&
+            estadoScroll.pagina * estadoScroll.porPagina < juegos.length
+        ) {
+            const paginaAnterior = estadoScroll.pagina;
+
+            await cargarMasJuegos();
+
+            // Protección adicional: salir si no se pudo avanzar.
+            if (
+                estadoScroll.pagina <= paginaAnterior &&
+                estadoScroll.cargando === false
+            ) {
+                break;
+            }
+        }
+
+    } else {
+
+        // La posición guardada ya no corresponde a esta lista.
+        sessionStorage.removeItem("ultimoIndice");
+        sessionStorage.removeItem("ultimoJuego");
+
+        await cargarMasJuegos();
+    }
+
+    // Crear un observador nuevo únicamente si hay resultados.
     const trigger = document.getElementById("scroll-trigger");
 
-    if(trigger){
-
+    if (trigger && estadoScroll.pagina * estadoScroll.porPagina < juegos.length) {
         iniciarScrollInfinito();
-
     }
-
 }
+
 
 // ==========================
 // CARGAR MÁS JUEGOS

@@ -556,7 +556,8 @@ img{
 
 /* Selector de Plataforma */
 
-#platformSelect {
+#platformSelect,
+#genreSelect {
     padding: 10px;
     border-radius: 10px;
     outline: none;
@@ -565,7 +566,8 @@ img{
     font-weight: 600;
 }
 
-#platformSelect:hover{
+#platformSelect:hover,
+#genreSelect:hover{
     cursor: pointer;
 }
 
