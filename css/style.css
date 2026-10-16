@@ -2798,25 +2798,27 @@ CARRITO
 MENU
 =========================*/
 
-/* Primera fila */
-.menu{
 
-    display:grid;
+/* MENU RESPONSIVE: 3 FILAS */
+.menu {
+    display: grid;
 
-    grid-template-columns:50px 1fr 50px;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
 
     grid-template-areas:
-        "info logo carrito"
-        "buscar buscar buscar"
-        "acciones acciones acciones";
+        "info logo logo logo logo carrito"
+        "buscar buscar buscar estrenos estrenos estrenos"
+        "plataforma plataforma plataforma genero genero genero";
 
-    gap:14px;
+    gap: 10px 8px;
 
-    width:100%;
+    width: 100%;
+    height: auto;
+    min-height: 0;
 
-    align-items:center;
-
+    align-items: center;
 }
+
 
 
 
@@ -3317,19 +3319,58 @@ BUSCADOR
 SELECT + BOTON
 =========================*/
 
-.header-actions{
 
-    grid-area:acciones;
-
-    display:grid;
-
-    grid-template-columns:1fr 1fr;
-
-    gap:12px;
-
-    width:100%;
-
+/* Los controles pasan a ocupar directamente las áreas del grid */
+.header-actions {
+    display: contents;
 }
+
+/* Fila 2: botón ESTRENOS */
+.estrenos-toggle {
+    grid-area: estrenos;
+
+    width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+
+    padding: 3px 4px;
+    gap: 5px;
+
+    font-size: 21px;
+    white-space: nowrap;
+}
+
+/* Fila 3: selectores de plataforma y género */
+#platformSelect {
+    grid-area: plataforma;
+
+    width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+}
+
+#genreSelect {
+    grid-area: genero;
+
+    width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+}
+
+/* Buscador de la fila 2 */
+.search-container {
+    grid-area: buscar;
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+}
+
+#search-input {
+    width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+}
+
 
 #platformSelect{
 
@@ -4070,5 +4111,6 @@ TÍTULO
     margin: 0;
     font-size: 16px;
 }
+
 
 
