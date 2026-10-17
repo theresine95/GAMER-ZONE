@@ -13,7 +13,7 @@ const NOMBRES_GENEROS = {
     CITY: "Construcción de ciudades",
     FAM: "Familiar",
     FGT: "Pelea",
-    FPS: "Disparos en primera persona",
+    FPS: "Disparos en 1ra persona",
     HNS: "Hack and slash",
     HOR: "Terror",
     INDIE: "Indie",
@@ -30,7 +30,7 @@ const NOMBRES_GENEROS = {
     RTS: "Estrategia en tiempo real",
     STR: "Estrategia",
     RUN: "Runner",
-    SANDBOX: "Sandbox",
+    SB: "Sandbox",
     SURVH: "Survival horror",
     SHMUP: "Shoot 'em up",
     SIM: "Simulación",
@@ -38,9 +38,12 @@ const NOMBRES_GENEROS = {
     STL: "Sigilo",
     SURV: "Supervivencia",
     TD: "Defensa de torres",
-    TPS: "Disparos en tercera persona",
+    TPS: "Disparos en 3ra persona",
     SL: "Soulslike",
-    VN: "Novela visual"
+    VN: "Novela visual",
+    DL: "Tipo Diablo",
+    TAC: "Táctico",
+    CF: "Ciencia-Ficción"
 };
 
 

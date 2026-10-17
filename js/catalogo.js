@@ -52,7 +52,7 @@ function crearTarjeta(juego){
 
             <img
                 class="game-cover"
-                src="images/${juego.titulo}.webp"
+                src="${juego.imagen}"
                 alt="${juego.titulo}"
                 loading="lazy"
                 data-id="${juego.id}">
