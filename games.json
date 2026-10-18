@@ -23463,10 +23463,34 @@
       "images/gameplay/Control Resonant/2.webp",
       "images/gameplay/Control Resonant/3.webp",
       "images/gameplay/Control Resonant/4.webp"
+    ]
+  },
+  {
+    "id": 140,
+    "titulo": "Total War ROME Remastered",
+    "imagen": "images/Total War ROME Remastered.webp",
+    "plataforma": "PC",
+    "anio": "2021",
+    "genero": "STR/RTS/TAC",
+    "update": "(25/01/2022)",
+    "tamano": "31 GB",
+    "precio": "150 Cup",
+    "descripcion": "Remasterización del clásico de estrategia ambientado en la antigua Roma. Dirige una facción, administra territorios, establece alianzas y conquista provincias durante una campaña por turnos. Enfréntate a ejércitos enemigos en batallas en tiempo real, expande tu imperio y lucha por dominar el mundo antiguo.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Intel Core i3 / AMD FX-4000",
+    "RAM": "6 GB",
+    "Gráficos": "GTX 600 1GB / Radeon HD 7000",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "Alexander, Barbarian Invasion",
+    "imagenes": [
+      "images/gameplay/Total War ROME Remastered/1.webp",
+      "images/gameplay/Total War ROME Remastered/2.webp",
+      "images/gameplay/Total War ROME Remastered/3.webp",
+      "images/gameplay/Total War ROME Remastered/4.webp"
     ],
-    "abreviatura": "control"
+    "abreviatura": "tw"
   }
-
 
 
  
