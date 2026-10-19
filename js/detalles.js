@@ -88,7 +88,7 @@ function crearCabecera(juego){
 
                     <img
 
-                        src="images/${juego.titulo}.webp"
+                        src="${juego.imagen}"
 
                         alt="${juego.titulo}"
 
