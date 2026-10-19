@@ -23515,31 +23515,6 @@
       "images/gameplay/Bloodborne/3.webp",
       "images/gameplay/Bloodborne/4.webp"
     ]
-  },
-  {
-    "id": 926,
-    "titulo": "Ghostwire Tokyo",
-    "imagen": "images/Ghostwire Tokyo.webp",
-    "plataforma": "PC",
-    "anio": "2026",
-    "genero": "ACT/RPG/SL/ADV",
-    "update": "(21/12/2015)",
-    "tamano": "22 GB",
-    "precio": "150 Cup",
-    "descripcion": "Action RPG de FromSoftware con combate exigente y elementos soulslike. En la ciudad gótica de Yharnam, un cazador busca la fuente de una epidemia que transforma a sus habitantes en bestias y descubre horrores cósmicos. No existe una versión oficial para PC; este es un Port desarrollado por la comunidad que permite ejecutarlo nativo en windows.",
-    "SO": "Windows 10/11 64-bit",
-    "Procesador": "Intel Core i5-8400",
-    "RAM": "8 GB",
-    "Gráficos": "GeForce GTX 1060 3GB en 1080p a 60 FPS",
-    "DirectX": "12",
-    "notas": "Se recomienda SSD, a menor resolucion se puede usar una tarjeta de video menor",
-    "incluye": "The Old Hunters",
-    "imagenes": [
-      "images/gameplay/Bloodborne/1.webp",
-      "images/gameplay/Bloodborne/2.webp",
-      "images/gameplay/Bloodborne/3.webp",
-      "images/gameplay/Bloodborne/4.webp"
-    ]
   }
 
  
