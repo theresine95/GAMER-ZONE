@@ -43,7 +43,10 @@ const NOMBRES_GENEROS = {
     VN: "Novela visual",
     DL: "Tipo Diablo",
     TAC: "Táctico",
-    CF: "Ciencia-Ficción"
+    CF: "Ciencia-Ficción",
+    NADV: "Aventura narrativa",
+    COOP: "Coperativo",
+	MOBA: "MOBA"
 };
 
 
