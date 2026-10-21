@@ -23540,6 +23540,32 @@
       "images/gameplay/Ghostwire Tokyo/3.webp",
       "images/gameplay/Ghostwire Tokyo/4.webp"
     ]
+  },
+  {
+    "id": 927,
+    "titulo": "God of War 3 Remastered",
+    "imagen": "images/God of War 3 Remastered.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "ACT/ADV/HNS",
+    "update": "---",
+    "tamano": "27 GB",
+    "precio": "150 Cup",
+    "descripcion": "God of War III es un juego de acción y hack and slash protagonizado por Kratos, quien busca vengarse de Zeus y destruir el Olimpo. La edición Remastered se lanzó para PS4 en 2015. No existe una versión oficial para PC; port comunitario perfectamente funcional en windows",
+    "SO": "Windows 10 (versión 1903 o más reciente)",
+    "Procesador": "Procesador de 64-bit con soporte de instrucciones AVX (Intel Sandy Bridge de 2011 en adelante, o AMD FX en adelante)",
+    "RAM": "8 GB",
+    "Gráficos": "Cualquier tarjeta gráfica compatible con Vulkan 1.3 y que cuente con los controladores gráficos actualizados.",
+    "DirectX": "---",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/God of War 3 Remastered/1.webp",
+      "images/gameplay/God of War 3 Remastered/2.webp",
+      "images/gameplay/God of War 3 Remastered/3.webp",
+      "images/gameplay/God of War 3 Remastered/4.webp"
+    ],
+    "abreviatura": "god"
   }
 
  
