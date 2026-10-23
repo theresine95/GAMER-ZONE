@@ -164,38 +164,6 @@ function crearMeta(juego){
 
                 <div class="meta-label">
 
-                    Género
-
-                </div>
-
-                <div class="meta-value">
-
-                    ${juego.genero}
-
-                </div>
-
-            </div>
-
-            <div class="meta-item">
-
-                <div class="meta-label">
-
-                    Update
-
-                </div>
-
-                <div class="meta-value">
-
-                    ${juego.update}
-
-                </div>
-
-            </div>
-
-            <div class="meta-item">
-
-                <div class="meta-label">
-
                     Tamaño
 
                 </div>
@@ -224,47 +192,27 @@ function crearMeta(juego){
 
             </div>
 
-        </div>
+            <div class="meta-item">
 
-    `;
+                <div class="meta-label">
 
-}
+                    Update
 
-// ==========================
-// BOTONES
-// ==========================
+                </div>
 
-function crearBotones(juego){
+                <div class="meta-value">
 
-    return `
+                    ${juego.update}
 
-        <div class="btn-group">
-        
-            <a href="index.html" class="btn-2 btn-inicio" aria-label="Inicio" title="INICIO">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true">
-        <path fill="currentColor" d="M12 2 0 12h3.5v10h6v-7h5v7h6V12H24L12 2z"/>
-    </svg>
-</a>
+                </div>
 
-            <a
-                href="#"
-                class="btn-2 trailer-detalle" aria-label="ver trailer" title="Ver Trailer"
-                data-titulo="${juego.titulo}">
+            </div>
 
-                TRAILER
 
-            </a>
+            <div class="meta-item meta-actions">
 
-            <a
-                href="#"
-                class="agregar-carrito btn-3" aria-label="Agregar al Carrito" title="Agregar al Carrito"
-                data-id="${juego.id}">
 
-                LISTAR
-
-            </a>
-
-            <li class="submenu">
+                <li class="submenu">
 
                 <img
                     id="img-carrito"
@@ -365,6 +313,62 @@ function crearBotones(juego){
 
             </li>
 
+            </div>
+
+
+        </div>
+
+    `;
+
+}
+
+// ==========================
+// BOTONES
+// ==========================
+
+function crearBotones(juego){
+
+    return `
+
+        <div class="btn-group">
+
+            <a href="index.html"
+            class="btn-2 btn-inicio"
+                   aria-label="Inicio"
+                   title="INICIO">
+
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                         viewBox="0 0 24 24"
+                         aria-hidden="true">
+
+                        <path fill="currentColor"
+                              d="M12 2 0 12h3.5v10h6v-7h5v7h6V12H24L12 2z"/>
+
+                    </svg>
+
+            </a>
+        
+
+            <a
+                href="#"
+                class="btn-2 trailer-detalle" aria-label="ver trailer" title="Ver Trailer"
+                data-titulo="${juego.titulo}">
+
+                TRAILER
+
+            </a>
+
+            <a
+                href="#"
+                class="agregar-carrito btn-3" aria-label="Agregar al Carrito" title="Agregar al Carrito"
+                data-id="${juego.id}">
+
+                LISTAR
+
+            </a>
+
+            
+
         </div>
 
     `;
@@ -375,6 +379,67 @@ function crearBotones(juego){
 // DESCRIPCIÓN
 // ==========================
 
+
+function obtenerNombresGeneros(genero) {
+
+    const NOMBRES_GENEROS = {
+        ACT: "Acción",
+        ADV: "Aventura",
+        ARC: "Arcade",
+        RPG: "RPG",
+        BOARD: "Juego de mesa",
+        BTU: "Beat 'em up",
+        CAS: "Casual",
+        CITY: "Construcción de ciudades",
+        FAM: "Familiar",
+        FGT: "Pelea",
+        FPS: "Disparos en 1ra persona",
+        HNS: "Hack and slash",
+        HOR: "Terror",
+        IND: "Indie",
+        JRPG: "RPG japonés",
+        MV: "Metroidvania",
+        MUSOU: "Musou",
+        OW: "Mundo abierto",
+        PLAT: "Plataformas",
+        PUZ: "Puzles",
+        RACE: "Carreras",
+        CARDS: "Cartas",
+        ROGL: "Roguelike",
+        RHY: "Ritmo",
+        RTS: "Estrategia en tiempo real",
+        STR: "Estrategia",
+        RUN: "Runner",
+        SB: "Sandbox",
+        SURVH: "Survival horror",
+        SHMUP: "Shoot 'em up",
+        SIM: "Simulación",
+        SPORT: "Deportes",
+        STL: "Sigilo",
+        SURV: "Supervivencia",
+        TD: "Defensa de torres",
+        TPS: "Disparos en 3ra persona",
+        SL: "Soulslike",
+        VN: "Novela visual",
+        DL: "Tipo Diablo",
+        TAC: "Táctico",
+        CF: "Ciencia-Ficción",
+        NADV: "Aventura narrativa",
+        COOP: "Coperativo",
+        MOBA: "MOBA"
+    };
+
+    return String(genero || "")
+        .split("/")
+        .map(g => g.trim().toUpperCase())
+        .filter(Boolean)
+        .map(g => NOMBRES_GENEROS[g] || g)
+        .join(" / ") || "---";
+
+}
+
+
+
 function crearDescripcion(juego){
 
     return `
@@ -382,15 +447,11 @@ function crearDescripcion(juego){
         <div class="details-description">
 
             <h2>
-
-                Descripción
-
+                Género
             </h2>
 
             <p>
-
-                ${juego.descripcion}
-
+                ${obtenerNombresGeneros(juego.genero)}
             </p>
 
         </div>
@@ -398,15 +459,23 @@ function crearDescripcion(juego){
         <div class="details-description">
 
             <h2>
-
-                Incluye
-
+                Descripción
             </h2>
 
             <p>
+                ${juego.descripcion}
+            </p>
 
+        </div>
+
+        <div class="details-description">
+
+            <h2>
+                Incluye
+            </h2>
+
+            <p>
                 ${juego.incluye}
-
             </p>
 
         </div>
@@ -414,6 +483,7 @@ function crearDescripcion(juego){
     `;
 
 }
+
 
 // ==========================
 // REQUISITOS
@@ -453,7 +523,7 @@ function crearRequisitos(juego){
 
                     <span class="req-title">
 
-                        ${titulo}
+                        ${titulo}:
 
                     </span>
 

@@ -23641,6 +23641,31 @@
       "images/gameplay/Iron Harvest/3.webp",
       "images/gameplay/Iron Harvest/4.webp"
     ]
+  },
+  {
+    "id": 928,
+    "titulo": "Crimson Moon",
+    "imagen": "images/Crimson Moon.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "ACT/RPG/ADV/SL/ROGL",
+    "update": "---",
+    "tamano": "31 GB",
+    "precio": "150 Cup",
+    "descripcion": "Crimson Moon es un juego de acción y rol de fantasía oscura desarrollado por ProbablyMonsters. Encarnas a un Nephilim, un híbrido de humano y ángel que debe recuperar la ciudad maldita de Gildenarch, infestada de demonios, muertos vivientes y vampiros. Combina combates cuerpo a cuerpo, poderes sobrenaturales, progresión del personaje, misiones rejugables y enfrentamientos contra jefes. Puede jugarse en solitario o en cooperativo online para dos jugadores.",
+    "SO": "Windows 11 (64 bits)",
+    "Procesador": "i5-8400 / Ryzen 5 2600",
+    "RAM": "16 GB",
+    "Gráficos": "GTX 1070 / RX 5700 / Arc A580",
+    "DirectX": "12",
+    "notas": "---",
+    "incluye": "Crimson Moon Soundtrack, Crimson Moon: Deluxe Edition Upgrade",
+    "imagenes": [
+      "images/gameplay/Crimson Moon/1.webp",
+      "images/gameplay/Crimson Moon/2.webp",
+      "images/gameplay/Crimson Moon/3.webp",
+      "images/gameplay/Crimson Moon/4.webp"
+    ]
   }
  
  
