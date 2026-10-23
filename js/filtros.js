@@ -16,7 +16,7 @@ const NOMBRES_GENEROS = {
     FPS: "Disparos en 1ra persona",
     HNS: "Hack and slash",
     HOR: "Terror",
-    INDIE: "Indie",
+    IND: "Indie",
     JRPG: "RPG japonés",
     MV: "Metroidvania",
     MUSOU: "Musou",
