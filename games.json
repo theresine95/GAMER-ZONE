@@ -23666,6 +23666,31 @@
       "images/gameplay/Crimson Moon/3.webp",
       "images/gameplay/Crimson Moon/4.webp"
     ]
+  },
+   {
+    "id": 929,
+    "titulo": "Space Tales",
+    "imagen": "images/Space Tales.webp",
+    "plataforma": "PC",
+    "año": "2026",
+    "genero": "RTS/CF",
+    "update": "(27/08/2026)",
+    "tamano": "18 GB",
+    "precio": "100 Cup",
+    "descripcion": "Space Tales es un juego de estrategia en tiempo real y ciencia ficción. Dirige a Xander Falcon, construye colonias en planetas alienígenas, administra recursos y comanda ejércitos futuristas. La humanidad se enfrenta a facciones enemigas y antiguas amenazas que ponen en peligro su expansión por las estrellas.",
+    "SO": "Windows 10 (32/64 bits)",
+    "Procesador": "2 núcleos, 2 GHz",
+    "RAM": "4 GB",
+    "Gráficos": "GPU 1 GB VRAM, Shader 3",
+    "DirectX": "9.0c",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Space Tales/1.webp",
+      "images/gameplay/Space Tales/2.webp",
+      "images/gameplay/Space Tales/3.webp",
+      "images/gameplay/Space Tales/4.webp"
+    ]
   }
  
  
