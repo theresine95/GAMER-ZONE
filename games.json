@@ -7,7 +7,7 @@
     "anio": "2026",
     "genero": "ACT/ADV/STL",
     "update": "(26/05/2026)",
-    "tamano": "44 GB",
+    "tamano": "54 GB",
     "precio": "200 Cup",
     "descripcion": "Videojuego de acción, aventura y sigilo protagonizado por un joven James Bond antes de convertirse en el legendario agente 007. Tras una misión fallida es reclutado por el MI6 y deberá detener una conspiración internacional utilizando infiltración, combate, persecuciones y sofisticados gadgets de espionaje.",
     "SO": "Windows 10/11 64-bit",
@@ -281,8 +281,8 @@
     "plataforma": "PC",
     "anio": "2019",
     "genero": "RTS",
-    "update": "(24/06/2026)",
-    "tamano": "26 GB",
+    "update": "(10/10/2026)",
+    "tamano": "33 GB",
     "precio": "150 Cup",
     "descripcion": "Edición definitiva de Age of Empires II con gráficos 4K, banda sonora remasterizada, mejoras de calidad de vida y todas las campañas clásicas. Continúa ampliándose con nuevas civilizaciones, campañas y contenido oficial.",
     "SO": "Windows 10 64-bit",
@@ -331,8 +331,8 @@
     "plataforma": "PC",
     "anio": "2020",
     "genero": "RTS",
-    "update": "(25/06/2024)",
-    "tamano": "36 GB",
+    "update": "(10/10/2026)",
+    "tamano": "32 GB",
     "precio": "150 Cup",
     "descripcion": "La edición definitiva de Age of Empires III incorpora gráficos 4K, interfaz modernizada, nuevas civilizaciones, campañas históricas y todas las expansiones oficiales para ofrecer la experiencia más completa de esta entrega.",
     "SO": "Windows 10 64-bit",
@@ -406,8 +406,8 @@
     "plataforma": "PC",
     "anio": "2024",
     "genero": "RTS",
-    "update": "(18/06/2026)",
-    "tamano": "10 GB",
+    "update": "(10/10/2026)",
+    "tamano": "15 GB",
     "precio": "100 Cup",
     "descripcion": "Remake del clásico Age of Mythology con gráficos modernos, nuevas animaciones y mejoras jugables. Controla civilizaciones inspiradas en antiguas mitologías, invoca dioses y criaturas legendarias y participa en épicas batallas de estrategia en tiempo real.",
     "SO": "Windows 10 64-bit",
@@ -3923,7 +3923,7 @@
   },
   {
     "id": 163,
-    "titulo": "Crysis 3/CF",
+    "titulo": "Crysis 3",
     "imagen": "images/Crysis 3.webp",
     "plataforma": "PC",
     "anio": "2013",
@@ -18809,8 +18809,8 @@
     "plataforma": "PC",
     "anio": "2014",
     "genero": "SIM/SB",
-    "update": "(21/07/2026)",
-    "tamano": "61 GB",
+    "update": "(21/10/2026)",
+    "tamano": "62 GB",
     "precio": "250 Cup",
     "descripcion": "Simulador de vida y sociedad donde creas y controlas Sims, construyes y decoras viviendas, desarrollas relaciones y decides sus carreras, aspiraciones y vidas. Su sistema abierto permite crear historias personalizadas y ampliar la experiencia mediante numerosos packs de contenido.",
     "SO": "Windows 10 64-bit",
@@ -20468,8 +20468,8 @@
     "anio": "2024",
     "genero": "TPS/ACT/CF",
     "update": "(11/08/2026)",
-    "tamano": "41 GB",
-    "precio": "200 Cup",
+    "tamano": "64 GB",
+    "precio": "250 Cup",
     "descripcion": "Shooter de acción en tercera persona con intensos combates contra enormes hordas de Tiránidos y fuerzas del Caos. El teniente Titus regresa para defender al Imperio mientras lucha a través de brutales campos de batalla, tanto en la campaña como en operaciones cooperativas y modos PvP.",
     "SO": "Windows 10 64-bit",
     "Procesador": "Ryzen 5 2600X",
@@ -21687,7 +21687,7 @@
     "anio": "2026",
     "genero": "RPG/ACT/OW/ADV",
     "update": "(05/09/2026)",
-    "tamano": "50 GB",
+    "tamano": "53 GB",
     "precio": "200 Cup",
     "descripcion": "RPG de acción de mundo abierto y fantasía oscura ambientado en la Europa del siglo XIV. Coen, convertido en Dawnwalker, debe usar sus poderes humanos y vampíricos para salvar a su familia mientras se enfrenta a un señor vampiro durante una carrera contra el tiempo.",
     "SO": "Windows 10 64-bit",
@@ -23667,7 +23667,7 @@
       "images/gameplay/Crimson Moon/4.webp"
     ]
   },
-   {
+  {
     "id": 929,
     "titulo": "Space Tales",
     "imagen": "images/Space Tales.webp",
@@ -23691,7 +23691,34 @@
       "images/gameplay/Space Tales/3.webp",
       "images/gameplay/Space Tales/4.webp"
     ]
+  },
+  {
+    "id": 930,
+    "titulo": "Dead Space 2023 Remake",
+    "imagen": "images/Dead Space 2023 Remake.webp",
+    "plataforma": "PC",
+    "año": "2023",
+    "genero": "SURVH/TPS/CF",
+    "update": "(27/02/2023)",
+    "tamano": "25 GB",
+    "precio": "150 Cup",
+    "descripcion": "Dead Space es un survival horror de ciencia ficción con combate en tercera persona, exploración y gestión de recursos. Isaac Clarke, un ingeniero, llega a la nave minera USG Ishimura para repararla, pero descubre que su tripulación ha sido masacrada y que la nave está infestada de necromorfos. Deberá sobrevivir, encontrar a Nicole y descubrir el origen de la pesadilla.",
+    "SO": "Windows 10 64 bits",
+    "Procesador": "Core i5-8600 / Ryzen 5 2600X",
+    "RAM": "16 GB",
+    "Gráficos": "GTX 1070 / Radeon RX 5700",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Dead Space 2023 Remake/1.webp",
+      "images/gameplay/Dead Space 2023 Remake/2.webp",
+      "images/gameplay/Dead Space 2023 Remake/3.webp",
+      "images/gameplay/Dead Space 2023 Remake/4.webp"
+    ],
+    "abreviatura": "DS"
   }
+
  
  
 
