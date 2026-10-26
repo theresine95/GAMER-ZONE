@@ -23672,7 +23672,7 @@
     "titulo": "Space Tales",
     "imagen": "images/Space Tales.webp",
     "plataforma": "PC",
-    "año": "2026",
+    "anio": "2026",
     "genero": "RTS/CF",
     "update": "(27/08/2026)",
     "tamano": "18 GB",
@@ -23697,8 +23697,8 @@
     "titulo": "Dead Space 2023 Remake",
     "imagen": "images/Dead Space 2023 Remake.webp",
     "plataforma": "PC",
-    "año": "2023",
-    "genero": "SURVH/TPS/CF",
+    "anio": "2023",
+    "genero": "SURVH/ACT/CF",
     "update": "(27/02/2023)",
     "tamano": "25 GB",
     "precio": "150 Cup",
@@ -23717,6 +23717,32 @@
       "images/gameplay/Dead Space 2023 Remake/4.webp"
     ],
     "abreviatura": "DS"
+  },
+  {
+    "id": 931,
+    "titulo": "Call of Duty MWIV (2026)",
+    "imagen": "images/Call of Duty MWIV (2026).webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "FPS/ACT/TPS",
+    "update": "---",
+    "tamano": "67 GB",
+    "precio": "250 Cup",
+    "descripcion": "Call of Duty: Modern Warfare 4 es un videojuego de disparos en primera persona ambientado en un conflicto militar moderno. La historia transcurre durante una invasión de Corea del Norte a Corea del Sur, mientras un joven soldado surcoreano lucha por sobrevivir y el capitán Price emprende una misión encubierta. Incluye campaña narrativa, multijugador competitivo y el modo de extracción DMZ.",
+    "SO": "Windows 10 64 bits",
+    "Procesador": "Core i5-6600 / Ryzen 5 1400",
+    "RAM": "8 GB",
+    "Gráficos": "GTX 970 / Radeon RX 470",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Call of Duty MWIV (2026)/1.webp",
+      "images/gameplay/Call of Duty MWIV (2026)/2.webp",
+      "images/gameplay/Call of Duty MWIV (2026)/3.webp",
+      "images/gameplay/Call of Duty MWIV (2026)/4.webp"
+    ],
+    "abreviatura": "cod"
   }
 
  
