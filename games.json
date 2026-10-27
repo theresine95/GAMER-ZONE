@@ -4003,8 +4003,8 @@
     "plataforma": "PC",
     "anio": "2020",
     "genero": "RPG/ACT/OW/CF/ADV",
-    "update": "(11/12/2024)",
-    "tamano": "103 GB",
+    "update": "(20/10/2026)",
+    "tamano": "109 GB",
     "precio": "300 Cup",
     "descripcion": "RPG de acción en mundo abierto ambientado en Night City. Encarnas a V, un mercenario que busca la fama y la supervivencia mientras un engrama de Johnny Silverhand amenaza con apoderarse de su mente. La expansión Phantom Liberty añade una trama de espionaje en Dogtown.",
     "SO": "Windows 10 64-bit",
@@ -20468,7 +20468,7 @@
     "anio": "2024",
     "genero": "TPS/ACT/CF",
     "update": "(11/08/2026)",
-    "tamano": "64 GB",
+    "tamano": "65 GB",
     "precio": "250 Cup",
     "descripcion": "Shooter de acción en tercera persona con intensos combates contra enormes hordas de Tiránidos y fuerzas del Caos. El teniente Titus regresa para defender al Imperio mientras lucha a través de brutales campos de batalla, tanto en la campaña como en operaciones cooperativas y modos PvP.",
     "SO": "Windows 10 64-bit",
@@ -23724,11 +23724,11 @@
     "imagen": "images/Call of Duty MWIV (2026).webp",
     "plataforma": "PC",
     "anio": "2026",
-    "genero": "FPS/ACT/TPS",
+    "genero": "FPS/ACT",
     "update": "---",
     "tamano": "67 GB",
     "precio": "250 Cup",
-    "descripcion": "Call of Duty: Modern Warfare 4 es un videojuego de disparos en primera persona ambientado en un conflicto militar moderno. La historia transcurre durante una invasión de Corea del Norte a Corea del Sur, mientras un joven soldado surcoreano lucha por sobrevivir y el capitán Price emprende una misión encubierta. Incluye campaña narrativa, multijugador competitivo y el modo de extracción DMZ.",
+    "descripcion": "Call of Duty: Modern Warfare 4 es un videojuego de disparos en primera persona ambientado en un conflicto militar moderno. La historia transcurre durante una invasión de Corea del Norte a Corea del Sur, mientras un joven soldado surcoreano lucha por sobrevivir y el capitán Price emprende una misión encubierta.",
     "SO": "Windows 10 64 bits",
     "Procesador": "Core i5-6600 / Ryzen 5 1400",
     "RAM": "8 GB",
@@ -23743,7 +23743,34 @@
       "images/gameplay/Call of Duty MWIV (2026)/4.webp"
     ],
     "abreviatura": "cod"
+  },
+  {
+    "id": 932,
+    "titulo": "Poppy Playtime",
+    "imagen": "images/Poppy Playtime.webp",
+    "plataforma": "PC",
+    "anio": "2021",
+    "genero": "HOR/PUZ",
+    "update": "(19/08/2026)",
+    "tamano": "51 GB",
+    "precio": "200 Cup",
+    "descripcion": "Videojuego de terror en primera persona que combina puzles, exploración y supervivencia en una fábrica de juguetes abandonada. El jugador debe investigar los oscuros secretos de Playtime Co., utilizar herramientas especiales y escapar de juguetes monstruosos como Huggy Wuggy mientras descubre la verdad detrás de los experimentos de la compañía.",
+    "SO": "Windows 10/11 64 bits",
+    "Procesador": "Core i3-9100 / Ryzen 5 3500",
+    "RAM": "8 GB",
+    "Gráficos": "GTX 1650 / Radeon RX 470",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "Chapter 1, Chapter 2, Chapter 3, Chapter 4, Chapter 5: Broken Things",
+    "imagenes": [
+      "images/gameplay/Poppy Playtime/1.webp",
+      "images/gameplay/Poppy Playtime/2.webp",
+      "images/gameplay/Poppy Playtime/3.webp",
+      "images/gameplay/Poppy Playtime/4.webp"
+    ],
+    "abreviatura": "PP"
   }
+
 
  
  
