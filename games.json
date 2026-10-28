@@ -23769,6 +23769,32 @@
       "images/gameplay/Poppy Playtime/4.webp"
     ],
     "abreviatura": "PP"
+  },
+  {
+    "id": 933,
+    "titulo": "Silent Hill 1",
+    "imagen": "images/Silent Hill 1.webp",
+    "plataforma": "PC",
+    "anio": "1999",
+    "genero": "HOR/ADV",
+    "update": "---",
+    "tamano": "365 MB",
+    "precio": "50 Cup",
+    "descripcion": "Survival horror psicológico en el que Harry Mason busca a su hija desaparecida en el misterioso pueblo de Silent Hill. Explora calles cubiertas de niebla, resuelve puzles y enfrenta criaturas terroríficas mientras descubres los oscuros secretos del lugar.",
+    "SO": "Windows 10/11 64 bits",
+    "Procesador": "Intel Core i3 o equivalente",
+    "RAM": "2 GB",
+    "Gráficos": "GPU compatible con DirectX",
+    "DirectX": "9.0",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Silent Hill 1/1.webp",
+      "images/gameplay/Silent Hill 1/2.webp",
+      "images/gameplay/Silent Hill 1/3.webp",
+      "images/gameplay/Silent Hill 1/4.webp"
+    ],
+    "abreviatura": "SH"
   }
 
 
