@@ -20,10 +20,24 @@ async function cargarJuegos() {
     const res = await fetch("games.json");
 
     juegos = await res.json();
+    
+    
+   
+juegos.sort((a, b) => {
+    const nombreImagen = juego =>
+        (juego.imagen || "")
+            .split("/")
+            .pop()
+            .replace(/\.webp$/i, "");
 
-    juegos.sort((a, b) =>
-        a.titulo.localeCompare(b.titulo, "es")
+    return nombreImagen(a).localeCompare(
+        nombreImagen(b),
+        "es",
+        { sensitivity: "base" }
     );
+});
+
+
 
     // Al iniciar, el catálogo visible es el completo
     juegosActuales = [...juegos];

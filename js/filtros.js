@@ -157,11 +157,25 @@ async function aplicarFiltrosCatalogo() {
             (ordenEstrenos.get(Number(a.id)) ?? Infinity) -
             (ordenEstrenos.get(Number(b.id)) ?? Infinity)
         );
+    
+    
     } else {
-        filtrados.sort((a, b) =>
-            a.titulo.localeCompare(b.titulo, "es")
-        );
+        filtrados.sort((a, b) => {
+            const nombreImagen = juego =>
+                (juego.imagen || "")
+                    .split("/")
+                    .pop()
+                    .replace(/\.webp$/i, "");
+
+            return nombreImagen(a).localeCompare(
+                nombreImagen(b),
+                "es",
+                { sensitivity: "base" }
+            );
+        });
     }
+
+
 
     // Esta será la lista base sobre la que trabaja el buscador.
     establecerJuegosActuales(filtrados);
