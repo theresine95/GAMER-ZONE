@@ -2793,7 +2793,9 @@ CARRITO
 
 .header{
 
-    padding-top:160px;
+    padding-top:170px;
+
+    width: 100%;
 
 }
 
@@ -3441,6 +3443,8 @@ HEADER
     padding-top:170px;
 
     min-height:auto;
+
+    width: 100%;
 
 }
 
