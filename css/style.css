@@ -3808,7 +3808,7 @@ GALERÍA
 
 #gameDetails .submenu #carrito{
 
-    right:-38px;
+    right: -50px;
 
 }
 
@@ -4200,6 +4200,58 @@ TÍTULO
 
 
 
+
+/* ==========================
+   BOTÓN WHATSAPP DEL CARRITO
+========================== */
+
+.carrito-whatsapp {
+
+    width:100%;
+
+    margin-top:12px;
+
+}
+
+.btn-whatsapp {
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    width:100%;
+
+    padding:12px;
+
+    background:#4caf50;
+
+    color:#ffffff;
+
+    border:none;
+
+    border-radius:8px;
+
+    font-family:'Poppins', sans-serif;
+
+    font-size:14px;
+
+    font-weight:700;
+
+    cursor:pointer;
+
+    transition:.25s;
+
+}
+
+.btn-whatsapp:hover {
+
+    background: #1c8051;
+
+    transform:translateY(-2px);
+
+}
 
 
 

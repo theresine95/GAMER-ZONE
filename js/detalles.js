@@ -309,6 +309,21 @@ function crearMeta(juego){
 
                     </table>
 
+                     <!-- BOTÓN WHATSAPP -->
+
+                    <div class="carrito-whatsapp">
+
+                        <button
+                            type="button"
+                            id="enviar-whatsapp"
+                            class="btn-whatsapp">
+
+                            📲 ENVIAR A WHATSAPP
+
+                        </button>
+
+                    </div>
+
                 </div>
 
             </li>

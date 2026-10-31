@@ -11,6 +11,7 @@ let contadorCarrito;
 let totalTamano;
 let totalPrecio;
 let btnVaciar;
+let btnEnviarWhatsApp;
 let imgCarrito;
 
 // Iconos del carrito
@@ -38,6 +39,9 @@ function iniciarCarrito() {
 
     btnVaciar = document.getElementById("vaciar-carrito");
 
+    btnEnviarWhatsApp =
+    document.getElementById("enviar-whatsapp");
+
     imgCarrito =
         document.getElementById("img-carrito") ||
         document.getElementById("img-carrito-detalle");
@@ -59,6 +63,20 @@ function iniciarCarrito() {
         btnVaciar.addEventListener("click", vaciarCarrito);
 
     }
+
+    if (btnEnviarWhatsApp) {
+
+    btnEnviarWhatsApp.removeEventListener(
+        "click",
+        enviarCarritoWhatsApp
+    );
+
+    btnEnviarWhatsApp.addEventListener(
+        "click",
+        enviarCarritoWhatsApp
+    );
+
+}
 
     cargarLocalStorage();
 
@@ -445,6 +463,64 @@ function actualizarBotones() {
         }
 
     });
+
+}
+
+
+// ==========================
+// ENVIAR CARRITO A WHATSAPP
+// ==========================
+
+function enviarCarritoWhatsApp() {
+
+    if (carrito.length === 0) {
+
+        alert("El carrito está vacío.");
+
+        return;
+
+    }
+
+    let mensaje = "🎮 *PEDIDO GAMER ZONE*\n\n";
+
+    mensaje += "📋 *LISTA DE JUEGOS:*\n\n";
+
+    let totalPrecio = 0;
+    let totalTamanoGB = 0;
+
+    carrito.forEach((juego, index) => {
+
+        mensaje += `${index + 1}. ${juego.titulo}\n`;
+
+        mensaje += `📦 Tamaño: ${juego.tamano}\n`;
+
+        mensaje += `💰 Precio: ${juego.precio} Cup\n\n`;
+
+        totalPrecio += parseFloat(juego.precio) || 0;
+
+        totalTamanoGB += convertirAGB(juego.tamano);
+
+    });
+
+    mensaje += "━━━━━━━━━━━━━━\n\n";
+
+    mensaje += `📦 *TAMAÑO TOTAL: ${formatearTamano(totalTamanoGB)}*\n`;
+
+    mensaje += `💰 *PRECIO TOTAL: ${totalPrecio} Cup*\n\n`;
+
+    mensaje += "━━━━━━━━━━━━━━\n";
+
+    mensaje += "Pedido enviado desde Gamer Zone.";
+
+    const telefono = "5356830015";
+
+    const url =
+        "https://wa.me/" +
+        telefono +
+        "?text=" +
+        encodeURIComponent(mensaje);
+
+    window.open(url, "_blank");
 
 }
 
