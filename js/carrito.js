@@ -183,7 +183,7 @@ function crearFila(juego) {
         <td>
 
             <img
-                src="images/${juego.titulo}.webp"
+                src="${juego.imagen}"
                 width="56"
                 height="70">
 

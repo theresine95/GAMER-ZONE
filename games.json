@@ -7843,8 +7843,8 @@
   },
   {
     "id": 319,
-    "titulo": "God of War I (PS2)",
-    "imagen": "images/God of War I (PS2).webp",
+    "titulo": "God of War (PS2)",
+    "imagen": "images/God of War 1 (PS2).webp",
     "plataforma": "PC",
     "categoria": "Emulado",
     "anio": "2005",
@@ -7866,12 +7866,12 @@
       "images/gameplay/God of War I (PS2)/3.webp",
       "images/gameplay/God of War I (PS2)/4.webp"
     ],
-    "abreviatura": "god"
+    "abreviatura": "gow"
   },
   {
     "id": 320,
-    "titulo": "God of War II (PS2)",
-    "imagen": "images/God of War II (PS2).webp",
+    "titulo": "God of War 2 (PS2)",
+    "imagen": "images/God of War 2 (PS2).webp",
     "plataforma": "PC",
     "categoria": "Emulado",
     "anio": "2007",
@@ -7893,12 +7893,12 @@
       "images/gameplay/God of War II (PS2)/3.webp",
       "images/gameplay/God of War II (PS2)/4.webp"
     ],
-    "abreviatura": "god"
+    "abreviatura": "gow"
   },
 
   {
     "id": 321,
-    "titulo": "God of War (PSP) - Ghost of Sparta",
+    "titulo": "God of War - Ghost of Sparta (PSP)",
     "imagen": "images/God of War (PSP) - Ghost of Sparta.webp",
     "plataforma": "PC",
     "categoria": "Emulado",
@@ -7921,12 +7921,12 @@
       "images/gameplay/God of War (PSP) - Ghost of Sparta/3.webp",
       "images/gameplay/God of War (PSP) - Ghost of Sparta/4.webp"
     ],
-    "abreviatura": "god"
+    "abreviatura": "gow"
   },
   {
     "id": 322,
-    "titulo": "God of War",
-    "imagen": "images/God of War.webp",
+    "titulo": "God of War (2018)",
+    "imagen": "images/God of War 4.webp",
     "plataforma": "PC",
     "anio": "2022",
     "genero": "ACT/ADV/HNS",
@@ -7947,7 +7947,7 @@
       "images/gameplay/God of War/3.webp",
       "images/gameplay/God of War/4.webp"
     ],
-    "abreviatura": "god"
+    "abreviatura": "gow"
   },
   {
     "id": 323,
@@ -7973,7 +7973,7 @@
       "images/gameplay/God of War Ragnarok/3.webp",
       "images/gameplay/God of War Ragnarok/4.webp"
     ],
-    "abreviatura": "god"
+    "abreviatura": "gow"
   },
   {
     "id": 324,
@@ -8230,7 +8230,7 @@
   {
     "id": 334,
     "titulo": "Grand Thef Auto Vice City",
-    "imagen": "images/GTA Vice City.webp",
+    "imagen": "images/GTA 1.webp",
     "plataforma": "PC",
     "anio": "2003",
     "genero": "ACT/OW",
@@ -8256,7 +8256,7 @@
   {
     "id": 335,
     "titulo": "Grand Thef Auto San Andreas",
-    "imagen": "images/GTA San Andreas.webp",
+    "imagen": "images/GTA 2.webp",
     "plataforma": "PC",
     "anio": "2005",
     "genero": "ACT/OW",
@@ -8283,7 +8283,7 @@
   {
     "id": 336,
     "titulo": "Grand Thef Auto Trilogy",
-    "imagen": "images/GTA Trilogy.webp",
+    "imagen": "images/GTA 3.webp",
     "plataforma": "PC",
     "anio": "2021",
     "genero": "ACT/OW",
@@ -8309,7 +8309,7 @@
   {
     "id": 337,
     "titulo": "Grand Thef Auto IV",
-    "imagen": "images/GTA IV.webp",
+    "imagen": "images/GTA 4.webp",
     "plataforma": "PC",
     "anio": "2008",
     "genero": "ACT/OW",
@@ -8335,7 +8335,7 @@
   {
     "id": 338,
     "titulo": "Grand Thef Auto V",
-    "imagen": "images/GTA V.webp",
+    "imagen": "images/GTA 5.webp",
     "plataforma": "PC",
     "anio": "2015",
     "genero": "ACT/OW",
@@ -8361,7 +8361,7 @@
   {
     "id": 339,
     "titulo": "Grand Thef Auto V Enhanced",
-    "imagen": "images/GTA V Enhanced.webp",
+    "imagen": "images/GTA 5 Enhanced.webp",
     "plataforma": "PC",
     "anio": "2025",
     "genero": "ACT/OW",
@@ -8487,7 +8487,7 @@
   },
   {
     "id": 344,
-    "titulo": "Hades - Battle Out of Hell",
+    "titulo": "Hades",
     "imagen": "images/Hades - Battle Out of Hell.webp",
     "plataforma": "PC",
     "anio": "2020",
@@ -8565,7 +8565,7 @@
     "id": 347,
     "titulo": "Halo The Master Chief Collection",
     "plataforma": "PC",
-    "imagen": "images/Halo The Master Chief Collection.webp",
+    "imagen": "images/Halo - The Master Chief Collection.webp",
     "anio": "2019",
     "genero": "FPS/ACT/CF",
     "update": "---",
@@ -8841,7 +8841,7 @@
   {
     "id": 358,
     "titulo": "Hellblade Senua's Sacrifice",
-    "imagen": "images/Hellblade Senua's Sacrifice.webp",
+    "imagen": "images/Hellblade 1.webp",
     "plataforma": "PC",
     "anio": "2017",
     "genero": "ACT/ADV",
@@ -8968,8 +8968,8 @@
   },
   {
     "id": 363,
-    "titulo": "Hitman 2016",
-    "imagen": "images/Hitman 2016.webp",
+    "titulo": "Hitman",
+    "imagen": "images/Hitman 1.webp",
     "plataforma": "PC",
     "anio": "2016",
     "genero": "STL/ACT",
@@ -9150,7 +9150,7 @@
   {
     "id": 370,
     "titulo": "Horizon Zero Dawn",
-    "imagen": "images/Horizon Zero Dawn.webp",
+    "imagen": "images/Horizon 1 Zero Dawn.webp",
     "plataforma": "PC",
     "anio": "2020",
     "genero": "RPG/ADV/OW/ACT/CF",
@@ -9528,7 +9528,7 @@
   {
     "id": 385,
     "titulo": "Injustice Gods Among Us",
-    "imagen": "images/Injustice Gods Among Us.webp",
+    "imagen": "images/Injustice 1 Gods Among Us.webp",
     "plataforma": "PC",
     "anio": "2013",
     "genero": "FGT",
@@ -10114,8 +10114,8 @@
   },
   {
     "id": 408,
-    "titulo": "Kingdom Come Deliverance II",
-    "imagen": "images/Kingdom Come Deliverance II.webp",
+    "titulo": "Kingdom Come Deliverance 2",
+    "imagen": "images/Kingdom Come Deliverance 2.webp",
     "plataforma": "PC",
     "anio": "2025",
     "genero": "RPG/ACT/OW/ADV",
@@ -10141,7 +10141,7 @@
   {
     "id": 409,
     "titulo": "Kingdom Rush Collection",
-    "imagen": "images/Kingdom Rush Collection.webp",
+    "imagen": "images/Kingdom Rush 1-5 Collection.webp",
     "plataforma": "PC",
     "anio": "2020",
     "genero": "TD",
@@ -10166,8 +10166,8 @@
   },
   {
     "id": 410,
-    "titulo": "Kingdom Rush - Legends of Kingdom Rush",
-    "imagen": "images/Kingdom Rush - Legends of Kingdom Rush.webp",
+    "titulo": "Legends of Kingdom Rush",
+    "imagen": "images/Kingdom Rush Legends of Kingdom Rush.webp",
     "plataforma": "PC",
     "anio": "2022",
     "genero": "RPG/ROGL/TAC",
@@ -10734,7 +10734,7 @@
   {
     "id": 432,
     "titulo": "Mafia",
-    "imagen": "images/Mafia.webp",
+    "imagen": "images/Mafia 1.webp",
     "plataforma": "PC",
     "anio": "2002",
     "genero": "ACT",
@@ -10813,7 +10813,7 @@
   {
     "id": 435,
     "titulo": "Mafia Definitive Edition",
-    "imagen": "images/Mafia Definitive Edition.webp",
+    "imagen": "images/Mafia 1 Definitive Edition.webp",
     "plataforma": "PC",
     "anio": "2020",
     "genero": "ACT/OW",
@@ -11100,7 +11100,7 @@
   {
     "id": 446,
     "titulo": "Marvel's Spider-Man Remastered",
-    "imagen": "images/Marvel's Spider-Man Remastered.webp",
+    "imagen": "images/Marvel's Spider-Man 1 Remastered.webp",
     "plataforma": "PC",
     "anio": "2022",
     "genero": "ACT/ADV/OW",
@@ -11126,7 +11126,7 @@
   {
     "id": 447,
     "titulo": "Marvel's Spider-Man Miles Morales",
-    "imagen": "images/Marvel's Spider-Man Miles Morales.webp",
+    "imagen": "images/Marvel's Spider-Man 1.5 Miles Morales.webp",
     "plataforma": "PC",
     "anio": "2022",
     "genero": "ACT/ADV/OW",
@@ -11647,7 +11647,7 @@
   {
     "id": 467,
     "titulo": "Metro 2033",
-    "imagen": "images/Metro 2033.webp",
+    "imagen": "images/Metro 1 2033.webp",
     "plataforma": "PC",
     "anio": "2010",
     "genero": "FPS/ACT/SURVH",
@@ -11673,7 +11673,7 @@
   {
     "id": 468,
     "titulo": "Metro Last Light",
-    "imagen": "images/Metro Last Light.webp",
+    "imagen": "images/Metro 2 Last Light.webp",
     "plataforma": "PC",
     "anio": "2013",
     "genero": "FPS/ACT/SURVH",
@@ -11699,7 +11699,7 @@
   {
     "id": 469,
     "titulo": "Metro Redux Bundle",
-    "imagen": "images/Metro Redux Bundle.webp",
+    "imagen": "images/Metro 2.5 Redux Bundle.webp",
     "plataforma": "PC",
     "anio": "2014",
     "genero": "FPS/ACT/SURVH",
@@ -11725,7 +11725,7 @@
   {
     "id": 470,
     "titulo": "Metro Exodus",
-    "imagen": "images/Metro Exodus.webp",
+    "imagen": "images/Metro 3 Exodus.webp",
     "plataforma": "PC",
     "anio": "2019",
     "genero": "FPS/SURVH/OW/ACT",
@@ -12085,7 +12085,7 @@
   {
     "id": 484,
     "titulo": "Monster Hunter World",
-    "imagen": "images/Monster Hunter World.webp",
+    "imagen": "images/Monster Hunter 1 World.webp",
     "plataforma": "PC",
     "anio": "2018",
     "genero": "ACT/RPG/ADV",
@@ -12111,7 +12111,7 @@
   {
     "id": 485,
     "titulo": "Monster Hunter Rise",
-    "imagen": "images/Monster Hunter Rise.webp",
+    "imagen": "images/Monster Hunter 2 Rise.webp",
     "plataforma": "PC",
     "anio": "2022",
     "genero": "ACT/RPG/ADV",
@@ -12214,7 +12214,7 @@
   {
     "id": 489,
     "titulo": "Mortal Kombat Legacy Collection",
-    "imagen": "images/Mortal Kombat Legacy Collection.webp",
+    "imagen": "images/Mortal Kombat 0 Legacy Collection.webp",
     "plataforma": "PC",
     "anio": "2025",
     "genero": "FGT",
@@ -12239,8 +12239,8 @@
   },
   {
     "id": 490,
-    "titulo": "Mortal Kombat 9",
-    "imagen": "images/Mortal Kombat 9.webp",
+    "titulo": "Mortal Kombat",
+    "imagen": "images/Mortal Kombat 09.webp",
     "plataforma": "PC",
     "anio": "2013",
     "genero": "FGT",
@@ -12266,7 +12266,7 @@
   {
     "id": 491,
     "titulo": "Mortal Kombat XL",
-    "imagen": "images/Mortal Kombat XL.webp",
+    "imagen": "images/Mortal Kombat 10.webp",
     "plataforma": "PC",
     "anio": "2016",
     "genero": "FGT",
@@ -12318,7 +12318,7 @@
   {
     "id": 493,
     "titulo": "Mortal Kombat 1",
-    "imagen": "images/Mortal Kombat 1.webp",
+    "imagen": "images/Mortal Kombat 12.webp",
     "plataforma": "PC",
     "anio": "2023",
     "genero": "FGT",
@@ -12523,7 +12523,7 @@
   {
     "id": 501,
     "titulo": "Need for Speed Underground",
-    "imagen": "images/Need for Speed Underground.webp",
+    "imagen": "images/Need for Speed 01 Underground.webp",
     "plataforma": "PC",
     "anio": "2003",
     "genero": "RACE",
@@ -12549,7 +12549,7 @@
   {
     "id": 502,
     "titulo": "Need for Speed Underground 2",
-    "imagen": "images/Need for Speed Underground 2.webp",
+    "imagen": "images/Need for Speed 02 Underground 2.webp",
     "plataforma": "PC",
     "anio": "2004",
     "genero": "RACE",
@@ -12575,7 +12575,7 @@
   {
     "id": 503,
     "titulo": "Need for Speed Most Wanted",
-    "imagen": "images/Need for Speed Most Wanted.webp",
+    "imagen": "images/Need for Speed 03 Most Wanted.webp",
     "plataforma": "PC",
     "anio": "2005",
     "genero": "RACE",
@@ -12601,7 +12601,7 @@
   {
     "id": 504,
     "titulo": "Need For Speed Carbon",
-    "imagen": "images/Need For Speed Carbon.webp",
+    "imagen": "images/Need For Speed 04 Carbon.webp",
     "plataforma": "PC",
     "anio": "2006",
     "genero": "RACE",
@@ -12627,7 +12627,7 @@
   {
     "id": 505,
     "titulo": "Need for Speed ProStreet",
-    "imagen": "images/Need for Speed ProStreet.webp",
+    "imagen": "images/Need for Speed 05 ProStreet.webp",
     "plataforma": "PC",
     "anio": "2007",
     "genero": "RACE",
@@ -12653,7 +12653,7 @@
   {
     "id": 506,
     "titulo": "Need for Speed Undercover",
-    "imagen": "images/Need for Speed Undercover.webp",
+    "imagen": "images/Need for Speed 06 Undercover.webp",
     "plataforma": "PC",
     "anio": "2008",
     "genero": "RACE",
@@ -12679,7 +12679,7 @@
   {
     "id": 507,
     "titulo": "Need for Speed Shift",
-    "imagen": "images/Need for Speed Shift.webp",
+    "imagen": "images/Need for Speed 07 Shift.webp",
     "plataforma": "PC",
     "anio": "2009",
     "genero": "RACE",
@@ -12705,7 +12705,7 @@
   {
     "id": 508,
     "titulo": "Need for Speed Shift 2 Unleashed",
-    "imagen": "images/Need for Speed Shift 2 Unleashed.webp",
+    "imagen": "images/Need for Speed 08 Shift 2 Unleashed.webp",
     "plataforma": "PC",
     "anio": "2011",
     "genero": "RACE",
@@ -12731,7 +12731,7 @@
   {
     "id": 509,
     "titulo": "Need for Speed Hot Pursuit 2010",
-    "imagen": "images/Need for Speed Hot Pursuit 2010.webp",
+    "imagen": "images/Need for Speed 09 Hot Pursuit 2010.webp",
     "plataforma": "PC",
     "anio": "2010",
     "genero": "RACE",
@@ -12757,7 +12757,7 @@
   {
     "id": 510,
     "titulo": "Need for Speed The Run",
-    "imagen": "images/Need for Speed The Run.webp",
+    "imagen": "images/Need for Speed 10 The Run.webp",
     "plataforma": "PC",
     "anio": "2011",
     "genero": "RACE",
@@ -12783,7 +12783,7 @@
   {
     "id": 511,
     "titulo": "Need for Speed Most Wanted 2012",
-    "imagen": "images/Need for Speed Most Wanted 2012.webp",
+    "imagen": "images/Need for Speed 11 Most Wanted 2012.webp",
     "plataforma": "PC",
     "anio": "2012",
     "genero": "RACE",
@@ -12809,7 +12809,7 @@
   {
     "id": 512,
     "titulo": "Need for Speed Rivals",
-    "imagen": "images/Need for Speed Rivals.webp",
+    "imagen": "images/Need for Speed 12 Rivals.webp",
     "plataforma": "PC",
     "anio": "2013",
     "genero": "RACE",
@@ -12835,7 +12835,7 @@
   {
     "id": 513,
     "titulo": "Need for Speed Payback",
-    "imagen": "images/Need for Speed Payback.webp",
+    "imagen": "images/Need for Speed 13 Payback.webp",
     "plataforma": "PC",
     "anio": "2017",
     "genero": "RACE",
@@ -12861,7 +12861,7 @@
   {
     "id": 514,
     "titulo": "Need for Speed Heat",
-    "imagen": "images/Need for Speed Heat.webp",
+    "imagen": "images/Need for Speed 14 Heat.webp",
     "plataforma": "PC",
     "anio": "2019",
     "genero": "RACE",
@@ -12887,7 +12887,7 @@
   {
     "id": 515,
     "titulo": "Need for Speed Unbound",
-    "imagen": "images/Need for Speed Unbound.webp",
+    "imagen": "images/Need for Speed 15 Unbound.webp",
     "plataforma": "PC",
     "categoria": "Hypervisor",
     "anio": "2022",
@@ -13818,7 +13818,7 @@
   {
     "id": 559,
     "titulo": "Plants vs Zombies",
-    "imagen": "images/Plants vs Zombies.webp",
+    "imagen": "images/Plants vs Zombies 1.webp",
     "plataforma": "PC",
     "anio": "2009",
     "genero": "TD/CAS",
@@ -13870,7 +13870,7 @@
   {
     "id": 561,
     "titulo": "Plants vs Zombies Replanted",
-    "imagen": "images/Plants vs Zombies Replanted.webp",
+    "imagen": "images/Plants vs Zombies 1 Replanted.webp",
     "plataforma": "PC",
     "anio": "2025",
     "genero": "TD/CAS",
@@ -13896,7 +13896,7 @@
   {
     "id": 562,
     "titulo": "Pokemon Colección",
-    "imagen": "images/Pokemon Colección.webp",
+    "imagen": "images/Pokemon 1-6 Colección.webp",
     "plataforma": "PC",
     "anio": "2025",
     "genero": "JRPG",
@@ -14123,7 +14123,7 @@
   {
     "id": 571,
     "titulo": "Prince of Persia The Sands of Time",
-    "imagen": "images/Prince of Persia The Sands of Time.webp",
+    "imagen": "images/Prince of Persia 1.webp",
     "plataforma": "PC",
     "anio": "2003",
     "genero": "ACT/ADV/PLAT",
@@ -14149,7 +14149,7 @@
   {
     "id": 572,
     "titulo": "Prince of Persia Warrior Within",
-    "imagen": "images/Prince of Persia Warrior Within.webp",
+    "imagen": "images/Prince of Persia 2.webp",
     "plataforma": "PC",
     "anio": "2004",
     "genero": "ACT/ADV/PLAT",
@@ -14175,7 +14175,7 @@
   {
     "id": 573,
     "titulo": "Prince of Persia The Two Thrones",
-    "imagen": "images/Prince of Persia The Two Thrones.webp",
+    "imagen": "images/Prince of Persia 3.webp",
     "plataforma": "PC",
     "anio": "2005",
     "genero": "ACT/ADV/PLAT",
@@ -14201,7 +14201,7 @@
   {
     "id": 574,
     "titulo": "Prince of Persia 2008",
-    "imagen": "images/Prince of Persia 2008.webp",
+    "imagen": "images/Prince of Persia 4.webp",
     "plataforma": "PC",
     "anio": "2008",
     "genero": "ACT/ADV/PLAT",
@@ -14227,7 +14227,7 @@
   {
     "id": 575,
     "titulo": "Prince of Persia The Forgotten Sands",
-    "imagen": "images/Prince of Persia The Forgotten Sands.webp",
+    "imagen": "images/Prince of Persia 5.webp",
     "plataforma": "PC",
     "anio": "2010",
     "genero": "ACT/ADV/PLAT",
@@ -14253,7 +14253,7 @@
 
   {
     "id": 576,
-    "titulo": "Prince of Persia The Rogue",
+    "titulo": "The Rogue - Prince of Persia",
     "imagen": "images/Prince of Persia The Rogue.webp",
     "plataforma": "PC",
     "anio": "2025",
@@ -14587,7 +14587,7 @@
   {
     "id": 589,
     "titulo": "Rayman Origins",
-    "imagen": "images/Rayman Origins.webp",
+    "imagen": "images/Rayman 1 Origins.webp",
     "plataforma": "PC",
     "anio": "2012",
     "genero": "PLAT/ACT/FAM/COOP",
@@ -14613,7 +14613,7 @@
   {
     "id": 590,
     "titulo": "Rayman Legends",
-    "imagen": "images/Rayman Legends.webp",
+    "imagen": "images/Rayman 2 Legends.webp",
     "plataforma": "PC",
     "anio": "2013",
     "genero": "PLAT/ACT/FAM/COOP",
@@ -14742,7 +14742,7 @@
   {
     "id": 595,
     "titulo": "Remnant From the Ashes",
-    "imagen": "images/Remnant From the Ashes.webp",
+    "imagen": "images/Remnant 1 From the Ashes.webp",
     "plataforma": "PC",
     "anio": "2019",
     "genero": "TPS/ACT/RPG",
@@ -14768,8 +14768,8 @@
 
   {
     "id": 596,
-    "titulo": "Remnant II",
-    "imagen": "images/Remnant II.webp",
+    "titulo": "Remnant 2",
+    "imagen": "images/Remnant 2.webp",
     "plataforma": "PC",
     "anio": "2023",
     "genero": "TPS/ACT/RPG",
@@ -14795,7 +14795,7 @@
   {
     "id": 597,
     "titulo": "Resident Evil",
-    "imagen": "images/Resident Evil.webp",
+    "imagen": "images/Resident Evil 1.webp",
     "plataforma": "PC",
     "anio": "1996",
     "genero": "SURVH/ACT",
@@ -14873,7 +14873,7 @@
   {
     "id": 600,
     "titulo": "Resident Evil Code Veronica",
-    "imagen": "images/Resident Evil Code Veronica.webp",
+    "imagen": "images/Resident Evil 3,1 Code Veronica.webp",
     "plataforma": "PC",
     "anio": "2002",
     "genero": "SURVH/ACT",
@@ -15004,7 +15004,7 @@
   {
     "id": 605,
     "titulo": "Resident Evil Revelations",
-    "imagen": "images/Resident Evil Revelations.webp",
+    "imagen": "images/Resident Evil 6,1 Revelations.webp",
     "plataforma": "PC",
     "anio": "2013",
     "genero": "SURVH/ACT",
@@ -15030,7 +15030,7 @@
   {
     "id": 606,
     "titulo": "Resident Evil Revelations 2",
-    "imagen": "images/Resident Evil Revelations 2.webp",
+    "imagen": "images/Resident Evil 6,2 Revelations 2.webp",
     "plataforma": "PC",
     "anio": "2015",
     "genero": "SURVH/ACT",
@@ -15082,7 +15082,7 @@
   {
     "id": 608,
     "titulo": "Resident Evil HD Remaster",
-    "imagen": "images/Resident Evil HD Remaster.webp",
+    "imagen": "images/Resident Evil 1 HD Remaster.webp",
     "plataforma": "PC",
     "anio": "2015",
     "genero": "SURVH/ACT",
@@ -15108,7 +15108,7 @@
   {
     "id": 609,
     "titulo": "Resident Evil 2 Remake",
-    "imagen": "images/Resident Evil 2 Remake.webp",
+    "imagen": "images/Resident Evil Remake 2.webp",
     "plataforma": "PC",
     "anio": "2019",
     "genero": "SURVH/ACT",
@@ -15134,7 +15134,7 @@
   {
     "id": 610,
     "titulo": "Resident Evil 3 Remake",
-    "imagen": "images/Resident Evil 3 Remake.webp",
+    "imagen": "images/Resident Evil Remake 3.webp",
     "plataforma": "PC",
     "anio": "2020",
     "genero": "SURVH/ACT",
@@ -15185,8 +15185,8 @@
   },
   {
     "id": 612,
-    "titulo": "Resident Evil Village",
-    "imagen": "images/Resident Evil Village.webp",
+    "titulo": "Resident Evil VIIIage",
+    "imagen": "images/Resident Evil 8 Village.webp",
     "plataforma": "PC",
     "anio": "2021",
     "genero": "SURVH/ACT",
@@ -15212,7 +15212,7 @@
   {
     "id": 613,
     "titulo": "Resident Evil The Darkside Chronicles",
-    "imagen": "images/Resident Evil The Darkside Chronicles.webp",
+    "imagen": "images/Resident Evil 6,4 The Darkside Chronicles.webp",
     "plataforma": "PC",
     "anio": "2009",
     "genero": "SHMUP/ACT/ARC",
@@ -15238,7 +15238,7 @@
   {
     "id": 614,
     "titulo": "Resident Evil Operation Raccoon City",
-    "imagen": "images/Resident Evil Operation Raccoon City.webp",
+    "imagen": "images/Resident Evil 6,3 Operation Raccoon City.webp",
     "plataforma": "PC",
     "anio": "2012",
     "genero": "TPS/ACT",
@@ -15264,7 +15264,7 @@
   {
     "id": 615,
     "titulo": "Resident Evil 4 Remake",
-    "imagen": "images/Resident Evil 4 Remake.webp",
+    "imagen": "images/Resident Evil Remake 4.webp",
     "plataforma": "PC",
     "anio": "2023",
     "genero": "SURVH/ACT",
@@ -15289,8 +15289,8 @@
   },
   {
     "id": 616,
-    "titulo": "Resident Evil 9 Requiem",
-    "imagen": "images/Resident Evil 9 Requiem.webp",
+    "titulo": "Resident Evil Requiem",
+    "imagen": "images/Resident Evil Requiem.webp",
     "plataforma": "PC",
     "anio": "2026",
     "genero": "SURVH/ACT",
@@ -15441,7 +15441,7 @@
   {
     "id": 623,
     "titulo": "S.T.A.L.K.E.R. Trilogy",
-    "imagen": "images/S.T.A.L.K.E.R. Trilogy.webp",
+    "imagen": "images/S.T.A.L.K.E.R. 1-3 Trilogy.webp",
     "plataforma": "PC",
     "anio": "2009",
     "genero": "FPS/ACT/OW",
@@ -15467,7 +15467,7 @@
   {
     "id": 624,
     "titulo": "S.T.A.L.K.E.R. Legends of the Zone Trilogy Enhanced Edition",
-    "imagen": "images/S.T.A.L.K.E.R. Legends of the Zone Trilogy Enhanced Edition.webp",
+    "imagen": "images/S.T.A.L.K.E.R. 1-3,1 Legends of the Zone Trilogy Enhanced Edition.webp",
     "plataforma": "PC",
     "anio": "2025",
     "genero": "FPS/ACT/OW",
@@ -16099,7 +16099,7 @@
   {
     "id": 649,
     "titulo": "Sniper Elite v1",
-    "imagen": "images/Sniper Elite v1.webp",
+    "imagen": "images/Sniper Elite 1.webp",
     "plataforma": "PC",
     "anio": "2005",
     "genero": "TPS/STL/ACT",
@@ -16125,7 +16125,7 @@
   {
     "id": 650,
     "titulo": "Sniper Elite v2",
-    "imagen": "images/Sniper Elite v2.webp",
+    "imagen": "images/Sniper Elite 2.webp",
     "plataforma": "PC",
     "anio": "2012",
     "genero": "TPS/STL/ACT",
@@ -16151,7 +16151,7 @@
   {
     "id": 651,
     "titulo": "Sniper Elite v2 Remastered",
-    "imagen": "images/Sniper Elite v2 Remastered.webp",
+    "imagen": "images/Sniper Elite 2 Remastered.webp",
     "plataforma": "PC",
     "anio": "2019",
     "genero": "TPS/STL/ACT",
@@ -16508,7 +16508,7 @@
   {
     "id": 665,
     "titulo": "Spider-Man 2001",
-    "imagen": "images/Spider-Man 2001.webp",
+    "imagen": "images/Spider-Man 0 2001.webp",
     "plataforma": "PC",
     "anio": "2001",
     "genero": "ACT/ADV",
@@ -16533,7 +16533,7 @@
   {
     "id": 666,
     "titulo": "Spider-Man",
-    "imagen": "images/Spider-Man.webp",
+    "imagen": "images/Spider-Man 1.webp",
     "plataforma": "PC",
     "anio": "2002",
     "genero": "ACT/ADV",
@@ -16611,7 +16611,7 @@
 
   {
     "id": 669,
-    "titulo": "Spider-Man Ultimate Spider-Man",
+    "titulo": "Ultimate Spider-Man",
     "imagen": "images/Spider-Man Ultimate Spider-Man.webp",
     "plataforma": "PC",
     "anio": "2005",
@@ -17103,7 +17103,7 @@
   {
     "id": 688,
     "titulo": "StarCraft",
-    "imagen": "images/StarCraft.webp",
+    "imagen": "images/StarCraft 1.webp",
     "plataforma": "PC",
     "anio": "1998",
     "genero": "RTS/CF",
@@ -17129,7 +17129,7 @@
   {
     "id": 689,
     "titulo": "StarCraft Remastered",
-    "imagen": "images/StarCraft Remastered.webp",
+    "imagen": "images/StarCraft 1 Remastered.webp",
     "plataforma": "PC",
     "anio": "2017",
     "genero": "RTS/CF",
@@ -17532,7 +17532,7 @@
   {
     "id": 705,
     "titulo": "Stronghold Definitive Edition",
-    "imagen": "images/Stronghold Definitive Edition.webp",
+    "imagen": "images/Stronghold 1 Definitive Edition.webp",
     "plataforma": "PC",
     "anio": "2023",
     "genero": "RTS/STR",
@@ -17606,8 +17606,8 @@
   },
   {
     "id": 708,
-    "titulo": "Stronghold Crusader 1 HD",
-    "imagen": "images/Stronghold Crusader 1 HD.webp",
+    "titulo": "Stronghold Crusader HD",
+    "imagen": "images/Stronghold Crusader 1.webp",
     "plataforma": "PC",
     "anio": "2012",
     "genero": "RTS/STR",
@@ -17632,7 +17632,7 @@
   {
     "id": 709,
     "titulo": "Stronghold Crusader Definitive Edition",
-    "imagen": "images/Stronghold Crusader Definitive Edition.webp",
+    "imagen": "images/Stronghold Crusader 1 Definitive Edition.webp",
     "plataforma": "PC",
     "anio": "2025",
     "genero": "RTS/STR",
@@ -17782,7 +17782,7 @@
   },
   {
     "id": 715,
-    "titulo": "Super Mario World U Newer",
+    "titulo": "Newer Super Mario World U",
     "imagen": "images/Super Mario World U Newer.webp",
     "plataforma": "PC",
     "categoria": "Emulado",
@@ -18421,7 +18421,7 @@
   },
   {
     "id": 741,
-    "titulo": "The Forest - Sons of the Forest",
+    "titulo": "Sons of The Forest",
     "imagen": "images/The Forest - Sons of the Forest.webp",
     "plataforma": "PC",
     "anio": "2024",
@@ -19523,7 +19523,7 @@
   },
   {
     "id": 784,
-    "titulo": "Tomb Raider Rise of the Tomb Raider",
+    "titulo": "Rise of the Tomb Raider",
     "imagen": "images/Tomb Raider Rise of the Tomb Raider.webp",
     "plataforma": "PC",
     "anio": "2016",
@@ -19549,7 +19549,7 @@
   },
   {
     "id": 785,
-    "titulo": "Tomb Raider Shadow of the Tomb Raider",
+    "titulo": "Shadow of the Tomb Raider",
     "imagen": "images/Tomb Raider Shadow of the Tomb Raider.webp",
     "plataforma": "PC",
     "anio": "2018",
@@ -19728,7 +19728,7 @@
   {
     "id": 792,
     "titulo": "Total War ROME II",
-    "imagen": "images/Total War ROME II.webp",
+    "imagen": "images/Total War ROME 2.webp",
     "plataforma": "PC",
     "anio": "2013",
     "genero": "STR",
@@ -19905,11 +19905,12 @@
   },
   {
     "id": 799,
-    "titulo": "Truck Simulator - Alaskan Road Truckers",
-    "imagen": "images/Truck Simulator - Alaskan Road Truckers.webp",
+    "titulo": "Alaskan Road Truckers",
+    "imagen": "images/Truck Simulator 4 - Alaskan Road Truckers.webp",
     "plataforma": "PC",
     "anio": "2023",
     "genero": "SIM",
+    "abreviatura": "Truck Simulator",
     "update": "(19/06/2026)",
     "tamano": "8.8 GB",
     "precio": "100 Cup",
@@ -19930,12 +19931,12 @@
   },
   {
     "id": 800,
-    "titulo": "Truck Simulator - American Truck Simulator",
-    "imagen": "images/Truck Simulator - American Truck Simulator.webp",
+    "titulo": "American Truck Simulator",
+    "imagen": "images/Truck Simulator 1 - American Truck Simulator.webp",
     "plataforma": "PC",
     "anio": "2016",
     "genero": "SIM",
-    "abreviatura": "ats",
+    "abreviatura": "Truck Simulator",
     "update": "(16/06/2026)",
     "tamano": "13 GB",
     "precio": "100 Cup",
@@ -19956,12 +19957,12 @@
   },
   {
     "id": 801,
-    "titulo": "Truck Simulator - Euro Truck Simulator 1",
-    "imagen": "images/Truck Simulator - Euro Truck Simulator 1.webp",
+    "titulo": "Euro Truck Simulator 1",
+    "imagen": "images/Truck Simulator 2 - Euro Truck Simulator 1.webp",
     "plataforma": "PC",
     "anio": "2008",
     "genero": "SIM",
-    "abreviatura": "ets",
+    "abreviatura": "Truck Simulator",
     "update": "---",
     "tamano": "125 MB",
     "precio": "50 Cup",
@@ -19982,12 +19983,12 @@
   },
   {
     "id": 802,
-    "titulo": "Truck Simulator - Euro Truck Simulator 2",
-    "imagen": "images/Truck Simulator - Euro Truck Simulator 2.webp",
+    "titulo": "Euro Truck Simulator 2",
+    "imagen": "images/Truck Simulator 3 - Euro Truck Simulator 2.webp",
     "plataforma": "PC",
     "anio": "2012",
     "genero": "SIM",
-    "abreviatura": "ets2",
+    "abreviatura": "Truck Simulator",
     "update": "(16/06/2026)",
     "tamano": "15 GB",
     "precio": "100 Cup",
@@ -20008,11 +20009,12 @@
   },
   {
     "id": 803,
-    "titulo": "Truck Simulator - Heavy Cargo The Truck Simulator",
-    "imagen": "images/Truck Simulator - Heavy Cargo The Truck Simulator.webp",
+    "titulo": "Heavy Cargo The Truck Simulator",
+    "imagen": "images/Truck Simulator 5 - Heavy Cargo The Truck Simulator.webp",
     "plataforma": "PC",
     "anio": "2024",
     "genero": "SIM",
+    "abreviatura": "Truck Simulator",
     "update": "(17/04/2025)",
     "tamano": "4.6 GB",
     "precio": "50 Cup",
@@ -21506,8 +21508,8 @@
   },
   {
     "id": 530,
-    "titulo": "Octopath Traveler II",
-    "imagen": "images/Octopath Traveler II.webp",
+    "titulo": "Octopath Traveler 2",
+    "imagen": "images/Octopath Traveler 2.webp",
     "plataforma": "PC",
     "anio": "2023",
     "genero": "JRPG/ADV",
@@ -21607,7 +21609,7 @@
   {
     "id": 852,
     "titulo": "Halo Campaign Evolved",
-    "imagen": "images/Halo Campaign Evolved.webp",
+    "imagen": "images/Halo New Campaign Evolved.webp",
     "plataforma": "PC",
     "anio": "2026",
     "genero": "FPS/ACT/CF",
@@ -21882,7 +21884,7 @@
   {
     "id": 862,
     "titulo": "Pokémon Scarlet-Violet",
-    "imagen": "images/Pokémon Scarlet-Violet.webp",
+    "imagen": "images/Pokémon 8 Scarlet-Violet.webp",
     "plataforma": "PC",
     "anio": "2022",
     "genero": "JRPG/OW",
@@ -21907,7 +21909,7 @@
   {
     "id": 863,
     "titulo": "Pokémon Sword-Shield",
-    "imagen": "images/Pokémon Sword-Shield.webp",
+    "imagen": "images/Pokémon 7 Sword-Shield.webp",
     "plataforma": "PC",
     "anio": "2019",
     "genero": "JRPG",
@@ -22084,7 +22086,7 @@
   {
     "id": 870,
     "titulo": "Warhammer 40000 Space Marine",
-    "imagen": "images/Warhammer 40000 Space Marine.webp",
+    "imagen": "images/Warhammer 40000 Space Marine 1.webp",
     "plataforma": "PC",
     "anio": "2011",
     "genero": "TPS/ACT/CF",
@@ -22109,7 +22111,7 @@
   {
     "id": 871,
     "titulo": "Warhammer 40000 Space Marine Master Crafted Edition",
-    "imagen": "images/Warhammer 40000 Space Marine Master Crafted Edition.webp",
+    "imagen": "images/Warhammer 40000 Space Marine 1 Master Crafted Edition.webp",
     "plataforma": "PC",
     "anio": "2026",
     "genero": "TPS/ACT/CF",
@@ -22786,7 +22788,7 @@
   {
     "id": 898,
     "titulo": "Halo Wars Definitive Edition",
-    "imagen": "images/Halo Wars Definitive Edition.webp",
+    "imagen": "images/Halo Wars 1 Definitive Edition.webp",
     "plataforma": "PC",
     "anio": "2017",
     "genero": "RTS/CF",
@@ -23088,7 +23090,7 @@
   {
     "id": 910,
     "titulo": "Resonance A Plague Tale Legacy",
-    "imagen": "images/A Plague Tale 3 Legacy Resonance.webp",
+    "imagen": "images/Resonance A Plague Tale Legacy.webp",
     "plataforma": "PC",
     "anio": "2026",
     "genero": "ACT/ADV",
@@ -23466,7 +23468,7 @@
   {
     "id": 140,
     "titulo": "Total War ROME Remastered",
-    "imagen": "images/Total War ROME Remastered.webp",
+    "imagen": "images/Total War ROME 1 Remastered.webp",
     "plataforma": "PC",
     "anio": "2021",
     "genero": "RTS",
@@ -23563,7 +23565,7 @@
       "images/gameplay/God of War 3 Remastered/3.webp",
       "images/gameplay/God of War 3 Remastered/4.webp"
     ],
-    "abreviatura": "god"
+    "abreviatura": "gow"
   },
   {
     "id": 271,
@@ -23821,7 +23823,34 @@
       "images/gameplay/MADiSON/4.webp"
     ],
     "abreviatura": "MADiSON"
+  },
+  {
+    "id": 935,
+    "titulo": "Silent Hill Townfall",
+    "imagen": "images/Silent Hill Townfall.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "HOR/ADV/ACT/SURVH",
+    "update": "(28/10/2026)",
+    "tamano": "47 GB",
+    "precio": "200 Cup",
+    "descripcion": "Juego de terror psicológico en primera persona ambientado en 1996. Simon Ordell regresa a la remota isla escocesa de St. Amelia para descubrir los secretos de su pasado. Explora calles cubiertas de niebla, utiliza un televisor portátil CRTV para captar señales extrañas, resuelve puzles y evita criaturas mientras desentrañas una historia inquietante.",
+    "SO": "Windows 11 64 bits",
+    "Procesador": "Core i7-8700K / Ryzen 5 3600",
+    "RAM": "16 GB",
+    "Gráficos": "RTX 2060 Super / RX 6600",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Silent Hill Townfall/1.webp",
+      "images/gameplay/Silent Hill Townfall/2.webp",
+      "images/gameplay/Silent Hill Townfall/3.webp",
+      "images/gameplay/Silent Hill Townfall/4.webp"
+    ],
+    "abreviatura": "SH"
   }
+
 
 
 
