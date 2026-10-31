@@ -153,9 +153,9 @@ function eliminarElemento(e) {
     if (!boton) return;
 
     e.preventDefault();
+    e.stopPropagation();
 
     const id = Number(boton.dataset.id);
-
     carrito = carrito.filter(juego => juego.id !== id);
 
     renderizarCarrito();
