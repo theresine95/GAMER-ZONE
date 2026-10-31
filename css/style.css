@@ -3572,7 +3572,9 @@ LÍNEA VERDE
 
 .hero-line{
 
-    width:400px;
+    width:100%;
+
+    max-width:400px;
 
     margin:10px auto 0;
 
@@ -4260,34 +4262,26 @@ TÍTULO
 
 
 
+/*=====================================
+    CORRECCIÓN DE ANCHO EN MÓVILES
+=====================================*/
 
-
-@media (max-width:412px){
-
-    .menu{
-        width: 99%;
-        margin-left: 0px;
-    }
-
-}
-
-
-
-@media (max-width:393px){
+@media (max-width:767px){
 
     .menu{
-        width: 98%;
-        margin-left: 0px;
-    }
 
-}
+        width:100%;
 
+        max-width:100vw;
 
-@media (max-width:360px){
+        left:0;
 
-    .menu{
-        width: 90%;
-        margin-left: -4px;
+        right:0;
+
+        margin:0;
+
+        box-sizing:border-box;
+
     }
 
 }
