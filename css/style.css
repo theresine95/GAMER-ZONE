@@ -4255,7 +4255,21 @@ TÍTULO
 
 
 
-@media (max-width:400px){
+
+
+
+@media (max-width:412px){
+
+    .menu{
+        width: 100%;
+        margin-left: 0px;
+    }
+
+}
+
+
+
+@media (max-width:393px){
 
     .menu{
         width: 98%;
