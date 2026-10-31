@@ -3029,9 +3029,9 @@ LOGO
 
 .logo img{
 
-    width:170px;
+    width:160px;
 
-    height: 90%;
+    height: 80%;
 
 }
 
@@ -4255,3 +4255,13 @@ TÍTULO
 
 
 
+@media (max-width:400px){
+
+    .menu{
+        width: 88%;
+        margin-left: 0;
+    }
+
+    
+    
+}
