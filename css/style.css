@@ -4258,12 +4258,20 @@ TÍTULO
 @media (max-width:400px){
 
     .menu{
+        width: 98%;
+        margin-left: 0px;
+    }
+
+}
+
+
+@media (max-width:360px){
+
+    .menu{
         width: 90%;
         margin-left: -4px;
     }
 
-    
-    
 }
 
 
