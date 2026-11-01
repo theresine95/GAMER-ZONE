@@ -4288,4 +4288,94 @@ TÍTULO
 
 
 
+/*========================================
+    ENVÍO A DOMICILIO - CARRITO
+========================================*/
 
+.carrito-envio {
+    width: 100%;
+    margin-top: 10px;
+    color: #ffffff;
+}
+
+.carrito-envio-titulo {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+/* Opciones SÍ / NO */
+
+.menu .carrito-envio-opciones label {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-right: 20px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.carrito-envio-opciones input[type="radio"] {
+    width: 16px;
+    height: 16px;
+    margin: 0;
+    accent-color: #9bce21;
+    cursor: pointer;
+}
+
+/* Campos del domicilio */
+
+.datos-domicilio {
+    margin-top: 12px;
+}
+
+.datos-domicilio[hidden] {
+    display: none !important;
+}
+
+.menu .campo-domicilio label {
+    display: block;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.campo-domicilio {
+    margin-bottom: 9px;
+}
+
+.campo-domicilio input,
+.campo-domicilio textarea {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #9bce21;
+    border-radius: 5px;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    resize: vertical;
+}
+
+.aviso-costo-domicilio {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 8px;
+    text-align: center;
+}
+
+
+
+/* CENTRAR OPCIONES SÍ / NO */
+
+.carrito-envio-opciones {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}

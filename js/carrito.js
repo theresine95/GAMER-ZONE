@@ -42,6 +42,41 @@ function iniciarCarrito() {
     btnEnviarWhatsApp =
     document.getElementById("enviar-whatsapp");
 
+
+    // Opciones de envío a domicilio
+    const opcionEnvioSi =
+        document.getElementById("envio-domicilio-si");
+
+    const opcionEnvioNo =
+        document.getElementById("envio-domicilio-no");
+
+    if (opcionEnvioSi && opcionEnvioNo) {
+
+        opcionEnvioSi.removeEventListener(
+            "change",
+            actualizarOpcionesDomicilio
+        );
+
+        opcionEnvioNo.removeEventListener(
+            "change",
+            actualizarOpcionesDomicilio
+        );
+
+        opcionEnvioSi.addEventListener(
+            "change",
+            actualizarOpcionesDomicilio
+        );
+
+        opcionEnvioNo.addEventListener(
+            "change",
+            actualizarOpcionesDomicilio
+        );
+
+        actualizarOpcionesDomicilio();
+
+    }
+
+
     imgCarrito =
         document.getElementById("img-carrito") ||
         document.getElementById("img-carrito-detalle");
@@ -81,6 +116,33 @@ function iniciarCarrito() {
     cargarLocalStorage();
 
 }
+
+
+function actualizarOpcionesDomicilio() {
+
+    const opcionSi =
+        document.getElementById("envio-domicilio-si");
+
+    const datosDomicilio =
+        document.getElementById("datos-domicilio");
+
+    const botonEnviar =
+        document.getElementById("enviar-whatsapp");
+
+    if (!opcionSi || !datosDomicilio || !botonEnviar) {
+        return;
+    }
+
+    const envioDomicilio = opcionSi.checked;
+
+    datosDomicilio.hidden = !envioDomicilio;
+
+    botonEnviar.textContent = envioDomicilio
+        ? "📲 HACER PEDIDO"
+        : "📲 ENVIAR A WHATSAPP";
+
+}
+
 
 // ==========================
 // AGREGAR AL CARRITO
@@ -471,6 +533,7 @@ function actualizarBotones() {
 // ENVIAR CARRITO A WHATSAPP
 // ==========================
 
+
 function enviarCarritoWhatsApp() {
 
     if (carrito.length === 0) {
@@ -510,7 +573,45 @@ function enviarCarritoWhatsApp() {
 
     mensaje += "━━━━━━━━━━━━━━\n";
 
-    mensaje += "Pedido enviado desde Gamer Zone.";
+    const opcionEnvioSi =
+        document.getElementById("envio-domicilio-si");
+
+    if (opcionEnvioSi && opcionEnvioSi.checked) {
+
+        const nombre =
+            document.getElementById("nombre-domicilio")?.value.trim() || "";
+
+        const direccion =
+            document.getElementById("direccion-domicilio")?.value.trim() || "";
+
+        const telefonoCliente =
+            document.getElementById("telefono-domicilio")?.value.trim() || "";
+
+        const datosDomicilio = [];
+
+        if (nombre) {
+            datosDomicilio.push(`Nombre: ${nombre}`);
+        }
+
+        if (direccion) {
+            datosDomicilio.push(`Dirección: ${direccion}`);
+        }
+
+        if (telefonoCliente) {
+            datosDomicilio.push(`Teléfono: ${telefonoCliente}`);
+        }
+
+        if (datosDomicilio.length > 0) {
+
+            mensaje += "\n" + datosDomicilio.join("\n");
+
+        }
+
+    } else {
+
+        mensaje += "Pedido enviado desde Gamer Zone.";
+
+    }
 
     const telefono = "5356830015";
 
@@ -523,4 +624,5 @@ function enviarCarritoWhatsApp() {
     window.open(url, "_blank");
 
 }
+
 
