@@ -4379,3 +4379,20 @@ TÍTULO
     align-items: center;
     gap: 25px;
 }
+
+
+/* SCROLL INTERNO DE LOS CAMPOS DE ENVÍO EN MÓVILES */
+@media (max-width: 767px) {
+
+    #carrito .datos-domicilio:not([hidden]) {
+
+        max-height: 30dvh;
+        overflow-y: auto;
+
+        overscroll-behavior: contain;
+        -webkit-overflow-scrolling: touch;
+
+        padding-right: 8px;
+    }
+
+}

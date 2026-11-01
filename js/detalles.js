@@ -309,6 +309,91 @@ function crearMeta(juego){
 
                     </table>
 
+                    <!-- ENVÍO A DOMICILIO -->
+
+    <div class="carrito-envio">
+
+        <p class="carrito-envio-titulo">
+            ENVÍO A DOMICILIO?
+        </p>
+
+        <div class="carrito-envio-opciones">
+
+            <label>
+                <input
+                    type="radio"
+                    name="envio-domicilio"
+                    id="envio-domicilio-si"
+                    value="si">
+                SÍ
+            </label>
+
+            <label>
+                <input
+                    type="radio"
+                    name="envio-domicilio"
+                    id="envio-domicilio-no"
+                    value="no"
+                    checked>
+                NO
+            </label>
+
+        </div>
+
+        <!-- DATOS DEL DOMICILIO -->
+
+        <div
+            id="datos-domicilio"
+            class="datos-domicilio"
+            hidden>
+
+            <div class="campo-domicilio">
+
+                <label for="nombre-domicilio">
+                    Nombre:
+                </label>
+
+                <input
+                    type="text"
+                    id="nombre-domicilio"
+                    placeholder="Nombre del cliente">
+
+            </div>
+
+            <div class="campo-domicilio">
+
+                <label for="direccion-domicilio">
+                    Dirección:
+                </label>
+
+                <textarea
+                    id="direccion-domicilio"
+                    placeholder="Dirección de entrega"
+                    rows="2"></textarea>
+
+            </div>
+
+            <div class="campo-domicilio">
+
+                <label for="telefono-domicilio">
+                    Teléfono:
+                </label>
+
+                <input
+                    type="tel"
+                    id="telefono-domicilio"
+                    placeholder="Teléfono de contacto">
+
+            </div>
+
+            <p class="aviso-costo-domicilio">
+                * EL ENVÍO A DOMICILIO TIENE COSTO ADICIONAL *
+            </p>
+
+        </div>
+
+    </div>
+
                      <!-- BOTÓN WHATSAPP -->
 
                     <div class="carrito-whatsapp">
