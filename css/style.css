@@ -4386,7 +4386,7 @@ TÍTULO
 
     #carrito .datos-domicilio:not([hidden]) {
 
-        max-height: 30dvh;
+        max-height: 25dvh;
         overflow-y: auto;
 
         overscroll-behavior: contain;
