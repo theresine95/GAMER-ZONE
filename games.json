@@ -23849,6 +23849,31 @@
       "images/gameplay/Silent Hill Townfall/4.webp"
     ],
     "abreviatura": "SH"
+  },
+  {
+    "id": 935,
+    "titulo": "Mortal Shell 2",
+    "imagen": "images/Mortal Shell 2.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "ACT/RPG/SL/ADV",
+    "update": "(30/10/2026)",
+    "tamano": "65 GB",
+    "precio": "250 Cup",
+    "descripcion": "Secuela de acción y RPG soulslike desarrollada por Cold Symmetry. Encarnas al Heraldo, un guerrero capaz de poseer los cuerpos de combatientes caídos y utilizar sus habilidades. Explora un mundo oscuro interconectado, domina combates exigentes, descubre armas y supera más de 80 mazmorras mientras intentas recuperar los huevos robados del Undermether.",
+    "SO": "Windows 10/11 64 bits",
+    "Procesador": "i7-10700K / Ryzen 5 3600",
+    "RAM": "16 GB",
+    "Gráficos": "RTX 2060 Super / RX 6600",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "Mortal Shell II: Devout Edition Upgrade",
+    "imagenes": [
+      "images/gameplay/Mortal Shell 2/1.webp",
+      "images/gameplay/Mortal Shell 2/2.webp",
+      "images/gameplay/Mortal Shell 2/3.webp",
+      "images/gameplay/Mortal Shell 2/4.webp"
+    ]
   }
 
 
