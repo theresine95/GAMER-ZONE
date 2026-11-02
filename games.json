@@ -23874,6 +23874,110 @@
       "images/gameplay/Mortal Shell 2/3.webp",
       "images/gameplay/Mortal Shell 2/4.webp"
     ]
+  },
+  {
+    "id": 937,
+    "titulo": "LEGO Harry Potter Collection",
+    "imagen": "images/LEGO Harry Potter Collection.webp",
+    "plataforma": "PC",
+    "anio": "2024",
+    "genero": "ACT/ADV/FAM",
+    "update": "(12/06/2026)",
+    "tamano": "13 GB",
+    "precio": "100 Cup",
+    "descripcion": "Colección remasterizada que reúne LEGO Harry Potter: Years 1-4 y LEGO Harry Potter: Years 5-7. Revive los acontecimientos de las ocho películas explorando Hogwarts y otros lugares del mundo mágico, aprendiendo hechizos, preparando pociones, resolviendo puzles y combatiendo enemigos en una aventura repleta de humor y piezas LEGO.",
+    "SO": "Windows 10 64 bits",
+    "Procesador": "Core i5-4590 / Ryzen 3 1200",
+    "RAM": "4 GB",
+    "Gráficos": "GTX 650 / Radeon HD 7850",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "LEGO Harry Potter: Years 1-4, LEGO Harry Potter: Years 5-7, Character Pack, Spell Pack",
+    "imagenes": [
+      "images/gameplay/LEGO Harry Potter Collection/1.webp",
+      "images/gameplay/LEGO Harry Potter Collection/2.webp",
+      "images/gameplay/LEGO Harry Potter Collection/3.webp",
+      "images/gameplay/LEGO Harry Potter Collection/4.webp"
+    ],
+    "abreviatura": "LEGO"
+  },
+  {
+    "id": 938,
+    "titulo": "LEGO Marvel Super Heroes",
+    "imagen": "images/LEGO Marvel Super Heroes.webp",
+    "plataforma": "PC",
+    "anio": "2013",
+    "genero": "ACT/ADV/COOP/FAM",
+    "update": "---",
+    "tamano": "5 GB",
+    "precio": "100 Cup",
+    "descripcion": "Aventura de acción protagonizada por los superhéroes y villanos de Marvel, con el humor característico de LEGO. Controla personajes como Spider-Man, Iron Man, Hulk y Capitán América mientras recorres Manhattan, reúnes piezas, resuelves puzles y combates para detener los planes de Loki y otros enemigos que amenazan el mundo.",
+    "SO": "Windows XP SP3 o superior",
+    "Procesador": "Pentium Dual Core 2 GHz",
+    "RAM": "2 GB",
+    "Gráficos": "GeForce 7600 GS / X1950 Pro",
+    "DirectX": "10",
+    "notas": "---",
+    "incluye": "Asgard Pack, Super Pack",
+    "imagenes": [
+      "images/gameplay/LEGO Marvel Super Heroes/1.webp",
+      "images/gameplay/LEGO Marvel Super Heroes/2.webp",
+      "images/gameplay/LEGO Marvel Super Heroes/3.webp",
+      "images/gameplay/LEGO Marvel Super Heroes/4.webp"
+    ],
+    "abreviatura": "LEGO"
+  },
+  {
+    "id": 939,
+    "titulo": "LEGO Marvel Super Heroes 2",
+    "imagen": "images/LEGO Marvel Super Heroes 2.webp",
+    "plataforma": "PC",
+    "anio": "2017",
+    "genero": "ACT/ADV/COOP/FAM",
+    "update": "---",
+    "tamano": "23 GB",
+    "precio": "150 Cup",
+    "descripcion": "Aventura de acción LEGO ambientada en el universo Marvel. Los héroes deben enfrentarse a Kang el Conquistador y recorrer Chronopolis, una ciudad que reúne lugares de distintas épocas y dimensiones. Cambia entre numerosos personajes, aprovecha sus habilidades, resuelve puzles y participa en combates y desafíos en solitario o en cooperativo local.",
+    "SO": "Windows 7/8/10 64 bits",
+    "Procesador": "Core i3-3240 / Athlon X4 740",
+    "RAM": "4 GB",
+    "Gráficos": "GTX 460 / Radeon HD 5850",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "Classic Guardians of the Galaxy Character Pack, Agents of Atlas Character Pack, Out of Time Character Pack, Guardians of the Galaxy Vol. 2 Movie Character and Level Pack, Champions Character Pack, Black Panther Movie Character and Level Pack, Cloak and Dagger Character and Level Pack, Runaways Character and Level Pack, Avengers: Infinity War Movie Character and Level Pack, Ant-Man and The Wasp Movie Character and Level Pack",
+    "imagenes": [
+      "images/gameplay/LEGO Marvel Super Heroes 2/1.webp",
+      "images/gameplay/LEGO Marvel Super Heroes 2/2.webp",
+      "images/gameplay/LEGO Marvel Super Heroes 2/3.webp",
+      "images/gameplay/LEGO Marvel Super Heroes 2/4.webp"
+    ],
+    "abreviatura": "LEGO"
+  },
+  {
+    "id": 940,
+    "titulo": "LEGO Worlds",
+    "imagen": "images/LEGO Worlds.webp",
+    "plataforma": "PC",
+    "anio": "2017",
+    "genero": "SB/ADV/COOP/FAM",
+    "update": "---",
+    "tamano": "3 GB",
+    "precio": "50 Cup",
+    "descripcion": "Juego de exploración, construcción y creatividad en mundos generados mediante procedimientos y formados por piezas LEGO. Recorre entornos variados, descubre tesoros, desbloquea vehículos y criaturas, modifica el terreno y construye estructuras a tu gusto. Permite experimentar libremente y compartir aventuras con otros jugadores mediante sus modalidades multijugador.",
+    "SO": "Windows 7 64 bits",
+    "Procesador": "Intel Dual Core 2 GHz",
+    "RAM": "4 GB",
+    "Gráficos": "GPU 512 MB Shader Model 3.0",
+    "DirectX": "9.0",
+    "notas": "---",
+    "incluye": "Classic Space Pack, Monster Pack, Showcase Collection Pack 1, Showcase Collection Pack 2",
+    "imagenes": [
+      "images/gameplay/LEGO Worlds/1.webp",
+      "images/gameplay/LEGO Worlds/2.webp",
+      "images/gameplay/LEGO Worlds/3.webp",
+      "images/gameplay/LEGO Worlds/4.webp"
+    ],
+    "abreviatura": "LEGO"
   }
 
 
