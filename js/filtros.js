@@ -77,7 +77,7 @@ function llenarSelectorGeneros(juegos) {
     );
 
     select.replaceChildren(
-        new Option("TODOS", "Todos")
+        new Option("Todos los géneros", "Todos")
     );
 
     generos.forEach(genero => {
