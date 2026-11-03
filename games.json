@@ -23978,6 +23978,31 @@
       "images/gameplay/LEGO Worlds/4.webp"
     ],
     "abreviatura": "LEGO"
+  },
+  {
+    "id": 941,
+    "titulo": "Disney Infinity Gold Collection",
+    "imagen": "images/Disney Infinity Gold Collection.webp",
+    "plataforma": "PC",
+    "anio": "2016",
+    "genero": "ACT/ADV/COOP",
+    "update": "---",
+    "tamano": "25 GB",
+    "precio": "150 Cup",
+    "descripcion": "Juego de acción y aventura que reúne las experiencias de Disney Infinity en una colección para PC. Explora mundos inspirados en Disney, Pixar, Marvel y Star Wars, completa misiones, combate enemigos y utiliza personajes con habilidades únicas. Incluye contenido de las distintas ediciones de Disney Infinity y permite disfrutar de aventuras con figuras y personajes virtuales.",
+    "SO": "Windows 7 64 bits",
+    "Procesador": "Intel Core 2 Duo 2.2 GHz",
+    "RAM": "2 GB",
+    "Gráficos": "GeForce 8600 GT 256 MB",
+    "DirectX": "9.0c",
+    "notas": "---",
+    "incluye": "Disney Infinity 1.0, Disney Infinity 2.0, Disney Infinity 3.0", 
+    "imagenes": [
+      "images/gameplay/Disney Infinity Gold Collection/1.webp",
+      "images/gameplay/Disney Infinity Gold Collection/2.webp",
+      "images/gameplay/Disney Infinity Gold Collection/3.webp",
+      "images/gameplay/Disney Infinity Gold Collection/4.webp"
+    ]
   }
 
 

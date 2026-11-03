@@ -4381,32 +4381,37 @@ TÍTULO
 }
 
 
-/* SCROLL INTERNO DE LOS CAMPOS DE ENVÍO EN MÓVILES */
+
+
+
+
+
+
+/* =========================================
+   SCROLL GENERAL DEL CARRITO - INDEX.HTML
+========================================= */
+
+#carrito {
+    max-height: 90vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    overscroll-behavior: contain;
+    scrollbar-gutter: stable;
+}
+
+
+
+
 @media (max-width: 767px) {
-
-    #carrito .datos-domicilio:not([hidden]) {
-
-        max-height: 25dvh;
+    #carrito {
+        max-height: 75dvh;
+        max-height: 75vh;
         overflow-y: auto;
-
-        overscroll-behavior: contain;
-        -webkit-overflow-scrolling: touch;
-
-        padding-right: 8px;
+        overflow-x: hidden;
     }
-
 }
 
 
 
 
-@media (max-width: 290px) {
-
-    .carrito-lista{
-
-    max-height:180px;
-
-    }
-
-}
 
