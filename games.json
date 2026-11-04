@@ -24003,6 +24003,32 @@
       "images/gameplay/Disney Infinity Gold Collection/3.webp",
       "images/gameplay/Disney Infinity Gold Collection/4.webp"
     ]
+  },
+  {
+    "id": 942,
+    "titulo": "Code Vein 2",
+    "imagen": "images/Code Vein 2.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "ACT/RPG/SL",
+    "update": "(30/04/2026)",
+    "tamano": "62 GB",
+    "precio": "250 Cup",
+    "descripcion": "RPG de acción con combates intensos, exploración y mecánicas soulslike en un mundo postapocalíptico donde humanos y resucitados conviven. Los jugadores encarnan a un cazador de resucitados que debe viajar entre el pasado y el presente junto a Lou, una joven capaz de manipular el tiempo, para impedir la destrucción del mundo. Combate contra criaturas monstruosas, desarrolla habilidades mediante códigos de sangre, utiliza diferentes armas y establece vínculos con compañeros que participan en las batallas.",
+    "SO": "Windows 11 64 bits",
+    "Procesador": "Core i5-9600K / Ryzen 5 3600",
+    "RAM": "16 GB",
+    "Gráficos": "GTX 1660 SUPER / RX 5700",
+    "DirectX": "12",
+    "notas": "Se recomienda SSD",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Code Vein 2/1.webp",
+      "images/gameplay/Code Vein 2/2.webp",
+      "images/gameplay/Code Vein 2/3.webp",
+      "images/gameplay/Code Vein 2/4.webp"
+    ],
+    "abreviatura": "CV"
   }
 
 
