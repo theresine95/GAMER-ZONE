@@ -12163,7 +12163,7 @@
   },
   {
     "id": 487,
-    "titulo": "Monster Hunter Stories 2",
+    "titulo": "Monster Hunter Stories 2: Wings of Ruin",
     "imagen": "images/Monster Hunter Stories 2.webp",
     "plataforma": "PC",
     "anio": "2021",
@@ -12602,7 +12602,7 @@
   {
     "id": 504,
     "titulo": "Need For Speed Carbon",
-    "imagen": "images/Need For Speed 04 Carbon.webp",
+    "imagen": "images/Need for Speed 04 Carbon.webp",
     "plataforma": "PC",
     "anio": "2006",
     "genero": "RACE",
@@ -24079,6 +24079,31 @@
       "images/gameplay/My Time At Portia/2.webp",
       "images/gameplay/My Time At Portia/3.webp",
       "images/gameplay/My Time At Portia/4.webp"
+    ]
+  },
+  {
+    "id": 945,
+    "titulo": "Suikoden I and II HD Remaster",
+    "imagen": "images/Suikoden I and II HD Remaster.webp",
+    "plataforma": "PC",
+    "anio": "2025",
+    "genero": "JRPG/ADV",
+    "update": "(22/10/2025)",
+    "tamano": "7 GB",
+    "precio": "100 Cup",
+    "descripcion": "Colección remasterizada en HD de los clásicos Suikoden I y Suikoden II, dos RPG japoneses centrados en historias de guerra, amistad, traición y destino. En Suikoden I, lidera un ejército de liberación contra un imperio corrupto y reúne a los 108 Estrellas del Destino para cambiar el rumbo de la historia. En Suikoden II, acompaña a un joven soldado y a su amigo Jowy en medio de un conflicto entre reinos, donde las decisiones, las alianzas y las traiciones determinarán el futuro de sus naciones. Ambos juegos ofrecen combates por turnos, exploración, personajes memorables y una extensa narrativa.",
+    "SO": "Windows 10 64 bits",
+    "Procesador": "Intel Core i5-4440 3.3GHz",
+    "RAM": "8 GB",
+    "Gráficos": "NVIDIA GTX 1050",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Suikoden I and II HD Remaster/1.webp",
+      "images/gameplay/Suikoden I and II HD Remaster/2.webp",
+      "images/gameplay/Suikoden I and II HD Remaster/3.webp",
+      "images/gameplay/Suikoden I and II HD Remaster/4.webp"
     ]
   }
 
