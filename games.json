@@ -24146,7 +24146,7 @@
     "SO": "Windows 10/11 64 bits",
     "Procesador": "CPU x64 con soporte FMA",
     "RAM": "16 GB",
-    "Gráficos": "Vulkan 1.1 / 8 GB VRAM",
+    "Gráficos": "Vulkan 1.1 / 4GB VRAM",
     "DirectX": "Vulkan 1.1",
     "notas": "Se recomienda SSD",
     "notas_adicionales": "Lichii todavía está en desarrollo experimental. Puede presentar errores, caídas de rendimiento y fallos gráficos. La compatibilidad con GPU AMD todavía es irregular y requiere mejoras de optimización. Se recomienda utilizar las versiones más recientes del emulador.",
