@@ -15,6 +15,7 @@ function normalizar(texto) {
 
 const ESTRENOS_IDS = [
 
+947,
 931,
 925,
 927,
@@ -45,8 +46,7 @@ const ESTRENOS_IDS = [
 489,
 561,
 207,
-82,
-423
+82
 
 ];
 

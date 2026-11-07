@@ -17,7 +17,7 @@ const NOMBRES_GENEROS = {
     HNS: "Hack and slash",
     HOR: "Terror",
     IND: "Indie",
-    JRPG: "RPG japonés",
+    JRPG: "RPG japonés (JRPG)",
     MV: "Metroidvania",
     MUSOU: "Musou",
     OW: "Mundo abierto",

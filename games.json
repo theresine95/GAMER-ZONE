@@ -24105,7 +24105,60 @@
       "images/gameplay/Suikoden I and II HD Remaster/3.webp",
       "images/gameplay/Suikoden I and II HD Remaster/4.webp"
     ]
+  },
+  {
+    "id": 946,
+    "titulo": "The Legend of Zelda Ocarina of Time",
+    "imagen": "images/The Legend of Zelda Ocarina of Time.webp",
+    "plataforma": "PC",
+    "anio": "1998",
+    "genero": "ADV/ACT",
+    "update": "(14/04/2026)",
+    "tamano": "32 MB",
+    "precio": "50 Cup",
+    "descripcion": "Port nativo no oficial para PC desarrollado por el proyecto Ship of Harkinian, basado en la versión original de Nintendo 64. No requiere emular la consola y ofrece mejoras gráficas, resolución panorámica, frecuencia de imágenes desbloqueada, controles personalizables y numerosas opciones adicionales. Acompaña a Link en una aventura épica por el reino de Hyrule para detener a Ganondorf y evitar que se apodere de la Trifuerza. Explora mazmorras, resuelve acertijos, consigue objetos legendarios y viaja entre la niñez y la adultez de Link para salvar el reino.",
+    "SO": "Windows 10 64 bits",
+    "Procesador": "Dual Core 2.0 GHz",
+    "RAM": "2 GB",
+    "Gráficos": "OpenGL 3.3 / DirectX 11",
+    "DirectX": "11",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/The Legend of Zelda Ocarina of Time/1.webp",
+      "images/gameplay/The Legend of Zelda Ocarina of Time/2.webp",
+      "images/gameplay/The Legend of Zelda Ocarina of Time/3.webp",
+      "images/gameplay/The Legend of Zelda Ocarina of Time/4.webp"
+    ]
+  },
+  {
+    "id": 947,
+    "titulo": "The Legend of Zelda Ocarina of Time Remake",
+    "imagen": "images/The Legend of Zelda Ocarina of Time Remake.webp",
+    "plataforma": "PC",
+    "categoria": "Emulado",
+    "anio": "2026",
+    "genero": "ADV/ACT",
+    "update": "---",
+    "tamano": "25 GB",
+    "precio": "150 Cup",
+    "descripcion": "Versión remake de The Legend of Zelda: Ocarina of Time lanzada originalmente para Nintendo Switch 2 el 05/11/2026, ejecutada en PC mediante el emulador experimental de Nintendo Switch 2 Lichii. Presenta gráficos completamente renovados, escenarios reconstruidos, secuencias cinematográficas con voces, música orquestal, controles mejorados y una cámara modernizada. Acompaña nuevamente a Link en su viaje por Hyrule para detener a Ganondorf y proteger la Trifuerza. Explora un mundo fantástico lleno de mazmorras, secretos, criaturas y desafíos mientras viajas entre dos épocas de la vida del héroe.",
+    "SO": "Windows 10/11 64 bits",
+    "Procesador": "CPU x64 con soporte FMA",
+    "RAM": "16 GB",
+    "Gráficos": "Vulkan 1.1 / 8 GB VRAM",
+    "DirectX": "Vulkan 1.1",
+    "notas": "Se recomienda SSD",
+    "notas_adicionales": "Lichii todavía está en desarrollo experimental. Puede presentar errores, caídas de rendimiento y fallos gráficos. La compatibilidad con GPU AMD todavía es irregular y requiere mejoras de optimización. Se recomienda utilizar las versiones más recientes del emulador.",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/The Legend of Zelda Ocarina of Time Remake/1.webp",
+      "images/gameplay/The Legend of Zelda Ocarina of Time Remake/2.webp",
+      "images/gameplay/The Legend of Zelda Ocarina of Time Remake/3.webp",
+      "images/gameplay/The Legend of Zelda Ocarina of Time Remake/4.webp"
+    ]
   }
+
 
 
 
