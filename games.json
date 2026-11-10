@@ -24187,26 +24187,26 @@
   {
     "id": 949,
     "titulo": "Kung Fu Panda",
-    "imagen": "images/Final Fantasy XV.webp",
+    "imagen": "images/Kung Fu Panda.webp",
     "plataforma": "PC",
-    "anio": "2018",
-    "genero": "RPG/ACT/OW/ADV",
-    "update": "(28/10/2021)",
+    "anio": "2008",
+    "genero": "ACT/PLAT/ADV",
+    "update": "---",
     "tamano": "7.2 GB",
     "precio": "100 Cup",
-    "descripcion": "Final Fantasy XV es un RPG de acción y mundo abierto desarrollado por Square Enix. Sigue la historia de Noctis Lucis Caelum, príncipe heredero del reino de Lucis, quien emprende un viaje junto a sus tres amigos para recuperar su reino tras una invasión del imperio de Niflheim. Explora el vasto mundo de Eos, combate criaturas gigantescas, utiliza armas mágicas y domina un sistema de combate dinámico en tiempo real. Disfruta de una aventura centrada en la amistad, la exploración y el destino de los reinos. La Windows Edition incluye contenido adicional, mejoras gráficas y expansiones de historia.",
-    "SO": "Windows 7/8.1/10 64 bits",
-    "Procesador": "Core i5-2500 / FX-6100",
-    "RAM": "8 GB",
-    "Gráficos": "GTX 760 / GTX 1050 / R9 280",
-    "DirectX": "DirectX 11",
+    "descripcion": "Kung Fu Panda es un juego de acción y plataformas en 3D basado en la película de DreamWorks. Controla a Po, el panda que sueña con convertirse en el Guerrero Dragón, y acompáñalo en una aventura junto al Maestro Shifu y los Cinco Furiosos. Domina diferentes técnicas de kung fu, combate enemigos, supera obstáculos, explora escenarios variados y resuelve puzles mientras intentas detener al temible Tai Lung y proteger el Valle de la Paz.",
+    "SO": "Windows XP SP2",
+    "Procesador": "Pentium 4 2.4 GHz",
+    "RAM": "512 MB",
+    "Gráficos": "GeForce FX 5600 128 MB",
+    "DirectX": "DirectX 9.0c",
     "notas": "---",
-    "incluye": "Episode Gladiolus, Episode Prompto, Episode Ignis, Comrades, Booster Pack+, Holiday Pack+",
+    "incluye": "---",
     "imagenes": [
-      "images/gameplay/Final Fantasy XV/1.webp",
-      "images/gameplay/Final Fantasy XV/2.webp",
-      "images/gameplay/Final Fantasy XV/3.webp",
-      "images/gameplay/Final Fantasy XV/4.webp"
+      "images/gameplay/Kung Fu Panda/1.webp",
+      "images/gameplay/Kung Fu Panda/2.webp",
+      "images/gameplay/Kung Fu Panda/3.webp",
+      "images/gameplay/Kung Fu Panda/4.webp"
     ]
   }
 
