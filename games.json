@@ -24183,6 +24183,31 @@
       "images/gameplay/Final Fantasy XV/4.webp"
     ],
     "abreviatura": "ff"
+  },
+  {
+    "id": 949,
+    "titulo": "Kung Fu Panda",
+    "imagen": "images/Final Fantasy XV.webp",
+    "plataforma": "PC",
+    "anio": "2018",
+    "genero": "RPG/ACT/OW/ADV",
+    "update": "(28/10/2021)",
+    "tamano": "7.2 GB",
+    "precio": "100 Cup",
+    "descripcion": "Final Fantasy XV es un RPG de acción y mundo abierto desarrollado por Square Enix. Sigue la historia de Noctis Lucis Caelum, príncipe heredero del reino de Lucis, quien emprende un viaje junto a sus tres amigos para recuperar su reino tras una invasión del imperio de Niflheim. Explora el vasto mundo de Eos, combate criaturas gigantescas, utiliza armas mágicas y domina un sistema de combate dinámico en tiempo real. Disfruta de una aventura centrada en la amistad, la exploración y el destino de los reinos. La Windows Edition incluye contenido adicional, mejoras gráficas y expansiones de historia.",
+    "SO": "Windows 7/8.1/10 64 bits",
+    "Procesador": "Core i5-2500 / FX-6100",
+    "RAM": "8 GB",
+    "Gráficos": "GTX 760 / GTX 1050 / R9 280",
+    "DirectX": "DirectX 11",
+    "notas": "---",
+    "incluye": "Episode Gladiolus, Episode Prompto, Episode Ignis, Comrades, Booster Pack+, Holiday Pack+",
+    "imagenes": [
+      "images/gameplay/Final Fantasy XV/1.webp",
+      "images/gameplay/Final Fantasy XV/2.webp",
+      "images/gameplay/Final Fantasy XV/3.webp",
+      "images/gameplay/Final Fantasy XV/4.webp"
+    ]
   }
 
 
