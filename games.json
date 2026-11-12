@@ -24147,7 +24147,7 @@
   "RAM": "16 GB",
   "Gráficos": "Compatible con Vulkan 1.3 + VK_EXT_mesh_shader / 4 GB VRAM",
   "DirectX": "Vulkan 1.3",
-  "notas": "Hookshot es un port nativo experimental que recompila el código del juego para ejecutarlo directamente en PC. Requiere una GPU compatible con Vulkan 1.3 y Mesh Shaders (NVIDIA GTX 1650 o superior, AMD Radeon RX 6000 o superior o Intel Arc). Puede presentar errores, caídas de rendimiento, fallos gráficos y problemas de estabilidad. La compilación inicial y la preparación de shaders pueden requerir tiempo y recursos adicionales. Se recomienda utilizar las versiones más recientes de Hookshot y los controladores gráficos actualizados. Se recomienda SSD",
+  "notas": "Hookshot es un port nativo experimental que recompila el código del juego para ejecutarlo directamente en PC. Requiere una GPU compatible con Vulkan 1.3 y Mesh Shaders (NVIDIA GTX 1650 o superior, AMD Radeon RX 6000 o superior o Intel Arc). Puede presentar errores, caídas de rendimiento, fallos gráficos y problemas de estabilidad si no se cumplen los requisitos mínimos. La compilación inicial y la preparación de shaders pueden requerir tiempo y recursos adicionales. Se recomienda utilizar las versiones más recientes de Hookshot y los controladores gráficos actualizados. Se recomienda SSD",
   "incluye": "---",
   "imagenes": [
     "images/gameplay/The Legend of Zelda Ocarina of Time Remake/1.webp",
