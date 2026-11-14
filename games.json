@@ -23732,7 +23732,7 @@
     "tamano": "67 GB",
     "precio": "250 Cup",
     "descripcion": "Call of Duty: Modern Warfare 4 es un videojuego de disparos en primera persona ambientado en un conflicto militar moderno. La historia transcurre durante una invasión de Corea del Norte a Corea del Sur, mientras un joven soldado surcoreano lucha por sobrevivir y el capitán Price emprende una misión encubierta.",
-    "SO": "Windows 10 64 bits",
+    "SO": "Windows 10 64 bits (NO funciona en version 22h2)",
     "Procesador": "Core i5-6600 / Ryzen 5 1400",
     "RAM": "8 GB",
     "Gráficos": "GTX 970 / Radeon RX 470",
@@ -24232,6 +24232,84 @@
       "images/gameplay/Castlevania Dominus Collection/4.webp"
     ],
     "abreviatura": "cv"
+  },
+  {
+    "id": 951,
+    "titulo": "Kingdom Rush 4 Vengeance",
+    "imagen": "images/Kingdom Rush 4 Vengeance.webp",
+    "plataforma": "PC",
+    "anio": "2020",
+    "genero": "TD",
+    "update": "(28/04/2025)",
+    "tamano": "0.9 GB",
+    "precio": "50 Cup",
+    "descripcion": "Kingdom Rush Vengeance es un juego de estrategia y defensa de torres en el que tomas el control de Vez'nan y su ejército oscuro para conquistar el reino. Construye torres, recluta héroes, mejora tus defensas y utiliza poderosas habilidades para detener las oleadas enemigas. Enfréntate a numerosos enemigos y jefes mientras recorres diferentes territorios en una campaña llena de desafíos.",
+    "SO": "Windows 7",
+    "Procesador": "Dual Core CPU",
+    "RAM": "4 GB",
+    "Graficos": "GPU OpenGL 3.0 512 MB",
+    "DirectX": "---",
+    "notas": "---",
+    "incluye": "Pirate Kings Campaign, Hammerhold Campaign",
+    "imagenes": [
+      "images/gameplay/Kingdom Rush 4 Vengeance/1.webp",
+      "images/gameplay/Kingdom Rush 4 Vengeance/2.webp",
+      "images/gameplay/Kingdom Rush 4 Vengeance/3.webp",
+      "images/gameplay/Kingdom Rush 4 Vengeance/4.webp"
+    ],
+    "abreviatura": "KR"
+  },
+  {
+    "id": 952,
+    "titulo": "Kingdom Rush 5 Alliance",
+    "imagen": "images/Kingdom Rush 5 Alliance.webp",
+    "plataforma": "PC",
+    "anio": "2024",
+    "genero": "TD",
+    "update": "(13/03/2026)",
+    "tamano": "1.5 GB",
+    "precio": "50 Cup",
+    "descripcion": "Kingdom Rush 5 Alliance es un juego de estrategia y defensa de torres donde los ejércitos de Linirea y las fuerzas oscuras deben unirse para combatir una amenaza común. Construye torres, combina sus habilidades y controla héroes de ambos bandos para detener enormes oleadas de enemigos. Supera campañas, derrota poderosos jefes y desarrolla estrategias para proteger el reino.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Dual Core CPU",
+    "RAM": "4 GB",
+    "Graficos": "GPU OpenGL 3.0 1 GB",
+    "DirectX": "---",
+    "notas": "---",
+    "incluye": "Colossal Dwarfare Campaign, Wukong's Journey Campaign, Dragon Wars Campaign",
+    "imagenes": [
+      "images/gameplay/Kingdom Rush 5 Alliance/1.webp",
+      "images/gameplay/Kingdom Rush 5 Alliance/2.webp",
+      "images/gameplay/Kingdom Rush 5 Alliance/3.webp",
+      "images/gameplay/Kingdom Rush 5 Alliance/4.webp"
+    ],
+    "abreviatura": "KR"
+  },
+  {
+    "id": 953,
+    "titulo": "Kingdom Rush 6 Genesis",
+    "imagen": "images/Kingdom Rush 6 Genesis.webp",
+    "plataforma": "PC",
+    "anio": "2026",
+    "genero": "TD",
+    "update": "---",
+    "tamano": "1.1 GB",
+    "precio": "50 Cup",
+    "descripcion": "Kingdom Rush 6 Genesis es un juego de estrategia y defensa de torres que regresa a los orígenes del reino de Linirea. Viaja al pasado para detener la corrupción de un joven Vez'nan antes de que se convierta en una amenaza. Construye defensas, controla héroes, combina torres y utiliza poderosos hechizos para resistir oleadas de enemigos en diferentes escenarios y campañas.",
+    "SO": "Windows 10 64-bit",
+    "Procesador": "Quad Core CPU",
+    "RAM": "8 GB",
+    "Graficos": "Intel UHD 600",
+    "DirectX": "---",
+    "notas": "---",
+    "incluye": "---",
+    "imagenes": [
+      "images/gameplay/Kingdom Rush 6 Genesis/1.webp",
+      "images/gameplay/Kingdom Rush 6 Genesis/2.webp",
+      "images/gameplay/Kingdom Rush 6 Genesis/3.webp",
+      "images/gameplay/Kingdom Rush 6 Genesis/4.webp"
+    ],
+    "abreviatura": "KR"
   }
 
 
