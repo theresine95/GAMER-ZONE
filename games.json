@@ -24310,6 +24310,31 @@
       "images/gameplay/Kingdom Rush 6 Genesis/4.webp"
     ],
     "abreviatura": "KR"
+  },
+  {
+    "id": 954,
+    "titulo": "Ancestors The Humankind Odyssey",
+    "imagen": "images/Ancestors The Humankind Odyssey.webp",
+    "plataforma": "PC",
+    "anio": "2019",
+    "genero": "ACT/ADV/SURV",
+    "update": "(14/09/2020)",
+    "tamano": "4.7 GB",
+    "precio": "50 Cup",
+    "descripcion": "Ancestors: The Humankind Odyssey es un juego de supervivencia, aventura y exploración en mundo abierto ambientado en África durante la prehistoria. Controla a un clan de primates ancestrales, explora territorios peligrosos, consigue recursos, fabrica herramientas y descubre nuevas habilidades para garantizar la supervivencia de tu especie. Evoluciona a través de generaciones, expande tu clan y participa en el largo proceso de la evolución humana.",
+    "SO": "Windows 7 SP1 64-bit",
+    "Procesador": "i5-2500K / Phenom II X6",
+    "RAM": "8 GB",
+    "Graficos": "GTX 760 4GB / HD 7950 3GB",
+    "DirectX": "DirectX 11",
+    "notas": "---",
+    "incluye": "Ancestors: The Humankind Odyssey Official Soundtrack",
+    "imagenes": [
+      "images/gameplay/Ancestors The Humankind Odyssey/1.webp",
+      "images/gameplay/Ancestors The Humankind Odyssey/2.webp",
+      "images/gameplay/Ancestors The Humankind Odyssey/3.webp",
+      "images/gameplay/Ancestors The Humankind Odyssey/4.webp"
+    ]
   }
 
 
