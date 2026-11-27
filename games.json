@@ -24334,6 +24334,31 @@
       "images/gameplay/Ancestors The Humankind Odyssey/3.webp",
       "images/gameplay/Ancestors The Humankind Odyssey/4.webp"
     ]
+  },
+  {
+    "id": 955,
+    "titulo": "Tempest Rising",
+    "imagen": "images/Tempest Rising.webp",
+    "plataforma": "PC",
+    "anio": "2025",
+    "genero": "RTS/ACT",
+    "update": "(10/07/2026)",
+    "tamano": "53 GB",
+    "precio": "200 Cup",
+    "descripcion": "Tempest Rising es un juego de estrategia en tiempo real (RTS) inspirado en los clásicos del género, ambientado en una Tierra alternativa devastada por una guerra nuclear. Controla a la Global Defense Force o a la Tempest Dynasty, construye bases, administra recursos y dirige ejércitos con unidades especializadas. Participa en dos campañas independientes con historias, misiones y facciones únicas, o enfréntate a otros jugadores en combates multijugador. La aparición de una misteriosa planta llamada Tempest será clave para descubrir los secretos de este mundo.",
+    "SO": "Windows 10/11 64-bit",
+    "Procesador": "i5-8600 / Ryzen 5 1600",
+    "RAM": "8 GB",
+    "Graficos": "GTX 1060 / RX 580",
+    "DirectX": "DirectX 11",
+    "notas": "Se recomienda SSD",
+    "incluye": "Tempest Rising Soundtrack, Tempest Rising - Digital Artbook, Tempest Rising - Map Editor",
+    "imagenes": [
+      "images/gameplay/Tempest Rising/1.webp",
+      "images/gameplay/Tempest Rising/2.webp",
+      "images/gameplay/Tempest Rising/3.webp",
+      "images/gameplay/Tempest Rising/4.webp"
+    ]
   }
   
 
